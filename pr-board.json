@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T21:12:46Z",
+ "generated": "2026-10-01T21:43:15Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -427,12 +427,6 @@
    "repo": "marcuspat/rustops",
    "number": 18,
    "title": "ci(bench): bootstrap the gh-pages dashboard \u2014 skip-fetch-gh-pages",
-   "mergedAt": "2026-09-30"
-  },
-  {
-   "repo": "marcuspat/rustops",
-   "number": 17,
-   "title": "ci(bench): named criterion bench targets \u2014 every broader selection hits libtest",
    "mergedAt": "2026-09-30"
   },
   {
