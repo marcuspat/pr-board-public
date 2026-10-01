@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T21:43:15Z",
+ "generated": "2026-10-01T22:12:52Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -27,16 +27,6 @@
    "updated": "2026-10-01",
    "g": "needs_work",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/marcuspat",
-   "number": 4,
-   "title": "docs: add Turbo Brain v2 to the Turbo Rig and Turbo-Flow stack tables",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-01",
-   "g": "unreviewed",
-   "note": "no gate review yet"
   },
   {
    "repo": "adventurewave-labs/GUI-LOP",
@@ -117,16 +107,6 @@
    "updated": "2026-09-30",
    "g": "unreviewed",
    "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/.github",
-   "number": 6,
-   "title": "docs: add the Turbo Rig and Turbo-Flow stack sections (incl. Turbo Brain v2)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-01",
-   "g": "unreviewed",
-   "note": "no gate review yet"
   },
   {
    "repo": "adventurewave-labs/awesome-agent-reliability",
@@ -301,6 +281,12 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/marcuspat",
+   "number": 4,
+   "title": "docs: add Turbo Brain v2 to the Turbo Rig and Turbo-Flow stack tables",
+   "mergedAt": "2026-10-01"
+  },
+  {
    "repo": "marcuspat/html-sites",
    "number": 16,
    "title": "(private repo)",
@@ -430,6 +416,30 @@
    "mergedAt": "2026-09-30"
   },
   {
+   "repo": "adventurewave-labs/.github",
+   "number": 6,
+   "title": "docs: add the Turbo Rig and Turbo-Flow stack sections (incl. Turbo Brain v2)",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/.github",
+   "number": 5,
+   "title": "profile: move noip-scanner to DevOps / Infrastructure",
+   "mergedAt": "2026-09-30"
+  },
+  {
+   "repo": "adventurewave-labs/.github",
+   "number": 4,
+   "title": "profile: restore sectioned layout; noip-scanner filed under DevOps / Infrastructure",
+   "mergedAt": "2026-09-30"
+  },
+  {
+   "repo": "adventurewave-labs/.github",
+   "number": 3,
+   "title": "profile: Developer Tooling gets per-entry demo GIFs (ansible-style) + noip-scanner",
+   "mergedAt": "2026-09-30"
+  },
+  {
    "repo": "adventurewave-labs/dualbrand-lead-router",
    "number": 41,
    "title": "(private repo)",
@@ -512,24 +522,6 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
    "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/.github",
-   "number": 5,
-   "title": "profile: move noip-scanner to DevOps / Infrastructure",
-   "mergedAt": "2026-09-30"
-  },
-  {
-   "repo": "adventurewave-labs/.github",
-   "number": 4,
-   "title": "profile: restore sectioned layout; noip-scanner filed under DevOps / Infrastructure",
-   "mergedAt": "2026-09-30"
-  },
-  {
-   "repo": "adventurewave-labs/.github",
-   "number": 3,
-   "title": "profile: Developer Tooling gets per-entry demo GIFs (ansible-style) + noip-scanner",
-   "mergedAt": "2026-09-30"
   },
   {
    "repo": "adventurewave-labs/pipeline-machine-v2",
