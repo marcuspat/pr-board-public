@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T20:56:57Z",
+ "generated": "2026-10-01T21:12:46Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -301,20 +301,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/ancuria",
-   "number": 497,
-   "title": "(private repo)",
-   "mergedAt": "2026-09-30",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 493,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/html-sites",
    "number": 16,
    "title": "(private repo)",
@@ -326,6 +312,20 @@
    "number": 15,
    "title": "(private repo)",
    "mergedAt": "2026-09-30",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 497,
+   "title": "(private repo)",
+   "mergedAt": "2026-09-30",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 493,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-01",
    "priv": true
   },
   {
@@ -433,12 +433,6 @@
    "repo": "marcuspat/rustops",
    "number": 17,
    "title": "ci(bench): named criterion bench targets \u2014 every broader selection hits libtest",
-   "mergedAt": "2026-09-30"
-  },
-  {
-   "repo": "marcuspat/rustops",
-   "number": 16,
-   "title": "ci(bench): exclude the root package from the bench invocation",
    "mergedAt": "2026-09-30"
   },
   {
