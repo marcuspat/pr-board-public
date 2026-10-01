@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T23:11:34Z",
+ "generated": "2026-10-01T23:41:52Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -9,9 +9,9 @@
  "private_stubbed": 56,
  "prs": [
   {
-   "repo": "marcuspat/Sentinel",
-   "number": 11,
-   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
+   "repo": "marcuspat/cargocrypt",
+   "number": 2,
+   "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-01",
@@ -29,9 +29,9 @@
    "note": "no gate review yet"
   },
   {
-   "repo": "marcuspat/netrain",
-   "number": 38,
-   "title": "SOTA loop: real packet decoding, working threat detection, roadmap",
+   "repo": "marcuspat/Sentinel",
+   "number": 11,
+   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-01",
@@ -39,9 +39,9 @@
    "note": "no gate review yet"
   },
   {
-   "repo": "marcuspat/cargocrypt",
-   "number": 2,
-   "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
+   "repo": "marcuspat/netrain",
+   "number": 38,
+   "title": "SOTA loop: real packet decoding, working threat detection, roadmap",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-01",
@@ -69,9 +69,9 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/secret-scan",
-   "number": 6,
-   "title": "SOTA loop: SARIF, redaction, inline allow, modern token formats, reproducible results",
+   "repo": "adventurewave-labs/GUI-LOP",
+   "number": 11,
+   "title": "SOTA rounds 1+2: hardening, correctness and security fixes",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-01",
@@ -79,9 +79,9 @@
    "note": "no gate review yet"
   },
   {
-   "repo": "adventurewave-labs/GUI-LOP",
-   "number": 11,
-   "title": "SOTA rounds 1+2: hardening, correctness and security fixes",
+   "repo": "adventurewave-labs/secret-scan",
+   "number": 6,
+   "title": "SOTA loop: SARIF, redaction, inline allow, modern token formats, reproducible results",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-01",
@@ -242,13 +242,6 @@
   },
   {
    "repo": "marcuspat/ancuria",
-   "number": 497,
-   "title": "(private repo)",
-   "mergedAt": "2026-09-30",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
    "number": 493,
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
@@ -266,13 +259,6 @@
    "number": 38,
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 37,
-   "title": "(private repo)",
-   "mergedAt": "2026-09-30",
    "priv": true
   },
   {
@@ -304,34 +290,6 @@
   {
    "repo": "marcuspat/velvet-bbs",
    "number": 10,
-   "title": "(private repo)",
-   "mergedAt": "2026-09-30",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 17,
-   "title": "(private repo)",
-   "mergedAt": "2026-09-30",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventure-wave-explorer",
-   "number": 25,
-   "title": "(private repo)",
-   "mergedAt": "2026-09-30",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/sdelic_org",
-   "number": 5,
-   "title": "(private repo)",
-   "mergedAt": "2026-09-30",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/AgenticsMexico",
-   "number": 7,
    "title": "(private repo)",
    "mergedAt": "2026-09-30",
    "priv": true
@@ -394,12 +352,6 @@
    "repo": "adventurewave-labs/.github",
    "number": 5,
    "title": "profile: move noip-scanner to DevOps / Infrastructure",
-   "mergedAt": "2026-09-30"
-  },
-  {
-   "repo": "adventurewave-labs/.github",
-   "number": 4,
-   "title": "profile: restore sectioned layout; noip-scanner filed under DevOps / Infrastructure",
    "mergedAt": "2026-09-30"
   },
   {
@@ -673,13 +625,6 @@
    "number": 4,
    "title": "docs: refresh demo GIF with clean recording; fix caption to match recorded command",
    "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 20,
-   "title": "(private repo)",
-   "mergedAt": "2026-09-30",
-   "priv": true
   }
  ]
 }
