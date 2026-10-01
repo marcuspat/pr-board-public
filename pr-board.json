@@ -1,17 +1,17 @@
 {
- "generated": "2026-10-01T22:43:26Z",
+ "generated": "2026-10-01T23:08:53Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
   "creandotumatrix-labs",
   "agentic-incubator"
  ],
- "private_stubbed": 86,
+ "private_stubbed": 56,
  "prs": [
   {
-   "repo": "marcuspat/cargocrypt",
-   "number": 2,
-   "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
+   "repo": "marcuspat/Sentinel",
+   "number": 11,
+   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-01",
@@ -39,9 +39,9 @@
    "note": "no gate review yet"
   },
   {
-   "repo": "marcuspat/Sentinel",
-   "number": 11,
-   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
+   "repo": "marcuspat/cargocrypt",
+   "number": 2,
+   "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-01",
@@ -159,106 +159,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 8,
-   "title": "Add Patronus Ark local scanning SDK",
-   "author": "DominikHommer",
-   "kind": "inbound",
-   "updated": "2026-09-22",
-   "g": "inbound",
-   "note": "outside contributor - maintainer call"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 6,
-   "title": "Add Skill Safe to Static & Config Scanning",
-   "author": "LaoZYi",
-   "kind": "inbound",
-   "updated": "2026-09-16",
-   "g": "inbound",
-   "note": "outside contributor - maintainer call"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 4,
-   "title": "Replace Gram with Speakeasy AI Control Plane",
-   "author": "AbdulDavids",
-   "kind": "inbound",
-   "updated": "2026-09-15",
-   "g": "inbound",
-   "note": "outside contributor - maintainer call"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 3,
-   "title": "Add Darkmoon autonomous LLM and AI inference endpoint pentesting (OWASP LLM Top 10)",
-   "author": "MBK-fr",
-   "kind": "inbound",
-   "updated": "2026-09-07",
-   "g": "inbound",
-   "note": "outside contributor - maintainer call"
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-agentic-platform",
-   "number": 1,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-08-11",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/agentic-devops-extravaganza",
-   "number": 6,
-   "title": "feat: Live K8sGPT Scan & Remediate \u2014 Interactive Touchpoint",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-09-08",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "adventurewave-labs/gitops-progressive-delivery-demo",
-   "number": 2,
-   "title": "feat: Dashboard Replay Mode \u2014 Interactive Touchpoint",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-09-08",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "adventurewave-labs/aops-sre-pipeline",
-   "number": 5,
-   "title": "feat: Live Alert Trigger \u2014 Interactive Touchpoint",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-09-08",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "adventurewave-labs/agentic-platform-engineering-extravaganza",
-   "number": 5,
-   "title": "feat: Interactive Policy Gate Playground \u2014 Interactive Touchpoint",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-09-08",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 13,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-09-28",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
    "number": 10,
    "title": "(private repo)",
@@ -275,16 +175,6 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-09-26",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "creandotumatrix-labs/loyalty-club-engine",
-   "number": 58,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-09-10",
    "g": "unreviewed",
    "priv": true
   },
@@ -447,10 +337,52 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/rustops",
-   "number": 19,
-   "title": "ci(bench): contents:write for the benchmark job",
-   "mergedAt": "2026-09-30"
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 13,
+   "title": "Add yylo to Loop Runners & Orchestrators",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 12,
+   "title": "Add Hyperconsciousness to Rust agent memory tools",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 11,
+   "title": "Add KeyDrift to Static & Config Scanning",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 9,
+   "title": "Threat Models & Standards: add Orca AI Incident Archive \u2014 agent-only case studies",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 8,
+   "title": "Add Patronus Ark local scanning SDK",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 6,
+   "title": "Add Skill Safe to Static & Config Scanning",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 4,
+   "title": "Replace Gram with Speakeasy AI Control Plane",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 3,
+   "title": "Add Darkmoon autonomous LLM and AI inference endpoint pentesting (OWASP LLM Top 10)",
+   "mergedAt": "2026-10-01"
   },
   {
    "repo": "adventurewave-labs/.github",
@@ -468,12 +400,6 @@
    "repo": "adventurewave-labs/.github",
    "number": 4,
    "title": "profile: restore sectioned layout; noip-scanner filed under DevOps / Infrastructure",
-   "mergedAt": "2026-09-30"
-  },
-  {
-   "repo": "adventurewave-labs/.github",
-   "number": 3,
-   "title": "profile: Developer Tooling gets per-entry demo GIFs (ansible-style) + noip-scanner",
    "mergedAt": "2026-09-30"
   },
   {
@@ -701,30 +627,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 13,
-   "title": "Add yylo to Loop Runners & Orchestrators",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 12,
-   "title": "Add Hyperconsciousness to Rust agent memory tools",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 11,
-   "title": "Add KeyDrift to Static & Config Scanning",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 9,
-   "title": "Threat Models & Standards: add Orca AI Incident Archive \u2014 agent-only case studies",
-   "mergedAt": "2026-10-01"
-  },
-  {
    "repo": "adventurewave-labs/turbo-brain-v2",
    "number": 7,
    "title": "(private repo)",
@@ -771,12 +673,6 @@
    "number": 4,
    "title": "docs: refresh demo GIF with clean recording; fix caption to match recorded command",
    "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/noip-scanner",
-   "number": 49,
-   "title": "docs: add demo GIF to README",
-   "mergedAt": "2026-09-30"
   },
   {
    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
