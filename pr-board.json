@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T02:38:50Z",
+ "generated": "2026-10-02T03:08:53Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,16 @@
  ],
  "private_stubbed": 56,
  "prs": [
+  {
+   "repo": "marcuspat/Sentinel",
+   "number": 11,
+   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
+  },
   {
    "repo": "marcuspat/k8s-netinspect",
    "number": 2,
@@ -21,16 +31,6 @@
    "repo": "marcuspat/netrain",
    "number": 38,
    "title": "SOTA loop: real packet decoding, working threat detection, roadmap",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
-   "repo": "marcuspat/Sentinel",
-   "number": 11,
-   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
@@ -170,13 +170,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/html-sites",
-   "number": 16,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/marcuspat",
    "number": 4,
    "title": "docs: add Turbo Brain v2 to the Turbo Rig and Turbo-Flow stack tables",
@@ -247,13 +240,6 @@
   {
    "repo": "adventurewave-labs/dualbrand-lead-router",
    "number": 31,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 30,
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
    "priv": true
@@ -456,13 +442,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 4,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/turbo-brain-v2",
    "number": 7,
    "title": "(private repo)",
@@ -492,14 +471,14 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T02:37:01Z",
-  "total": 250,
+  "start": "2026-09-25T03:07:01Z",
+  "total": 248,
   "repos": {
    "marcuspat/Sentinel": 3,
    "marcuspat/html-sites": 6,
    "marcuspat/marcuspat": 2,
    "marcuspat/ancuria": 41,
-   "marcuspat/turbo-rig": 17,
+   "marcuspat/turbo-rig": 16,
    "marcuspat/turbo-flow": 5,
    "marcuspat/serviya": 2,
    "marcuspat/velvet-bbs": 8,
@@ -528,7 +507,7 @@
    "adventurewave-labs/loopgen-rs": 1,
    "adventurewave-labs/ravics-x": 1,
    "adventurewave-labs/excavate": 1,
-   "creandotumatrix-labs/marce-garcia-casas-vallarta": 14
+   "creandotumatrix-labs/marce-garcia-casas-vallarta": 13
   },
   "day": {
    "2026-09-30": 59,
@@ -537,7 +516,7 @@
    "2026-09-29": 9,
    "2026-09-27": 8,
    "2026-09-26": 21,
-   "2026-09-25": 33
+   "2026-09-25": 31
   }
  }
 }
