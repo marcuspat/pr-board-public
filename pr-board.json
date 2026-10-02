@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T18:40:13Z",
+ "generated": "2026-10-02T19:09:45Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -252,11 +252,17 @@
    "number": 3,
    "title": "Add Darkmoon autonomous LLM and AI inference endpoint pentesting (OWASP LLM Top 10)",
    "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/.github",
+   "number": 6,
+   "title": "docs: add the Turbo Rig and Turbo-Flow stack sections (incl. Turbo Brain v2)",
+   "mergedAt": "2026-10-01"
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T18:37:01Z",
-  "total": 225,
+  "start": "2026-09-25T19:07:01Z",
+  "total": 229,
   "repos": {
    "marcuspat/html-sites": 6,
    "marcuspat/Sentinel": 3,
@@ -279,6 +285,7 @@
    "adventurewave-labs/excavate": 1,
    "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/awesome-agent-reliability": 9,
+   "adventurewave-labs/.github": 4,
    "adventurewave-labs/pipeline-machine-v2": 32,
    "adventurewave-labs/turbo-brain-v2": 7,
    "adventurewave-labs/loopwatch-v2": 12,
@@ -293,8 +300,8 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 10
   },
   "day": {
-   "2026-10-01": 68,
-   "2026-09-30": 56,
+   "2026-10-01": 69,
+   "2026-09-30": 59,
    "2026-09-28": 51,
    "2026-09-29": 9,
    "2026-09-27": 8,
