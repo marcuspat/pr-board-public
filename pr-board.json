@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T03:08:53Z",
+ "generated": "2026-10-02T03:38:54Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -8,19 +8,9 @@
  "private_stubbed": 56,
  "prs": [
   {
-   "repo": "marcuspat/Sentinel",
-   "number": 11,
-   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
-   "repo": "marcuspat/k8s-netinspect",
+   "repo": "marcuspat/cargocrypt",
    "number": 2,
-   "title": "SOTA loop: snapshot-based network diagnostics (findings, policy reachability, offline anal",
+   "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
@@ -38,9 +28,19 @@
    "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
-   "repo": "marcuspat/cargocrypt",
+   "repo": "marcuspat/k8s-netinspect",
    "number": 2,
-   "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
+   "title": "SOTA loop: snapshot-based network diagnostics (findings, policy reachability, offline anal",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
+  },
+  {
+   "repo": "marcuspat/Sentinel",
+   "number": 11,
+   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
@@ -428,20 +428,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 6,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 5,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/turbo-brain-v2",
    "number": 7,
    "title": "(private repo)",
@@ -471,8 +457,8 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T03:07:01Z",
-  "total": 248,
+  "start": "2026-09-25T03:37:01Z",
+  "total": 246,
   "repos": {
    "marcuspat/Sentinel": 3,
    "marcuspat/html-sites": 6,
@@ -507,7 +493,7 @@
    "adventurewave-labs/loopgen-rs": 1,
    "adventurewave-labs/ravics-x": 1,
    "adventurewave-labs/excavate": 1,
-   "creandotumatrix-labs/marce-garcia-casas-vallarta": 13
+   "creandotumatrix-labs/marce-garcia-casas-vallarta": 11
   },
   "day": {
    "2026-09-30": 59,
@@ -516,7 +502,7 @@
    "2026-09-29": 9,
    "2026-09-27": 8,
    "2026-09-26": 21,
-   "2026-09-25": 31
+   "2026-09-25": 29
   }
  }
 }
