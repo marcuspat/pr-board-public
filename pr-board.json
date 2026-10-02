@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T02:08:53Z",
+ "generated": "2026-10-02T02:38:50Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -18,9 +18,29 @@
    "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
+   "repo": "marcuspat/netrain",
+   "number": 38,
+   "title": "SOTA loop: real packet decoding, working threat detection, roadmap",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
+  },
+  {
    "repo": "marcuspat/Sentinel",
    "number": 11,
    "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 2,
+   "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
@@ -56,26 +76,6 @@
    "updated": "2026-10-02",
    "g": "unreviewed",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/netrain",
-   "number": 38,
-   "title": "SOTA loop: real packet decoding, working threat detection, roadmap",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 2,
-   "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
    "repo": "marcuspat/turbo-rig",
@@ -273,12 +273,6 @@
   },
   {
    "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 9,
-   "title": "Threat Models & Standards: add Orca AI Incident Archive \u2014 agent-only case studies",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
    "number": 8,
    "title": "Add Patronus Ark local scanning SDK",
    "mergedAt": "2026-10-01"
@@ -469,13 +463,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 3,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/turbo-brain-v2",
    "number": 7,
    "title": "(private repo)",
@@ -497,41 +484,27 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/turbo-brain-v2",
-   "number": 3,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/loopwatch-v2",
    "number": 12,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/loopwatch-catalog",
-   "number": 1,
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
    "priv": true
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T02:07:01Z",
-  "total": 253,
+  "start": "2026-09-25T02:37:01Z",
+  "total": 250,
   "repos": {
    "marcuspat/Sentinel": 3,
    "marcuspat/html-sites": 6,
    "marcuspat/marcuspat": 2,
    "marcuspat/ancuria": 41,
-   "marcuspat/turbo-rig": 18,
+   "marcuspat/turbo-rig": 17,
    "marcuspat/turbo-flow": 5,
    "marcuspat/serviya": 2,
    "marcuspat/velvet-bbs": 8,
    "marcuspat/h20healer": 6,
-   "marcuspat/creandotumatrix-site": 9,
+   "marcuspat/creandotumatrix-site": 8,
    "marcuspat/adventure-wave-explorer": 16,
    "marcuspat/sdelic_org": 5,
    "marcuspat/AgenticsMexico": 5,
@@ -539,7 +512,7 @@
    "marcuspat/adventurewavelabs-website": 4,
    "marcuspat/turboflowacademy": 3,
    "marcuspat/agenticplatformengineering": 5,
-   "marcuspat/CMatrix-Landing-Page": 3,
+   "marcuspat/CMatrix-Landing-Page": 2,
    "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/awesome-agent-reliability": 9,
    "adventurewave-labs/.github": 4,
@@ -564,7 +537,7 @@
    "2026-09-29": 9,
    "2026-09-27": 8,
    "2026-09-26": 21,
-   "2026-09-25": 36
+   "2026-09-25": 33
   }
  }
 }
