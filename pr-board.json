@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T20:39:34Z",
+ "generated": "2026-10-02T21:09:00Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -196,13 +196,6 @@
    "mergedAt": "2026-10-01"
   },
   {
-   "repo": "marcuspat/ancuria",
-   "number": 493,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/awesome-agent-reliability",
    "number": 8,
    "title": "Add Patronus Ark local scanning SDK",
@@ -234,13 +227,13 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T20:37:02Z",
-  "total": 224,
+  "start": "2026-09-25T21:07:02Z",
+  "total": 222,
   "repos": {
    "marcuspat/html-sites": 6,
    "marcuspat/Sentinel": 3,
    "marcuspat/marcuspat": 2,
-   "marcuspat/ancuria": 36,
+   "marcuspat/ancuria": 35,
    "marcuspat/turbo-rig": 15,
    "marcuspat/turbo-flow": 5,
    "marcuspat/serviya": 2,
@@ -269,7 +262,7 @@
    "adventurewave-labs/noip-scanner": 2,
    "adventurewave-labs/loopgen-rs": 1,
    "adventurewave-labs/ravics-x": 1,
-   "creandotumatrix-labs/marce-garcia-casas-vallarta": 10
+   "creandotumatrix-labs/marce-garcia-casas-vallarta": 9
   },
   "day": {
    "2026-10-01": 69,
@@ -278,7 +271,7 @@
    "2026-09-29": 9,
    "2026-09-27": 8,
    "2026-09-26": 21,
-   "2026-09-25": 7
+   "2026-09-25": 5
   }
  }
 }
