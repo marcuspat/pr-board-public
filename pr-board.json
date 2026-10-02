@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T14:09:21Z",
+ "generated": "2026-10-02T14:39:48Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -95,6 +95,26 @@
    "kind": "ours",
    "updated": "2026-10-01",
    "g": "needs_work",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/debate-killer",
+   "number": 1,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/excavate",
+   "number": 3,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "unreviewed",
    "priv": true
   },
   {
@@ -247,13 +267,13 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T14:07:01Z",
-  "total": 243,
+  "start": "2026-09-25T14:37:01Z",
+  "total": 242,
   "repos": {
    "marcuspat/html-sites": 6,
    "marcuspat/Sentinel": 3,
    "marcuspat/marcuspat": 2,
-   "marcuspat/ancuria": 39,
+   "marcuspat/ancuria": 38,
    "marcuspat/turbo-rig": 16,
    "marcuspat/turbo-flow": 5,
    "marcuspat/serviya": 2,
@@ -268,6 +288,7 @@
    "marcuspat/turboflowacademy": 3,
    "marcuspat/agenticplatformengineering": 5,
    "marcuspat/CMatrix-Landing-Page": 2,
+   "adventurewave-labs/excavate": 1,
    "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/awesome-agent-reliability": 9,
    "adventurewave-labs/.github": 4,
@@ -282,7 +303,6 @@
    "adventurewave-labs/noip-scanner": 2,
    "adventurewave-labs/loopgen-rs": 1,
    "adventurewave-labs/ravics-x": 1,
-   "adventurewave-labs/excavate": 1,
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 10
   },
   "day": {
@@ -292,7 +312,7 @@
    "2026-09-29": 9,
    "2026-09-27": 8,
    "2026-09-26": 21,
-   "2026-09-25": 26
+   "2026-09-25": 25
   }
  }
 }
