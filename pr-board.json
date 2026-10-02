@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T22:38:52Z",
+ "generated": "2026-10-02T23:08:53Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -188,40 +188,15 @@
    "priv": true
   }
  ],
- "merged_24h": [
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 8,
-   "title": "Add Patronus Ark local scanning SDK",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 6,
-   "title": "Add Skill Safe to Static & Config Scanning",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 4,
-   "title": "Replace Gram with Speakeasy AI Control Plane",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 3,
-   "title": "Add Darkmoon autonomous LLM and AI inference endpoint pentesting (OWASP LLM Top 10)",
-   "mergedAt": "2026-10-01"
-  }
- ],
+ "merged_24h": [],
  "merged_7d": {
-  "start": "2026-09-25T22:37:01Z",
-  "total": 219,
+  "start": "2026-09-25T23:07:01Z",
+  "total": 217,
   "repos": {
    "marcuspat/html-sites": 6,
    "marcuspat/Sentinel": 3,
    "marcuspat/marcuspat": 2,
-   "marcuspat/ancuria": 34,
+   "marcuspat/ancuria": 33,
    "marcuspat/turbo-rig": 15,
    "marcuspat/turbo-flow": 5,
    "marcuspat/serviya": 2,
@@ -248,7 +223,6 @@
    "adventurewave-labs/coach-gezedeay": 2,
    "adventurewave-labs/noip-scanner": 2,
    "adventurewave-labs/loopgen-rs": 1,
-   "adventurewave-labs/ravics-x": 1,
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 9
   },
   "day": {
@@ -257,8 +231,7 @@
    "2026-09-28": 51,
    "2026-09-29": 9,
    "2026-09-27": 8,
-   "2026-09-26": 21,
-   "2026-09-25": 2
+   "2026-09-26": 21
   }
  }
 }
