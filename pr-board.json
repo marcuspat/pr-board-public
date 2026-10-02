@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T01:08:57Z",
+ "generated": "2026-10-02T01:38:51Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -48,9 +48,9 @@
    "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
-   "repo": "marcuspat/Sentinel",
-   "number": 11,
-   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
+   "repo": "marcuspat/netrain",
+   "number": 38,
+   "title": "SOTA loop: real packet decoding, working threat detection, roadmap",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
@@ -58,9 +58,9 @@
    "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
-   "repo": "marcuspat/netrain",
-   "number": 38,
-   "title": "SOTA loop: real packet decoding, working threat detection, roadmap",
+   "repo": "marcuspat/Sentinel",
+   "number": 11,
+   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
@@ -197,34 +197,14 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/turbo-rig",
-   "number": 38,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/turbo-flow",
    "number": 60,
    "title": "rig-lite v5.2 wave 1: secret.sh (Law 4 gets its tool), deletion-guard hook, memory scaffol",
    "mergedAt": "2026-10-01"
   },
   {
-   "repo": "marcuspat/turbo-flow",
-   "number": 59,
-   "title": "tmux auto-attach: land inside tmux, never a bare shell",
-   "mergedAt": "2026-10-01"
-  },
-  {
    "repo": "marcuspat/serviya",
    "number": 2,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/velvet-bbs",
-   "number": 11,
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
    "priv": true
@@ -287,27 +267,6 @@
   },
   {
    "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 24,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 20,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 17,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
    "number": 1,
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
@@ -317,18 +276,6 @@
    "repo": "adventurewave-labs/awesome-agent-reliability",
    "number": 13,
    "title": "Add yylo to Loop Runners & Orchestrators",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 12,
-   "title": "Add Hyperconsciousness to Rust agent memory tools",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 11,
-   "title": "Add KeyDrift to Static & Config Scanning",
    "mergedAt": "2026-10-01"
   },
   {
@@ -404,13 +351,6 @@
   },
   {
    "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 27,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
    "number": 26,
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
@@ -419,13 +359,6 @@
   {
    "repo": "adventurewave-labs/pipeline-machine-v2",
    "number": 25,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 24,
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
    "priv": true
@@ -446,13 +379,6 @@
   },
   {
    "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 21,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
    "number": 20,
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
@@ -461,13 +387,6 @@
   {
    "repo": "adventurewave-labs/pipeline-machine-v2",
    "number": 19,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 18,
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
    "priv": true
@@ -632,17 +551,11 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
    "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/preflight-integration-tester",
-   "number": 4,
-   "title": "docs: refresh demo GIF with clean recording; fix caption to match recorded command",
-   "mergedAt": "2026-10-01"
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T01:07:01Z",
-  "total": 254,
+  "start": "2026-09-25T01:37:01Z",
+  "total": 253,
   "repos": {
    "marcuspat/html-sites": 6,
    "marcuspat/Sentinel": 3,
@@ -653,7 +566,7 @@
    "marcuspat/serviya": 2,
    "marcuspat/velvet-bbs": 8,
    "marcuspat/h20healer": 6,
-   "marcuspat/creandotumatrix-site": 10,
+   "marcuspat/creandotumatrix-site": 9,
    "marcuspat/adventure-wave-explorer": 16,
    "marcuspat/sdelic_org": 5,
    "marcuspat/AgenticsMexico": 5,
@@ -686,7 +599,7 @@
    "2026-09-29": 9,
    "2026-09-27": 8,
    "2026-09-26": 21,
-   "2026-09-25": 37
+   "2026-09-25": 36
   }
  }
 }
