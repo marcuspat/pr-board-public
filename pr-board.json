@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T03:38:54Z",
+ "generated": "2026-10-02T04:08:53Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -8,29 +8,19 @@
  "private_stubbed": 56,
  "prs": [
   {
-   "repo": "marcuspat/cargocrypt",
-   "number": 2,
-   "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
-   "repo": "marcuspat/netrain",
-   "number": 38,
-   "title": "SOTA loop: real packet decoding, working threat detection, roadmap",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
    "repo": "marcuspat/k8s-netinspect",
    "number": 2,
    "title": "SOTA loop: snapshot-based network diagnostics (findings, policy reachability, offline anal",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 2,
+   "title": "CargoCrypt 0.3.0: make the advertised features real (15-loop hardening round)",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
@@ -76,6 +66,16 @@
    "updated": "2026-10-02",
    "g": "unreviewed",
    "priv": true
+  },
+  {
+   "repo": "marcuspat/netrain",
+   "number": 38,
+   "title": "SOTA loop: real packet decoding, working threat detection, roadmap",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
    "repo": "marcuspat/turbo-rig",
@@ -240,13 +240,6 @@
   {
    "repo": "adventurewave-labs/dualbrand-lead-router",
    "number": 31,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 29,
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
    "priv": true
@@ -421,13 +414,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 7,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/turbo-brain-v2",
    "number": 7,
    "title": "(private repo)",
@@ -457,7 +443,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T03:37:01Z",
+  "start": "2026-09-25T04:07:01Z",
   "total": 246,
   "repos": {
    "marcuspat/Sentinel": 3,
