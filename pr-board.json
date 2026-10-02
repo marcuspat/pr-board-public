@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T07:39:21Z",
+ "generated": "2026-10-02T08:09:14Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -247,7 +247,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T07:37:02Z",
+  "start": "2026-09-25T08:07:01Z",
   "total": 244,
   "repos": {
    "marcuspat/Sentinel": 3,
