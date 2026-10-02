@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T00:10:57Z",
+ "generated": "2026-10-02T00:27:55Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -9,22 +9,22 @@
  "private_stubbed": 56,
  "prs": [
   {
-   "repo": "marcuspat/cargocrypt",
-   "number": 2,
-   "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-01",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
    "repo": "marcuspat/k8s-netinspect",
    "number": 2,
    "title": "SOTA loop: snapshot-based network diagnostics (findings, policy reachability, offline anal",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-10-01",
+   "updated": "2026-10-02",
+   "g": "unreviewed",
+   "note": "no gate review yet"
+  },
+  {
+   "repo": "marcuspat/Sentinel",
+   "number": 11,
+   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
    "g": "unreviewed",
    "note": "no gate review yet"
   },
@@ -34,14 +34,14 @@
    "title": "SOTA loop: real packet decoding, working threat detection, roadmap",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-10-01",
+   "updated": "2026-10-02",
    "g": "unreviewed",
    "note": "no gate review yet"
   },
   {
-   "repo": "marcuspat/Sentinel",
-   "number": 11,
-   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
+   "repo": "marcuspat/cargocrypt",
+   "number": 2,
+   "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-01",
@@ -69,6 +69,16 @@
    "priv": true
   },
   {
+   "repo": "adventurewave-labs/secret-scan",
+   "number": 6,
+   "title": "SOTA loop: SARIF, redaction, inline allow, modern token formats, reproducible results",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-02"
+  },
+  {
    "repo": "adventurewave-labs/GUI-LOP",
    "number": 12,
    "title": "Production-readiness round 3 (contains PR #11)",
@@ -89,66 +99,6 @@
    "note": "no gate review yet"
   },
   {
-   "repo": "adventurewave-labs/secret-scan",
-   "number": 6,
-   "title": "SOTA loop: SARIF, redaction, inline allow, modern token formats, reproducible results",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-01",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 36,
-   "title": "(private repo)",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-10-01",
-   "g": "bots",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 35,
-   "title": "(private repo)",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-10-01",
-   "g": "bots",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 34,
-   "title": "(private repo)",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-10-01",
-   "g": "bots",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 33,
-   "title": "(private repo)",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-10-01",
-   "g": "bots",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 32,
-   "title": "(private repo)",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-10-01",
-   "g": "bots",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/brain-vault",
    "number": 2,
    "title": "(private repo)",
@@ -164,8 +114,8 @@
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-09-30",
-   "g": "unreviewed",
+   "updated": "2026-10-02",
+   "g": "needs_work",
    "priv": true
   },
   {
@@ -174,8 +124,8 @@
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-09-26",
-   "g": "unreviewed",
+   "updated": "2026-10-02",
+   "g": "green",
    "priv": true
   },
   {
@@ -184,8 +134,8 @@
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-09-26",
-   "g": "unreviewed",
+   "updated": "2026-10-02",
+   "g": "needs_work",
    "priv": true
   },
   {
@@ -291,60 +241,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 13,
-   "title": "Add yylo to Loop Runners & Orchestrators",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 12,
-   "title": "Add Hyperconsciousness to Rust agent memory tools",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 11,
-   "title": "Add KeyDrift to Static & Config Scanning",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 9,
-   "title": "Threat Models & Standards: add Orca AI Incident Archive \u2014 agent-only case studies",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 8,
-   "title": "Add Patronus Ark local scanning SDK",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 6,
-   "title": "Add Skill Safe to Static & Config Scanning",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 4,
-   "title": "Replace Gram with Speakeasy AI Control Plane",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 3,
-   "title": "Add Darkmoon autonomous LLM and AI inference endpoint pentesting (OWASP LLM Top 10)",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/.github",
-   "number": 6,
-   "title": "docs: add the Turbo Rig and Turbo-Flow stack sections (incl. Turbo Brain v2)",
-   "mergedAt": "2026-10-01"
-  },
-  {
    "repo": "adventurewave-labs/dualbrand-lead-router",
    "number": 41,
    "title": "(private repo)",
@@ -427,6 +323,60 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
    "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 13,
+   "title": "Add yylo to Loop Runners & Orchestrators",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 12,
+   "title": "Add Hyperconsciousness to Rust agent memory tools",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 11,
+   "title": "Add KeyDrift to Static & Config Scanning",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 9,
+   "title": "Threat Models & Standards: add Orca AI Incident Archive \u2014 agent-only case studies",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 8,
+   "title": "Add Patronus Ark local scanning SDK",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 6,
+   "title": "Add Skill Safe to Static & Config Scanning",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 4,
+   "title": "Replace Gram with Speakeasy AI Control Plane",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 3,
+   "title": "Add Darkmoon autonomous LLM and AI inference endpoint pentesting (OWASP LLM Top 10)",
+   "mergedAt": "2026-10-01"
+  },
+  {
+   "repo": "adventurewave-labs/.github",
+   "number": 6,
+   "title": "docs: add the Turbo Rig and Turbo-Flow stack sections (incl. Turbo Brain v2)",
+   "mergedAt": "2026-10-01"
   },
   {
    "repo": "adventurewave-labs/pipeline-machine-v2",
@@ -569,6 +519,90 @@
    "priv": true
   },
   {
+   "repo": "adventurewave-labs/pipeline-machine-v2",
+   "number": 12,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-01",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/pipeline-machine-v2",
+   "number": 11,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-01",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/pipeline-machine-v2",
+   "number": 10,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-01",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/pipeline-machine-v2",
+   "number": 9,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-01",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/pipeline-machine-v2",
+   "number": 8,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-01",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/pipeline-machine-v2",
+   "number": 7,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-01",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/pipeline-machine-v2",
+   "number": 6,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-01",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/pipeline-machine-v2",
+   "number": 5,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-01",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/pipeline-machine-v2",
+   "number": 4,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-01",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/pipeline-machine-v2",
+   "number": 3,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-01",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/pipeline-machine-v2",
+   "number": 2,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-01",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/pipeline-machine-v2",
+   "number": 1,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-01",
+   "priv": true
+  },
+  {
    "repo": "adventurewave-labs/turbo-brain-v2",
    "number": 7,
    "title": "(private repo)",
@@ -616,5 +650,54 @@
    "title": "docs: refresh demo GIF with clean recording; fix caption to match recorded command",
    "mergedAt": "2026-10-01"
   }
- ]
+ ],
+ "merged_7d": {
+  "start": "2026-09-25T00:25:51Z",
+  "total": 260,
+  "repos": {
+   "marcuspat/Sentinel": 3,
+   "marcuspat/html-sites": 6,
+   "marcuspat/marcuspat": 2,
+   "marcuspat/ancuria": 41,
+   "marcuspat/turbo-rig": 18,
+   "marcuspat/turbo-flow": 5,
+   "marcuspat/serviya": 2,
+   "marcuspat/velvet-bbs": 8,
+   "marcuspat/h20healer": 6,
+   "marcuspat/creandotumatrix-site": 15,
+   "marcuspat/adventure-wave-explorer": 16,
+   "marcuspat/sdelic_org": 5,
+   "marcuspat/AgenticsMexico": 5,
+   "marcuspat/rustops": 5,
+   "marcuspat/adventurewavelabs-website": 4,
+   "marcuspat/turboflowacademy": 3,
+   "marcuspat/agenticplatformengineering": 5,
+   "marcuspat/CMatrix-Landing-Page": 4,
+   "adventurewave-labs/dualbrand-lead-router": 12,
+   "adventurewave-labs/awesome-agent-reliability": 9,
+   "adventurewave-labs/.github": 4,
+   "adventurewave-labs/pipeline-machine-v2": 32,
+   "adventurewave-labs/turbo-brain-v2": 7,
+   "adventurewave-labs/loopwatch-v2": 12,
+   "adventurewave-labs/codescope": 7,
+   "adventurewave-labs/ansible-heal-agent": 1,
+   "adventurewave-labs/loopwatch-catalog": 1,
+   "adventurewave-labs/preflight-integration-tester": 1,
+   "adventurewave-labs/coach-gezedeay": 2,
+   "adventurewave-labs/noip-scanner": 2,
+   "adventurewave-labs/loopgen-rs": 1,
+   "adventurewave-labs/ravics-x": 1,
+   "adventurewave-labs/excavate": 1,
+   "creandotumatrix-labs/marce-garcia-casas-vallarta": 14
+  },
+  "day": {
+   "2026-09-30": 59,
+   "2026-10-01": 69,
+   "2026-09-28": 51,
+   "2026-09-29": 9,
+   "2026-09-27": 8,
+   "2026-09-26": 21,
+   "2026-09-25": 43
+  }
+ }
 }
