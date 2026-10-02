@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T00:27:55Z",
+ "generated": "2026-10-02T00:38:54Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -9,24 +9,24 @@
  "private_stubbed": 56,
  "prs": [
   {
+   "repo": "marcuspat/html-sites",
+   "number": 17,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/k8s-netinspect",
    "number": 2,
    "title": "SOTA loop: snapshot-based network diagnostics (findings, policy reachability, offline anal",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "marcuspat/Sentinel",
-   "number": 11,
-   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "unreviewed",
-   "note": "no gate review yet"
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
    "repo": "marcuspat/netrain",
@@ -35,8 +35,18 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
-   "g": "unreviewed",
-   "note": "no gate review yet"
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
+  },
+  {
+   "repo": "marcuspat/Sentinel",
+   "number": 11,
+   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
    "repo": "marcuspat/cargocrypt",
@@ -44,9 +54,9 @@
    "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-10-01",
-   "g": "unreviewed",
-   "note": "no gate review yet"
+   "updated": "2026-10-02",
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-02"
   },
   {
    "repo": "marcuspat/turbo-rig",
@@ -85,8 +95,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
-   "g": "unreviewed",
-   "note": "no gate review yet"
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-02"
   },
   {
    "repo": "adventurewave-labs/GUI-LOP",
@@ -94,9 +104,9 @@
    "title": "SOTA rounds 1+2: hardening, correctness and security fixes",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-10-01",
-   "g": "unreviewed",
-   "note": "no gate review yet"
+   "updated": "2026-10-02",
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-02"
   },
   {
    "repo": "adventurewave-labs/brain-vault",
@@ -652,11 +662,11 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T00:25:51Z",
-  "total": 260,
+  "start": "2026-09-25T00:37:01Z",
+  "total": 258,
   "repos": {
-   "marcuspat/Sentinel": 3,
    "marcuspat/html-sites": 6,
+   "marcuspat/Sentinel": 3,
    "marcuspat/marcuspat": 2,
    "marcuspat/ancuria": 41,
    "marcuspat/turbo-rig": 18,
@@ -664,7 +674,7 @@
    "marcuspat/serviya": 2,
    "marcuspat/velvet-bbs": 8,
    "marcuspat/h20healer": 6,
-   "marcuspat/creandotumatrix-site": 15,
+   "marcuspat/creandotumatrix-site": 14,
    "marcuspat/adventure-wave-explorer": 16,
    "marcuspat/sdelic_org": 5,
    "marcuspat/AgenticsMexico": 5,
@@ -672,7 +682,7 @@
    "marcuspat/adventurewavelabs-website": 4,
    "marcuspat/turboflowacademy": 3,
    "marcuspat/agenticplatformengineering": 5,
-   "marcuspat/CMatrix-Landing-Page": 4,
+   "marcuspat/CMatrix-Landing-Page": 3,
    "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/awesome-agent-reliability": 9,
    "adventurewave-labs/.github": 4,
@@ -691,13 +701,13 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 14
   },
   "day": {
-   "2026-09-30": 59,
    "2026-10-01": 69,
+   "2026-09-30": 59,
    "2026-09-28": 51,
    "2026-09-29": 9,
    "2026-09-27": 8,
    "2026-09-26": 21,
-   "2026-09-25": 43
+   "2026-09-25": 41
   }
  }
 }
