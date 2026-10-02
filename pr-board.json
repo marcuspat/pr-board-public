@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T01:38:51Z",
+ "generated": "2026-10-02T02:08:53Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,26 @@
  ],
  "private_stubbed": 56,
  "prs": [
+  {
+   "repo": "marcuspat/k8s-netinspect",
+   "number": 2,
+   "title": "SOTA loop: snapshot-based network diagnostics (findings, policy reachability, offline anal",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
+  },
+  {
+   "repo": "marcuspat/Sentinel",
+   "number": 11,
+   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
+  },
   {
    "repo": "marcuspat/html-sites",
    "number": 19,
@@ -38,29 +58,9 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/k8s-netinspect",
-   "number": 2,
-   "title": "SOTA loop: snapshot-based network diagnostics (findings, policy reachability, offline anal",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
    "repo": "marcuspat/netrain",
    "number": 38,
    "title": "SOTA loop: real packet decoding, working threat detection, roadmap",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
-   "repo": "marcuspat/Sentinel",
-   "number": 11,
-   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
@@ -266,13 +266,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 1,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/awesome-agent-reliability",
    "number": 13,
    "title": "Add yylo to Loop Runners & Orchestrators",
@@ -331,20 +324,6 @@
   {
    "repo": "adventurewave-labs/pipeline-machine-v2",
    "number": 33,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 29,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 28,
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
    "priv": true
@@ -497,20 +476,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 2,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 1,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/turbo-brain-v2",
    "number": 7,
    "title": "(private repo)",
@@ -554,11 +519,11 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T01:37:01Z",
+  "start": "2026-09-25T02:07:01Z",
   "total": 253,
   "repos": {
-   "marcuspat/html-sites": 6,
    "marcuspat/Sentinel": 3,
+   "marcuspat/html-sites": 6,
    "marcuspat/marcuspat": 2,
    "marcuspat/ancuria": 41,
    "marcuspat/turbo-rig": 18,
@@ -593,8 +558,8 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 14
   },
   "day": {
-   "2026-10-01": 69,
    "2026-09-30": 59,
+   "2026-10-01": 69,
    "2026-09-28": 51,
    "2026-09-29": 9,
    "2026-09-27": 8,
