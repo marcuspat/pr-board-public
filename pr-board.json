@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T00:53:51Z",
+ "generated": "2026-10-02T01:08:57Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -38,9 +38,9 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/cargocrypt",
+   "repo": "marcuspat/k8s-netinspect",
    "number": 2,
-   "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
+   "title": "SOTA loop: snapshot-based network diagnostics (findings, policy reachability, offline anal",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
@@ -48,9 +48,9 @@
    "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
-   "repo": "marcuspat/k8s-netinspect",
-   "number": 2,
-   "title": "SOTA loop: snapshot-based network diagnostics (findings, policy reachability, offline anal",
+   "repo": "marcuspat/Sentinel",
+   "number": 11,
+   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
@@ -68,9 +68,9 @@
    "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
-   "repo": "marcuspat/Sentinel",
-   "number": 11,
-   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
+   "repo": "marcuspat/cargocrypt",
+   "number": 2,
+   "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
@@ -641,8 +641,8 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T00:52:02Z",
-  "total": 258,
+  "start": "2026-09-25T01:07:01Z",
+  "total": 254,
   "repos": {
    "marcuspat/html-sites": 6,
    "marcuspat/Sentinel": 3,
@@ -653,7 +653,7 @@
    "marcuspat/serviya": 2,
    "marcuspat/velvet-bbs": 8,
    "marcuspat/h20healer": 6,
-   "marcuspat/creandotumatrix-site": 14,
+   "marcuspat/creandotumatrix-site": 10,
    "marcuspat/adventure-wave-explorer": 16,
    "marcuspat/sdelic_org": 5,
    "marcuspat/AgenticsMexico": 5,
@@ -686,7 +686,7 @@
    "2026-09-29": 9,
    "2026-09-27": 8,
    "2026-09-26": 21,
-   "2026-09-25": 41
+   "2026-09-25": 37
   }
  }
 }
