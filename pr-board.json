@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T04:08:53Z",
+ "generated": "2026-10-02T04:39:14Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,26 @@
  ],
  "private_stubbed": 56,
  "prs": [
+  {
+   "repo": "marcuspat/Sentinel",
+   "number": 11,
+   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
+  },
+  {
+   "repo": "marcuspat/netrain",
+   "number": 38,
+   "title": "netrain: working threat detection, real decoding, flows, hostnames, replay, JSON output, C",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
+  },
   {
    "repo": "marcuspat/k8s-netinspect",
    "number": 2,
@@ -21,16 +41,6 @@
    "repo": "marcuspat/cargocrypt",
    "number": 2,
    "title": "CargoCrypt 0.3.0: make the advertised features real (15-loop hardening round)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
-   "repo": "marcuspat/Sentinel",
-   "number": 11,
-   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
@@ -66,16 +76,6 @@
    "updated": "2026-10-02",
    "g": "unreviewed",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/netrain",
-   "number": 38,
-   "title": "SOTA loop: real packet decoding, working threat detection, roadmap",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
    "repo": "marcuspat/turbo-rig",
@@ -238,13 +238,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 31,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/awesome-agent-reliability",
    "number": 13,
    "title": "Add yylo to Loop Runners & Orchestrators",
@@ -302,118 +295,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 26,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 25,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 23,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 22,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 20,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 19,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 17,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 16,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 15,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 14,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 13,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 12,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 11,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 10,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 9,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 8,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/turbo-brain-v2",
    "number": 7,
    "title": "(private repo)",
@@ -426,25 +307,11 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
    "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/turbo-brain-v2",
-   "number": 5,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/loopwatch-v2",
-   "number": 12,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T04:07:01Z",
-  "total": 246,
+  "start": "2026-09-25T04:37:01Z",
+  "total": 245,
   "repos": {
    "marcuspat/Sentinel": 3,
    "marcuspat/html-sites": 6,
@@ -479,7 +346,7 @@
    "adventurewave-labs/loopgen-rs": 1,
    "adventurewave-labs/ravics-x": 1,
    "adventurewave-labs/excavate": 1,
-   "creandotumatrix-labs/marce-garcia-casas-vallarta": 11
+   "creandotumatrix-labs/marce-garcia-casas-vallarta": 10
   },
   "day": {
    "2026-09-30": 59,
@@ -488,7 +355,7 @@
    "2026-09-29": 9,
    "2026-09-27": 8,
    "2026-09-26": 21,
-   "2026-09-25": 29
+   "2026-09-25": 28
   }
  }
 }
