@@ -1,102 +1,12 @@
 {
- "generated": "2026-10-02T05:09:22Z",
+ "generated": "2026-10-02T05:38:25Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
   "creandotumatrix-labs"
  ],
- "private_stubbed": 56,
+ "private_stubbed": 28,
  "prs": [
-  {
-   "repo": "marcuspat/k8s-netinspect",
-   "number": 2,
-   "title": "k8s-netinspect 0.2.0: snapshot-based network diagnostics, policy reachability, CI output, ",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
-   "repo": "marcuspat/Sentinel",
-   "number": 11,
-   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
-   "repo": "marcuspat/netrain",
-   "number": 38,
-   "title": "netrain: working threat detection, real decoding, flows, hostnames, replay, JSON output, C",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 2,
-   "title": "CargoCrypt 0.3.0: make the advertised features real (15-loop hardening round)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 19,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "green",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 18,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 17,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 41,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-01",
-   "g": "green",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 40,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-01",
-   "g": "needs_work",
-   "priv": true
-  },
   {
    "repo": "adventurewave-labs/secret-scan",
    "number": 6,
@@ -170,39 +80,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/marcuspat",
-   "number": 4,
-   "title": "docs: add Turbo Brain v2 to the Turbo Rig and Turbo-Flow stack tables",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 493,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 39,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 60,
-   "title": "rig-lite v5.2 wave 1: secret.sh (Law 4 gets its tool), deletion-guard hook, memory scaffol",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "marcuspat/serviya",
-   "number": 2,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/dualbrand-lead-router",
    "number": 41,
    "title": "(private repo)",
@@ -212,20 +89,6 @@
   {
    "repo": "adventurewave-labs/dualbrand-lead-router",
    "number": 40,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 39,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 38,
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
    "priv": true
@@ -289,27 +152,9 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T05:07:01Z",
-  "total": 244,
+  "start": "2026-09-25T05:37:01Z",
+  "total": 103,
   "repos": {
-   "marcuspat/Sentinel": 3,
-   "marcuspat/html-sites": 6,
-   "marcuspat/marcuspat": 2,
-   "marcuspat/ancuria": 40,
-   "marcuspat/turbo-rig": 16,
-   "marcuspat/turbo-flow": 5,
-   "marcuspat/serviya": 2,
-   "marcuspat/velvet-bbs": 8,
-   "marcuspat/h20healer": 6,
-   "marcuspat/creandotumatrix-site": 8,
-   "marcuspat/adventure-wave-explorer": 16,
-   "marcuspat/sdelic_org": 5,
-   "marcuspat/AgenticsMexico": 5,
-   "marcuspat/rustops": 5,
-   "marcuspat/adventurewavelabs-website": 4,
-   "marcuspat/turboflowacademy": 3,
-   "marcuspat/agenticplatformengineering": 5,
-   "marcuspat/CMatrix-Landing-Page": 2,
    "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/awesome-agent-reliability": 9,
    "adventurewave-labs/.github": 4,
@@ -328,13 +173,13 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 10
   },
   "day": {
-   "2026-09-30": 59,
-   "2026-10-01": 69,
-   "2026-09-28": 51,
-   "2026-09-29": 9,
-   "2026-09-27": 8,
-   "2026-09-26": 21,
-   "2026-09-25": 27
+   "2026-10-01": 60,
+   "2026-09-26": 3,
+   "2026-09-30": 22,
+   "2026-09-28": 6,
+   "2026-09-27": 6,
+   "2026-09-25": 3,
+   "2026-09-29": 3
   }
  }
 }
