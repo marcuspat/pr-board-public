@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T19:39:33Z",
+ "generated": "2026-10-02T20:09:00Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -203,13 +203,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 41,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/awesome-agent-reliability",
    "number": 8,
    "title": "Add Patronus Ark local scanning SDK",
@@ -241,27 +234,26 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T19:37:01Z",
-  "total": 228,
+  "start": "2026-09-25T20:07:01Z",
+  "total": 224,
   "repos": {
    "marcuspat/html-sites": 6,
    "marcuspat/Sentinel": 3,
    "marcuspat/marcuspat": 2,
-   "marcuspat/ancuria": 37,
+   "marcuspat/ancuria": 36,
    "marcuspat/turbo-rig": 15,
    "marcuspat/turbo-flow": 5,
    "marcuspat/serviya": 2,
    "marcuspat/velvet-bbs": 8,
    "marcuspat/h20healer": 6,
-   "marcuspat/creandotumatrix-site": 7,
-   "marcuspat/adventure-wave-explorer": 6,
+   "marcuspat/creandotumatrix-site": 6,
+   "marcuspat/adventure-wave-explorer": 5,
    "marcuspat/sdelic_org": 5,
    "marcuspat/AgenticsMexico": 5,
    "marcuspat/rustops": 5,
    "marcuspat/adventurewavelabs-website": 4,
    "marcuspat/turboflowacademy": 3,
    "marcuspat/agenticplatformengineering": 5,
-   "marcuspat/CMatrix-Landing-Page": 1,
    "adventurewave-labs/excavate": 1,
    "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/awesome-agent-reliability": 9,
@@ -286,7 +278,7 @@
    "2026-09-29": 9,
    "2026-09-27": 8,
    "2026-09-26": 21,
-   "2026-09-25": 11
+   "2026-09-25": 7
   }
  }
 }
