@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T16:39:25Z",
+ "generated": "2026-10-02T17:09:34Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -231,12 +231,6 @@
   },
   {
    "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 13,
-   "title": "Add yylo to Loop Runners & Orchestrators",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
    "number": 8,
    "title": "Add Patronus Ark local scanning SDK",
    "mergedAt": "2026-10-01"
@@ -267,7 +261,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T16:37:01Z",
+  "start": "2026-09-25T17:07:01Z",
   "total": 240,
   "repos": {
    "marcuspat/html-sites": 6,
