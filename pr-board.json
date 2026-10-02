@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T14:39:48Z",
+ "generated": "2026-10-02T15:09:43Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -98,8 +98,8 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/debate-killer",
-   "number": 1,
+   "repo": "adventurewave-labs/excavate",
+   "number": 3,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
@@ -108,8 +108,8 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/excavate",
-   "number": 3,
+   "repo": "adventurewave-labs/debate-killer",
+   "number": 1,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
@@ -267,7 +267,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T14:37:01Z",
+  "start": "2026-09-25T15:07:01Z",
   "total": 242,
   "repos": {
    "marcuspat/html-sites": 6,
