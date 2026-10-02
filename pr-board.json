@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T21:38:55Z",
+ "generated": "2026-10-02T22:08:52Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -190,12 +190,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/marcuspat",
-   "number": 4,
-   "title": "docs: add Turbo Brain v2 to the Turbo Rig and Turbo-Flow stack tables",
-   "mergedAt": "2026-10-01"
-  },
-  {
    "repo": "adventurewave-labs/awesome-agent-reliability",
    "number": 8,
    "title": "Add Patronus Ark local scanning SDK",
@@ -218,26 +212,20 @@
    "number": 3,
    "title": "Add Darkmoon autonomous LLM and AI inference endpoint pentesting (OWASP LLM Top 10)",
    "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/.github",
-   "number": 6,
-   "title": "docs: add the Turbo Rig and Turbo-Flow stack sections (incl. Turbo Brain v2)",
-   "mergedAt": "2026-10-01"
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T21:37:01Z",
-  "total": 222,
+  "start": "2026-09-25T22:07:01Z",
+  "total": 220,
   "repos": {
    "marcuspat/html-sites": 6,
    "marcuspat/Sentinel": 3,
    "marcuspat/marcuspat": 2,
-   "marcuspat/ancuria": 35,
+   "marcuspat/ancuria": 34,
    "marcuspat/turbo-rig": 15,
    "marcuspat/turbo-flow": 5,
    "marcuspat/serviya": 2,
-   "marcuspat/velvet-bbs": 8,
+   "marcuspat/velvet-bbs": 7,
    "marcuspat/h20healer": 6,
    "marcuspat/creandotumatrix-site": 6,
    "marcuspat/adventure-wave-explorer": 5,
@@ -271,7 +259,7 @@
    "2026-09-29": 9,
    "2026-09-27": 8,
    "2026-09-26": 21,
-   "2026-09-25": 5
+   "2026-09-25": 3
   }
  }
 }
