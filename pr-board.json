@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T23:41:52Z",
+ "generated": "2026-10-02T00:10:57Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -29,9 +29,9 @@
    "note": "no gate review yet"
   },
   {
-   "repo": "marcuspat/Sentinel",
-   "number": 11,
-   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
+   "repo": "marcuspat/netrain",
+   "number": 38,
+   "title": "SOTA loop: real packet decoding, working threat detection, roadmap",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-01",
@@ -39,9 +39,9 @@
    "note": "no gate review yet"
   },
   {
-   "repo": "marcuspat/netrain",
-   "number": 38,
-   "title": "SOTA loop: real packet decoding, working threat detection, roadmap",
+   "repo": "marcuspat/Sentinel",
+   "number": 11,
+   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-01",
@@ -67,6 +67,16 @@
    "updated": "2026-10-01",
    "g": "needs_work",
    "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/GUI-LOP",
+   "number": 12,
+   "title": "Production-readiness round 3 (contains PR #11)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "unreviewed",
+   "note": "no gate review yet"
   },
   {
    "repo": "adventurewave-labs/GUI-LOP",
@@ -228,13 +238,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 15,
-   "title": "(private repo)",
-   "mergedAt": "2026-09-30",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/marcuspat",
    "number": 4,
    "title": "docs: add Turbo Brain v2 to the Turbo Rig and Turbo-Flow stack tables",
@@ -285,13 +288,6 @@
    "number": 11,
    "title": "(private repo)",
    "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/velvet-bbs",
-   "number": 10,
-   "title": "(private repo)",
-   "mergedAt": "2026-09-30",
    "priv": true
   },
   {
@@ -347,12 +343,6 @@
    "number": 6,
    "title": "docs: add the Turbo Rig and Turbo-Flow stack sections (incl. Turbo Brain v2)",
    "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/.github",
-   "number": 5,
-   "title": "profile: move noip-scanner to DevOps / Infrastructure",
-   "mergedAt": "2026-09-30"
   },
   {
    "repo": "adventurewave-labs/dualbrand-lead-router",
