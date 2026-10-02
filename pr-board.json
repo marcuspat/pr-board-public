@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T04:39:14Z",
+ "generated": "2026-10-02T05:09:22Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,16 @@
  ],
  "private_stubbed": 56,
  "prs": [
+  {
+   "repo": "marcuspat/k8s-netinspect",
+   "number": 2,
+   "title": "k8s-netinspect 0.2.0: snapshot-based network diagnostics, policy reachability, CI output, ",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
+  },
   {
    "repo": "marcuspat/Sentinel",
    "number": 11,
@@ -21,16 +31,6 @@
    "repo": "marcuspat/netrain",
    "number": 38,
    "title": "netrain: working threat detection, real decoding, flows, hostnames, replay, JSON output, C",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
-   "repo": "marcuspat/k8s-netinspect",
-   "number": 2,
-   "title": "SOTA loop: snapshot-based network diagnostics (findings, policy reachability, offline anal",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
@@ -100,7 +100,7 @@
   {
    "repo": "adventurewave-labs/secret-scan",
    "number": 6,
-   "title": "SOTA loop: SARIF, redaction, inline allow, modern token formats, reproducible results",
+   "title": "SOTA loop: SARIF, baselines, config, git history, pre-commit, 73 rules, 27x faster",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
@@ -231,13 +231,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 37,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/awesome-agent-reliability",
    "number": 13,
    "title": "Add yylo to Loop Runners & Orchestrators",
@@ -281,20 +274,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 35,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 33,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/turbo-brain-v2",
    "number": 7,
    "title": "(private repo)",
@@ -310,13 +289,13 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T04:37:01Z",
-  "total": 245,
+  "start": "2026-09-25T05:07:01Z",
+  "total": 244,
   "repos": {
    "marcuspat/Sentinel": 3,
    "marcuspat/html-sites": 6,
    "marcuspat/marcuspat": 2,
-   "marcuspat/ancuria": 41,
+   "marcuspat/ancuria": 40,
    "marcuspat/turbo-rig": 16,
    "marcuspat/turbo-flow": 5,
    "marcuspat/serviya": 2,
@@ -355,7 +334,7 @@
    "2026-09-29": 9,
    "2026-09-27": 8,
    "2026-09-26": 21,
-   "2026-09-25": 28
+   "2026-09-25": 27
   }
  }
 }
