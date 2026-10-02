@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T18:09:23Z",
+ "generated": "2026-10-02T18:40:13Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -98,8 +98,8 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/excavate",
-   "number": 3,
+   "repo": "adventurewave-labs/debate-killer",
+   "number": 1,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
@@ -108,8 +108,8 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/debate-killer",
-   "number": 1,
+   "repo": "adventurewave-labs/excavate",
+   "number": 3,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
@@ -252,17 +252,11 @@
    "number": 3,
    "title": "Add Darkmoon autonomous LLM and AI inference endpoint pentesting (OWASP LLM Top 10)",
    "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "adventurewave-labs/.github",
-   "number": 6,
-   "title": "docs: add the Turbo Rig and Turbo-Flow stack sections (incl. Turbo Brain v2)",
-   "mergedAt": "2026-10-01"
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T18:07:02Z",
-  "total": 234,
+  "start": "2026-09-25T18:37:01Z",
+  "total": 225,
   "repos": {
    "marcuspat/html-sites": 6,
    "marcuspat/Sentinel": 3,
@@ -273,19 +267,18 @@
    "marcuspat/serviya": 2,
    "marcuspat/velvet-bbs": 8,
    "marcuspat/h20healer": 6,
-   "marcuspat/creandotumatrix-site": 8,
-   "marcuspat/adventure-wave-explorer": 9,
+   "marcuspat/creandotumatrix-site": 7,
+   "marcuspat/adventure-wave-explorer": 6,
    "marcuspat/sdelic_org": 5,
    "marcuspat/AgenticsMexico": 5,
    "marcuspat/rustops": 5,
    "marcuspat/adventurewavelabs-website": 4,
    "marcuspat/turboflowacademy": 3,
    "marcuspat/agenticplatformengineering": 5,
-   "marcuspat/CMatrix-Landing-Page": 2,
+   "marcuspat/CMatrix-Landing-Page": 1,
    "adventurewave-labs/excavate": 1,
    "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/awesome-agent-reliability": 9,
-   "adventurewave-labs/.github": 4,
    "adventurewave-labs/pipeline-machine-v2": 32,
    "adventurewave-labs/turbo-brain-v2": 7,
    "adventurewave-labs/loopwatch-v2": 12,
@@ -300,13 +293,13 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 10
   },
   "day": {
-   "2026-10-01": 69,
-   "2026-09-30": 59,
+   "2026-10-01": 68,
+   "2026-09-30": 56,
    "2026-09-28": 51,
    "2026-09-29": 9,
    "2026-09-27": 8,
    "2026-09-26": 21,
-   "2026-09-25": 17
+   "2026-09-25": 12
   }
  }
 }
