@@ -1,13 +1,32 @@
 {
- "generated": "2026-10-02T00:38:54Z",
+ "generated": "2026-10-02T00:53:51Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
-  "creandotumatrix-labs",
-  "agentic-incubator"
+  "creandotumatrix-labs"
  ],
  "private_stubbed": 56,
  "prs": [
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 19,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "green",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 18,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/html-sites",
    "number": 17,
@@ -17,6 +36,16 @@
    "updated": "2026-10-02",
    "g": "unreviewed",
    "priv": true
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 2,
+   "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
    "repo": "marcuspat/k8s-netinspect",
@@ -49,16 +78,6 @@
    "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
-   "repo": "marcuspat/cargocrypt",
-   "number": 2,
-   "title": "SOTA hardening loop: fail-closed git filters, versioned format, scan CLI",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-02"
-  },
-  {
    "repo": "marcuspat/turbo-rig",
    "number": 41,
    "title": "(private repo)",
@@ -85,8 +104,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-02"
+   "g": "stale",
+   "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
    "repo": "adventurewave-labs/GUI-LOP",
@@ -147,46 +166,6 @@
    "updated": "2026-10-02",
    "g": "needs_work",
    "priv": true
-  },
-  {
-   "repo": "agentic-incubator/claude-autopilot",
-   "number": 31,
-   "title": "chore(deps): bump prettier from 3.9.6 to 3.9.9 in the dev-dependencies group",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-09-28",
-   "g": "bots",
-   "note": "automated bump - never gated"
-  },
-  {
-   "repo": "agentic-incubator/java-spring-modernization-marketplace",
-   "number": 17,
-   "title": "chore(deps): bump prettier from 3.9.6 to 3.9.8 in the dev-dependencies group",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-09-28",
-   "g": "bots",
-   "note": "automated bump - never gated"
-  },
-  {
-   "repo": "agentic-incubator/rust-optimizer",
-   "number": 7,
-   "title": "chore(ci): Bump actions/setup-node from 6 to 7 in the github-actions group across 1 direct",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-09-28",
-   "g": "bots",
-   "note": "automated bump - never gated"
-  },
-  {
-   "repo": "agentic-incubator/rust-optimizer",
-   "number": 5,
-   "title": "chore(deps): Bump the dev-dependencies group across 1 directory with 2 updates",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-09-28",
-   "g": "bots",
-   "note": "automated bump - never gated"
   }
  ],
  "merged_24h": [
@@ -662,7 +641,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T00:37:01Z",
+  "start": "2026-09-25T00:52:02Z",
   "total": 258,
   "repos": {
    "marcuspat/html-sites": 6,
