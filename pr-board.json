@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T19:09:45Z",
+ "generated": "2026-10-02T19:39:33Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -98,8 +98,8 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/debate-killer",
-   "number": 1,
+   "repo": "adventurewave-labs/excavate",
+   "number": 3,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
@@ -108,8 +108,8 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/excavate",
-   "number": 3,
+   "repo": "adventurewave-labs/debate-killer",
+   "number": 1,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
@@ -203,26 +203,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/turbo-rig",
-   "number": 39,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 60,
-   "title": "rig-lite v5.2 wave 1: secret.sh (Law 4 gets its tool), deletion-guard hook, memory scaffol",
-   "mergedAt": "2026-10-01"
-  },
-  {
-   "repo": "marcuspat/serviya",
-   "number": 2,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-01",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/dualbrand-lead-router",
    "number": 41,
    "title": "(private repo)",
@@ -261,14 +241,14 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T19:07:01Z",
-  "total": 229,
+  "start": "2026-09-25T19:37:01Z",
+  "total": 228,
   "repos": {
    "marcuspat/html-sites": 6,
    "marcuspat/Sentinel": 3,
    "marcuspat/marcuspat": 2,
    "marcuspat/ancuria": 37,
-   "marcuspat/turbo-rig": 16,
+   "marcuspat/turbo-rig": 15,
    "marcuspat/turbo-flow": 5,
    "marcuspat/serviya": 2,
    "marcuspat/velvet-bbs": 8,
@@ -306,7 +286,7 @@
    "2026-09-29": 9,
    "2026-09-27": 8,
    "2026-09-26": 21,
-   "2026-09-25": 12
+   "2026-09-25": 11
   }
  }
 }
