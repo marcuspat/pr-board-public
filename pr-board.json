@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T22:08:52Z",
+ "generated": "2026-10-02T22:38:52Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -215,8 +215,8 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-25T22:07:01Z",
-  "total": 220,
+  "start": "2026-09-25T22:37:01Z",
+  "total": 219,
   "repos": {
    "marcuspat/html-sites": 6,
    "marcuspat/Sentinel": 3,
@@ -235,7 +235,6 @@
    "marcuspat/adventurewavelabs-website": 4,
    "marcuspat/turboflowacademy": 3,
    "marcuspat/agenticplatformengineering": 5,
-   "adventurewave-labs/excavate": 1,
    "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/awesome-agent-reliability": 9,
    "adventurewave-labs/.github": 4,
@@ -259,7 +258,7 @@
    "2026-09-29": 9,
    "2026-09-27": 8,
    "2026-09-26": 21,
-   "2026-09-25": 3
+   "2026-09-25": 2
   }
  }
 }
