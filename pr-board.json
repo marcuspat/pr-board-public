@@ -1,12 +1,22 @@
 {
- "generated": "2026-10-04T20:39:03Z",
+ "generated": "2026-10-04T21:08:57Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
   "creandotumatrix-labs"
  ],
- "private_stubbed": 59,
+ "private_stubbed": 58,
  "prs": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 502,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-04",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/ancuria",
    "number": 500,
@@ -59,21 +69,11 @@
   },
   {
    "repo": "adventurewave-labs/brain-vault",
-   "number": 2,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-01",
-   "g": "needs_work",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/brain-vault",
    "number": 1,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-10-02",
+   "updated": "2026-10-04",
    "g": "needs_work",
    "priv": true
   },
@@ -293,7 +293,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-27T20:37:01Z",
+  "start": "2026-09-27T21:07:01Z",
   "total": 218,
   "repos": {
    "marcuspat/ancuria": 28,
