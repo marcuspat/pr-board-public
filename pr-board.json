@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T18:39:24Z",
+ "generated": "2026-10-04T19:09:26Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -110,6 +110,13 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/ancuria",
+   "number": 498,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/cargocrypt",
    "number": 13,
    "title": "chore: criterion 0.5 \u2192 0.8.2 + std::hint::black_box migration",
@@ -162,13 +169,6 @@
    "number": 2,
    "title": "CargoCrypt 0.3.0: make the advertised features real (15-loop hardening round)",
    "mergedAt": "2026-10-04"
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 498,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
   },
   {
    "repo": "marcuspat/html-sites",
@@ -283,11 +283,11 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-27T18:37:01Z",
+  "start": "2026-09-27T19:07:02Z",
   "total": 217,
   "repos": {
-   "marcuspat/cargocrypt": 9,
    "marcuspat/ancuria": 28,
+   "marcuspat/cargocrypt": 9,
    "marcuspat/html-sites": 10,
    "marcuspat/Sentinel": 8,
    "marcuspat/netrain": 2,
