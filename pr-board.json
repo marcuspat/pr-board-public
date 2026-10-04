@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T21:38:45Z",
+ "generated": "2026-10-04T22:08:46Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,16 @@
  ],
  "private_stubbed": 58,
  "prs": [
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 42,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-04",
+   "g": "stale",
+   "priv": true
+  },
   {
    "repo": "marcuspat/ancuria",
    "number": 502,
@@ -35,6 +45,16 @@
    "kind": "ours",
    "updated": "2026-10-04",
    "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/pipeline-machine-v2",
+   "number": 37,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-04",
+   "g": "green",
    "priv": true
   },
   {
@@ -99,6 +119,20 @@
   }
  ],
  "merged_24h": [
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 41,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 40,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
   {
    "repo": "marcuspat/ancuria",
    "number": 501,
@@ -257,20 +291,6 @@
    "mergedAt": "2026-10-04"
   },
   {
-   "repo": "marcuspat/turbo-rig",
-   "number": 41,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 40,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/turbo-brain-v2",
    "number": 10,
    "title": "(private repo)",
@@ -293,16 +313,16 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-27T21:37:01Z",
+  "start": "2026-09-27T22:07:01Z",
   "total": 218,
   "repos": {
+   "marcuspat/turbo-rig": 17,
    "marcuspat/ancuria": 28,
    "marcuspat/cargocrypt": 10,
    "marcuspat/html-sites": 10,
    "marcuspat/Sentinel": 8,
    "marcuspat/netrain": 2,
    "marcuspat/k8s-netinspect": 1,
-   "marcuspat/turbo-rig": 17,
    "marcuspat/marcuspat": 2,
    "marcuspat/turbo-flow": 5,
    "marcuspat/serviya": 2,
@@ -316,13 +336,13 @@
    "marcuspat/adventurewavelabs-website": 2,
    "marcuspat/turboflowacademy": 3,
    "marcuspat/agenticplatformengineering": 1,
+   "adventurewave-labs/pipeline-machine-v2": 32,
    "adventurewave-labs/turbo-brain-v2": 8,
    "adventurewave-labs/excavate": 1,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/awesome-agent-reliability": 8,
    "adventurewave-labs/.github": 4,
-   "adventurewave-labs/pipeline-machine-v2": 32,
    "adventurewave-labs/loopwatch-v2": 12,
    "adventurewave-labs/codescope": 1,
    "adventurewave-labs/ansible-heal-agent": 1,
@@ -334,8 +354,8 @@
   },
   "day": {
    "2026-10-04": 28,
-   "2026-09-30": 59,
    "2026-10-01": 69,
+   "2026-09-30": 59,
    "2026-09-29": 9,
    "2026-09-28": 51,
    "2026-10-03": 2
