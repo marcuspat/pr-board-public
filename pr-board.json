@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T02:08:43Z",
+ "generated": "2026-10-04T02:38:42Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,16 +7,6 @@
  ],
  "private_stubbed": 56,
  "prs": [
-  {
-   "repo": "marcuspat/Sentinel",
-   "number": 14,
-   "title": "fix ci: clippy denies in the vacuum filter chain",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-04",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
   {
    "repo": "marcuspat/cargocrypt",
    "number": 11,
@@ -181,6 +171,18 @@
  "merged_24h": [
   {
    "repo": "marcuspat/Sentinel",
+   "number": 15,
+   "title": "fix ci: drop the now-unused len() accessor",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/Sentinel",
+   "number": 14,
+   "title": "fix ci: clippy denies in the vacuum filter chain",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/Sentinel",
    "number": 13,
    "title": "fix ci: ambiguous .into() in the log_vacuum traversal arm (E0283)",
    "mergedAt": "2026-10-04"
@@ -279,10 +281,10 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-27T02:07:01Z",
-  "total": 211,
+  "start": "2026-09-27T02:37:01Z",
+  "total": 213,
   "repos": {
-   "marcuspat/Sentinel": 6,
+   "marcuspat/Sentinel": 8,
    "marcuspat/netrain": 2,
    "marcuspat/cargocrypt": 1,
    "marcuspat/k8s-netinspect": 1,
@@ -319,7 +321,7 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 8
   },
   "day": {
-   "2026-10-04": 13,
+   "2026-10-04": 15,
    "2026-09-30": 59,
    "2026-10-01": 69,
    "2026-09-29": 9,
