@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T17:08:54Z",
+ "generated": "2026-10-04T17:39:04Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,46 +7,6 @@
  ],
  "private_stubbed": 57,
  "prs": [
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 499,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-04",
-   "g": "needs_work",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 498,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-04",
-   "g": "green",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 11,
-   "title": "Bump bincode from 1.3.3 to 3.0.0 in /cargocrypt",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-10-04",
-   "g": "bots",
-   "note": "automated bump - never gated"
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 10,
-   "title": "Bump rand from 0.8.8 to 0.9.5 in /cargocrypt",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-10-04",
-   "g": "bots",
-   "note": "automated bump - never gated"
-  },
   {
    "repo": "marcuspat/cargocrypt",
    "number": 9,
@@ -116,6 +76,26 @@
    "updated": "2026-10-04",
    "g": "bots",
    "note": "automated bump - never gated"
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 499,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-04",
+   "g": "needs_work",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 498,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-04",
+   "g": "green",
+   "priv": true
   },
   {
    "repo": "adventurewave-labs/secret-scan",
@@ -211,6 +191,12 @@
    "priv": true
   },
   {
+   "repo": "marcuspat/cargocrypt",
+   "number": 2,
+   "title": "CargoCrypt 0.3.0: make the advertised features real (15-loop hardening round)",
+   "mergedAt": "2026-10-04"
+  },
+  {
    "repo": "marcuspat/Sentinel",
    "number": 15,
    "title": "fix ci: drop the now-unused len() accessor",
@@ -250,12 +236,6 @@
    "repo": "marcuspat/netrain",
    "number": 38,
    "title": "netrain: working threat detection, real decoding, flows, hostnames, replay, JSON output, C",
-   "mergedAt": "2026-10-04"
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 2,
-   "title": "CargoCrypt 0.3.0: make the advertised features real (15-loop hardening round)",
    "mergedAt": "2026-10-04"
   },
   {
@@ -301,14 +281,14 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-27T17:07:02Z",
+  "start": "2026-09-27T17:37:01Z",
   "total": 207,
   "repos": {
    "marcuspat/html-sites": 9,
+   "marcuspat/cargocrypt": 1,
    "marcuspat/ancuria": 27,
    "marcuspat/Sentinel": 8,
    "marcuspat/netrain": 2,
-   "marcuspat/cargocrypt": 1,
    "marcuspat/k8s-netinspect": 1,
    "marcuspat/turbo-rig": 17,
    "marcuspat/marcuspat": 2,
