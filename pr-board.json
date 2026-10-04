@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T01:09:05Z",
+ "generated": "2026-10-04T01:38:50Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -88,16 +88,6 @@
    "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
-   "repo": "adventurewave-labs/turbo-brain-v2",
-   "number": 10,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-04",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/secret-scan",
    "number": 6,
    "title": "SOTA loop: SARIF, baselines, config, git history, pre-commit, 73 rules, 27x faster",
@@ -177,6 +167,13 @@
    "priv": true
   },
   {
+   "repo": "adventurewave-labs/turbo-brain-v2",
+   "number": 10,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
    "repo": "adventurewave-labs/excavate",
    "number": 3,
    "title": "(private repo)",
@@ -192,8 +189,8 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-27T01:07:02Z",
-  "total": 191,
+  "start": "2026-09-27T01:37:01Z",
+  "total": 200,
   "repos": {
    "marcuspat/Sentinel": 3,
    "marcuspat/turbo-rig": 15,
@@ -212,10 +209,11 @@
    "marcuspat/adventurewavelabs-website": 2,
    "marcuspat/turboflowacademy": 3,
    "marcuspat/agenticplatformengineering": 1,
-   "adventurewave-labs/turbo-brain-v2": 7,
+   "adventurewave-labs/turbo-brain-v2": 8,
    "adventurewave-labs/excavate": 1,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/dualbrand-lead-router": 12,
+   "adventurewave-labs/awesome-agent-reliability": 8,
    "adventurewave-labs/.github": 4,
    "adventurewave-labs/pipeline-machine-v2": 32,
    "adventurewave-labs/loopwatch-v2": 12,
@@ -229,10 +227,10 @@
   },
   "day": {
    "2026-09-30": 59,
-   "2026-10-01": 61,
+   "2026-10-01": 69,
    "2026-09-29": 9,
    "2026-09-28": 51,
-   "2026-10-04": 1,
+   "2026-10-04": 2,
    "2026-09-27": 8,
    "2026-10-03": 2
   }
