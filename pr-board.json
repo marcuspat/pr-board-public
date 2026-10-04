@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T00:08:50Z",
+ "generated": "2026-10-04T00:38:51Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -8,13 +8,33 @@
  "private_stubbed": 56,
  "prs": [
   {
-   "repo": "marcuspat/html-sites",
-   "number": 19,
+   "repo": "marcuspat/Sentinel",
+   "number": 11,
+   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-04",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-04 - re-gate"
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 41,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "green",
+   "updated": "2026-10-04",
+   "g": "needs_work",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 40,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-04",
+   "g": "needs_work",
    "priv": true
   },
   {
@@ -24,7 +44,7 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-04",
-   "g": "stale",
+   "g": "needs_work",
    "priv": true
   },
   {
@@ -33,24 +53,14 @@
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "unreviewed",
+   "updated": "2026-10-04",
+   "g": "needs_work",
    "priv": true
   },
   {
    "repo": "marcuspat/k8s-netinspect",
    "number": 2,
    "title": "k8s-netinspect 0.2.0: snapshot-based network diagnostics, policy reachability, CI output, ",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
-   "repo": "marcuspat/Sentinel",
-   "number": 11,
-   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-02",
@@ -76,26 +86,6 @@
    "updated": "2026-10-02",
    "g": "stale",
    "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 41,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-01",
-   "g": "green",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 40,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-01",
-   "g": "needs_work",
-   "priv": true
   },
   {
    "repo": "adventurewave-labs/secret-scan",
@@ -170,6 +160,13 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/html-sites",
+   "number": 19,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
    "repo": "adventurewave-labs/excavate",
    "number": 3,
    "title": "(private repo)",
@@ -185,14 +182,14 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-27T00:07:01Z",
-  "total": 198,
+  "start": "2026-09-27T00:37:02Z",
+  "total": 199,
   "repos": {
-   "marcuspat/html-sites": 6,
    "marcuspat/Sentinel": 3,
+   "marcuspat/turbo-rig": 15,
+   "marcuspat/html-sites": 7,
    "marcuspat/marcuspat": 2,
    "marcuspat/ancuria": 27,
-   "marcuspat/turbo-rig": 15,
    "marcuspat/turbo-flow": 5,
    "marcuspat/serviya": 2,
    "marcuspat/velvet-bbs": 4,
@@ -222,10 +219,11 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 8
   },
   "day": {
-   "2026-10-01": 69,
    "2026-09-30": 59,
-   "2026-09-28": 51,
+   "2026-10-01": 69,
    "2026-09-29": 9,
+   "2026-09-28": 51,
+   "2026-10-04": 1,
    "2026-09-27": 8,
    "2026-10-03": 2
   }
