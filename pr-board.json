@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T17:39:04Z",
+ "generated": "2026-10-04T18:09:06Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,16 @@
  ],
  "private_stubbed": 57,
  "prs": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 499,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-04",
+   "g": "needs_work",
+   "priv": true
+  },
   {
    "repo": "marcuspat/cargocrypt",
    "number": 9,
@@ -78,23 +88,13 @@
    "note": "automated bump - never gated"
   },
   {
-   "repo": "marcuspat/ancuria",
-   "number": 499,
+   "repo": "marcuspat/html-sites",
+   "number": 20,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-04",
-   "g": "needs_work",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 498,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-04",
-   "g": "green",
+   "g": "unreviewed",
    "priv": true
   },
   {
@@ -170,6 +170,25 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/ancuria",
+   "number": 498,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 12,
+   "title": "fix: make v0.3.0 compile (E0599 + E0382 + unused import + rustfmt)",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 2,
+   "title": "CargoCrypt 0.3.0: make the advertised features real (15-loop hardening round)",
+   "mergedAt": "2026-10-04"
+  },
+  {
    "repo": "marcuspat/html-sites",
    "number": 19,
    "title": "(private repo)",
@@ -189,12 +208,6 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-04",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 2,
-   "title": "CargoCrypt 0.3.0: make the advertised features real (15-loop hardening round)",
-   "mergedAt": "2026-10-04"
   },
   {
    "repo": "marcuspat/Sentinel",
@@ -281,12 +294,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-27T17:37:01Z",
-  "total": 207,
+  "start": "2026-09-27T18:07:01Z",
+  "total": 209,
   "repos": {
+   "marcuspat/ancuria": 28,
+   "marcuspat/cargocrypt": 2,
    "marcuspat/html-sites": 9,
-   "marcuspat/cargocrypt": 1,
-   "marcuspat/ancuria": 27,
    "marcuspat/Sentinel": 8,
    "marcuspat/netrain": 2,
    "marcuspat/k8s-netinspect": 1,
@@ -321,11 +334,11 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 8
   },
   "day": {
-   "2026-10-04": 15,
-   "2026-10-01": 69,
+   "2026-10-04": 17,
    "2026-09-30": 59,
-   "2026-09-28": 51,
+   "2026-10-01": 69,
    "2026-09-29": 9,
+   "2026-09-28": 51,
    "2026-09-27": 2,
    "2026-10-03": 2
   }
