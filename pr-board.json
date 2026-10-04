@@ -1,12 +1,22 @@
 {
- "generated": "2026-10-04T18:09:06Z",
+ "generated": "2026-10-04T18:39:24Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
   "creandotumatrix-labs"
  ],
- "private_stubbed": 57,
+ "private_stubbed": 59,
  "prs": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 500,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-04",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/ancuria",
    "number": 499,
@@ -18,78 +28,8 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/cargocrypt",
-   "number": 9,
-   "title": "Bump criterion from 0.5.1 to 0.8.2 in /cargocrypt",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-10-04",
-   "g": "bots",
-   "note": "automated bump - never gated"
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 8,
-   "title": "Bump argon2 from 0.5.3 to 0.6.0 in /cargocrypt",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-10-04",
-   "g": "bots",
-   "note": "automated bump - never gated"
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 7,
-   "title": "Bump x25519-dalek from 2.0.1 to 3.0.0 in /cargocrypt",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-10-04",
-   "g": "bots",
-   "note": "automated bump - never gated"
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 6,
-   "title": "Bump actions/checkout from 4 to 7",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-10-04",
-   "g": "bots",
-   "note": "automated bump - never gated"
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 4,
-   "title": "Bump actions/upload-artifact from 4 to 7",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-10-04",
-   "g": "bots",
-   "note": "automated bump - never gated"
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 5,
-   "title": "Bump actions/download-artifact from 4 to 8",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-10-04",
-   "g": "bots",
-   "note": "automated bump - never gated"
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 3,
-   "title": "Bump actions/attest-build-provenance from 2 to 4",
-   "author": "app/dependabot",
-   "kind": "bot",
-   "updated": "2026-10-04",
-   "g": "bots",
-   "note": "automated bump - never gated"
-  },
-  {
    "repo": "marcuspat/html-sites",
-   "number": 20,
+   "number": 21,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
@@ -170,11 +110,10 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/ancuria",
-   "number": 498,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
+   "repo": "marcuspat/cargocrypt",
+   "number": 13,
+   "title": "chore: criterion 0.5 \u2192 0.8.2 + std::hint::black_box migration",
+   "mergedAt": "2026-10-04"
   },
   {
    "repo": "marcuspat/cargocrypt",
@@ -184,9 +123,59 @@
   },
   {
    "repo": "marcuspat/cargocrypt",
+   "number": 8,
+   "title": "Bump argon2 from 0.5.3 to 0.6.0 in /cargocrypt",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 7,
+   "title": "Bump x25519-dalek from 2.0.1 to 3.0.0 in /cargocrypt",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 6,
+   "title": "Bump actions/checkout from 4 to 7",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 4,
+   "title": "Bump actions/upload-artifact from 4 to 7",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 5,
+   "title": "Bump actions/download-artifact from 4 to 8",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 3,
+   "title": "Bump actions/attest-build-provenance from 2 to 4",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
    "number": 2,
    "title": "CargoCrypt 0.3.0: make the advertised features real (15-loop hardening round)",
    "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 498,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 20,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
   },
   {
    "repo": "marcuspat/html-sites",
@@ -294,12 +283,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-27T18:07:01Z",
-  "total": 209,
+  "start": "2026-09-27T18:37:01Z",
+  "total": 217,
   "repos": {
+   "marcuspat/cargocrypt": 9,
    "marcuspat/ancuria": 28,
-   "marcuspat/cargocrypt": 2,
-   "marcuspat/html-sites": 9,
+   "marcuspat/html-sites": 10,
    "marcuspat/Sentinel": 8,
    "marcuspat/netrain": 2,
    "marcuspat/k8s-netinspect": 1,
@@ -334,7 +323,7 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 8
   },
   "day": {
-   "2026-10-04": 17,
+   "2026-10-04": 25,
    "2026-09-30": 59,
    "2026-10-01": 69,
    "2026-09-29": 9,
