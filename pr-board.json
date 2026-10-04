@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T22:08:46Z",
+ "generated": "2026-10-04T22:38:40Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,16 +7,6 @@
  ],
  "private_stubbed": 58,
  "prs": [
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 42,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-04",
-   "g": "stale",
-   "priv": true
-  },
   {
    "repo": "marcuspat/ancuria",
    "number": 502,
@@ -45,16 +35,6 @@
    "kind": "ours",
    "updated": "2026-10-04",
    "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 37,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-04",
-   "g": "green",
    "priv": true
   },
   {
@@ -119,6 +99,13 @@
   }
  ],
  "merged_24h": [
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 42,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
   {
    "repo": "marcuspat/turbo-rig",
    "number": 41,
@@ -291,6 +278,13 @@
    "mergedAt": "2026-10-04"
   },
   {
+   "repo": "adventurewave-labs/pipeline-machine-v2",
+   "number": 37,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
    "repo": "adventurewave-labs/turbo-brain-v2",
    "number": 10,
    "title": "(private repo)",
@@ -313,10 +307,10 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-27T22:07:01Z",
-  "total": 218,
+  "start": "2026-09-27T22:37:01Z",
+  "total": 220,
   "repos": {
-   "marcuspat/turbo-rig": 17,
+   "marcuspat/turbo-rig": 18,
    "marcuspat/ancuria": 28,
    "marcuspat/cargocrypt": 10,
    "marcuspat/html-sites": 10,
@@ -336,7 +330,7 @@
    "marcuspat/adventurewavelabs-website": 2,
    "marcuspat/turboflowacademy": 3,
    "marcuspat/agenticplatformengineering": 1,
-   "adventurewave-labs/pipeline-machine-v2": 32,
+   "adventurewave-labs/pipeline-machine-v2": 33,
    "adventurewave-labs/turbo-brain-v2": 8,
    "adventurewave-labs/excavate": 1,
    "adventurewave-labs/debate-killer": 1,
@@ -353,7 +347,7 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 8
   },
   "day": {
-   "2026-10-04": 28,
+   "2026-10-04": 30,
    "2026-10-01": 69,
    "2026-09-30": 59,
    "2026-09-29": 9,
