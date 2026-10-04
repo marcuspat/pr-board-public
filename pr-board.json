@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T01:38:50Z",
+ "generated": "2026-10-04T02:08:43Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -8,84 +8,104 @@
  "private_stubbed": 56,
  "prs": [
   {
-   "repo": "marcuspat/cargocrypt",
-   "number": 2,
-   "title": "CargoCrypt 0.3.0: make the advertised features real (15-loop hardening round)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-04",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-04"
-  },
-  {
-   "repo": "marcuspat/netrain",
-   "number": 38,
-   "title": "netrain: working threat detection, real decoding, flows, hostnames, replay, JSON output, C",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-04",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-04"
-  },
-  {
    "repo": "marcuspat/Sentinel",
+   "number": 14,
+   "title": "fix ci: clippy denies in the vacuum filter chain",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-04",
+   "g": "unreviewed",
+   "note": "no gate review yet"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
    "number": 11,
-   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
-   "author": "marcuspat",
-   "kind": "ours",
+   "title": "Bump bincode from 1.3.3 to 3.0.0 in /cargocrypt",
+   "author": "app/dependabot",
+   "kind": "bot",
    "updated": "2026-10-04",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-04 - re-gate"
+   "g": "bots",
+   "note": "automated bump - never gated"
   },
   {
-   "repo": "marcuspat/turbo-rig",
-   "number": 41,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
+   "repo": "marcuspat/cargocrypt",
+   "number": 10,
+   "title": "Bump rand from 0.8.8 to 0.9.5 in /cargocrypt",
+   "author": "app/dependabot",
+   "kind": "bot",
    "updated": "2026-10-04",
-   "g": "needs_work",
-   "priv": true
+   "g": "bots",
+   "note": "automated bump - never gated"
   },
   {
-   "repo": "marcuspat/turbo-rig",
-   "number": 40,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
+   "repo": "marcuspat/cargocrypt",
+   "number": 9,
+   "title": "Bump criterion from 0.5.1 to 0.8.2 in /cargocrypt",
+   "author": "app/dependabot",
+   "kind": "bot",
    "updated": "2026-10-04",
-   "g": "needs_work",
-   "priv": true
+   "g": "bots",
+   "note": "automated bump - never gated"
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 18,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
+   "repo": "marcuspat/cargocrypt",
+   "number": 8,
+   "title": "Bump argon2 from 0.5.3 to 0.6.0 in /cargocrypt",
+   "author": "app/dependabot",
+   "kind": "bot",
    "updated": "2026-10-04",
-   "g": "needs_work",
-   "priv": true
+   "g": "bots",
+   "note": "automated bump - never gated"
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 17,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
+   "repo": "marcuspat/cargocrypt",
+   "number": 7,
+   "title": "Bump x25519-dalek from 2.0.1 to 3.0.0 in /cargocrypt",
+   "author": "app/dependabot",
+   "kind": "bot",
    "updated": "2026-10-04",
-   "g": "needs_work",
-   "priv": true
+   "g": "bots",
+   "note": "automated bump - never gated"
   },
   {
-   "repo": "marcuspat/k8s-netinspect",
-   "number": 2,
-   "title": "k8s-netinspect 0.2.0: snapshot-based network diagnostics, policy reachability, CI output, ",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
+   "repo": "marcuspat/cargocrypt",
+   "number": 6,
+   "title": "Bump actions/checkout from 4 to 7",
+   "author": "app/dependabot",
+   "kind": "bot",
+   "updated": "2026-10-04",
+   "g": "bots",
+   "note": "automated bump - never gated"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 4,
+   "title": "Bump actions/upload-artifact from 4 to 7",
+   "author": "app/dependabot",
+   "kind": "bot",
+   "updated": "2026-10-04",
+   "g": "bots",
+   "note": "automated bump - never gated"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 5,
+   "title": "Bump actions/download-artifact from 4 to 8",
+   "author": "app/dependabot",
+   "kind": "bot",
+   "updated": "2026-10-04",
+   "g": "bots",
+   "note": "automated bump - never gated"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 3,
+   "title": "Bump actions/attest-build-provenance from 2 to 4",
+   "author": "app/dependabot",
+   "kind": "bot",
+   "updated": "2026-10-04",
+   "g": "bots",
+   "note": "automated bump - never gated"
   },
   {
    "repo": "adventurewave-labs/secret-scan",
@@ -160,8 +180,78 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/Sentinel",
+   "number": 13,
+   "title": "fix ci: ambiguous .into() in the log_vacuum traversal arm (E0283)",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/Sentinel",
+   "number": 12,
+   "title": "fix ci after #11: rustfmt rewraps in the round-4 test code",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/Sentinel",
+   "number": 11,
+   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/netrain",
+   "number": 39,
+   "title": "fix ci after #38: rustfmt one-liner + clamp test counts both tables",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/netrain",
+   "number": 38,
+   "title": "netrain: working threat detection, real decoding, flows, hostnames, replay, JSON output, C",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 2,
+   "title": "CargoCrypt 0.3.0: make the advertised features real (15-loop hardening round)",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/k8s-netinspect",
+   "number": 2,
+   "title": "k8s-netinspect 0.2.0: snapshot-based network diagnostics, policy reachability, CI output, ",
+   "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 41,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 40,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/html-sites",
    "number": 19,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 18,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 17,
    "title": "(private repo)",
    "mergedAt": "2026-10-04",
    "priv": true
@@ -189,12 +279,15 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-27T01:37:01Z",
-  "total": 200,
+  "start": "2026-09-27T02:07:01Z",
+  "total": 211,
   "repos": {
-   "marcuspat/Sentinel": 3,
-   "marcuspat/turbo-rig": 15,
-   "marcuspat/html-sites": 7,
+   "marcuspat/Sentinel": 6,
+   "marcuspat/netrain": 2,
+   "marcuspat/cargocrypt": 1,
+   "marcuspat/k8s-netinspect": 1,
+   "marcuspat/turbo-rig": 17,
+   "marcuspat/html-sites": 9,
    "marcuspat/marcuspat": 2,
    "marcuspat/ancuria": 27,
    "marcuspat/turbo-flow": 5,
@@ -226,11 +319,11 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 8
   },
   "day": {
+   "2026-10-04": 13,
    "2026-09-30": 59,
    "2026-10-01": 69,
    "2026-09-29": 9,
    "2026-09-28": 51,
-   "2026-10-04": 2,
    "2026-09-27": 8,
    "2026-10-03": 2
   }
