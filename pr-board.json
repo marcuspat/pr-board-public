@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T22:38:40Z",
+ "generated": "2026-10-04T23:08:41Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -20,16 +20,6 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 500,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-04",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 21,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
@@ -100,27 +90,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/turbo-rig",
-   "number": 42,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 41,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 40,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/ancuria",
    "number": 501,
    "title": "(private repo)",
@@ -137,6 +106,27 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 498,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 42,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 41,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 40,
    "title": "(private repo)",
    "mergedAt": "2026-10-04",
    "priv": true
@@ -200,6 +190,13 @@
    "number": 2,
    "title": "CargoCrypt 0.3.0: make the advertised features real (15-loop hardening round)",
    "mergedAt": "2026-10-04"
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 21,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
   },
   {
    "repo": "marcuspat/html-sites",
@@ -307,13 +304,13 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-27T22:37:01Z",
-  "total": 220,
+  "start": "2026-09-27T23:07:01Z",
+  "total": 221,
   "repos": {
-   "marcuspat/turbo-rig": 18,
    "marcuspat/ancuria": 28,
+   "marcuspat/turbo-rig": 18,
    "marcuspat/cargocrypt": 10,
-   "marcuspat/html-sites": 10,
+   "marcuspat/html-sites": 11,
    "marcuspat/Sentinel": 8,
    "marcuspat/netrain": 2,
    "marcuspat/k8s-netinspect": 1,
@@ -347,9 +344,9 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 8
   },
   "day": {
-   "2026-10-04": 30,
-   "2026-10-01": 69,
+   "2026-10-04": 31,
    "2026-09-30": 59,
+   "2026-10-01": 69,
    "2026-09-29": 9,
    "2026-09-28": 51,
    "2026-10-03": 2
