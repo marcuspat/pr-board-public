@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T23:38:40Z",
+ "generated": "2026-10-05T00:08:43Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -294,24 +294,10 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-04",
    "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/excavate",
-   "number": 3,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-03",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/debate-killer",
-   "number": 1,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-03",
-   "priv": true
   }
  ],
  "merged_7d": {
-  "start": "2026-09-27T23:37:01Z",
+  "start": "2026-09-28T00:07:01Z",
   "total": 222,
   "repos": {
    "marcuspat/ancuria": 29,
