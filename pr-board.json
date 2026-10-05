@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T22:08:51Z",
+ "generated": "2026-10-05T22:38:50Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -218,36 +218,22 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-05",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 42,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/pipeline-machine-v2",
-   "number": 37,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
   }
  ],
  "merged_7d": {
-  "start": "2026-09-28T22:07:01Z",
-  "total": 184,
+  "start": "2026-09-28T22:37:02Z",
+  "total": 179,
   "repos": {
    "marcuspat/html-sites": 11,
    "marcuspat/ancuria": 17,
    "marcuspat/marcuspatman.space": 5,
-   "marcuspat/turbo-rig": 18,
+   "marcuspat/turbo-rig": 15,
    "marcuspat/cargocrypt": 10,
    "marcuspat/Sentinel": 8,
    "marcuspat/netrain": 2,
    "marcuspat/k8s-netinspect": 1,
    "marcuspat/marcuspat": 2,
-   "marcuspat/turbo-flow": 3,
+   "marcuspat/turbo-flow": 2,
    "marcuspat/serviya": 2,
    "marcuspat/velvet-bbs": 2,
    "marcuspat/h20healer": 2,
@@ -264,7 +250,6 @@
    "adventurewave-labs/awesome-agent-reliability": 8,
    "adventurewave-labs/.github": 4,
    "adventurewave-labs/loopwatch-v2": 12,
-   "adventurewave-labs/codescope": 1,
    "adventurewave-labs/ansible-heal-agent": 1,
    "adventurewave-labs/loopwatch-catalog": 1,
    "adventurewave-labs/preflight-integration-tester": 1,
@@ -278,7 +263,6 @@
    "2026-10-01": 69,
    "2026-09-30": 59,
    "2026-09-29": 9,
-   "2026-09-28": 5,
    "2026-10-03": 2
   }
  }
