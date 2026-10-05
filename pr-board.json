@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T21:08:49Z",
+ "generated": "2026-10-05T21:38:52Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -235,8 +235,8 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-28T21:07:01Z",
-  "total": 188,
+  "start": "2026-09-28T21:37:01Z",
+  "total": 187,
   "repos": {
    "marcuspat/html-sites": 11,
    "marcuspat/ancuria": 19,
@@ -270,7 +270,7 @@
    "adventurewave-labs/preflight-integration-tester": 1,
    "adventurewave-labs/coach-gezedeay": 1,
    "adventurewave-labs/noip-scanner": 2,
-   "creandotumatrix-labs/marce-garcia-casas-vallarta": 5
+   "creandotumatrix-labs/marce-garcia-casas-vallarta": 4
   },
   "day": {
    "2026-10-05": 8,
@@ -278,7 +278,7 @@
    "2026-10-01": 69,
    "2026-09-30": 59,
    "2026-09-29": 9,
-   "2026-09-28": 9,
+   "2026-09-28": 8,
    "2026-10-03": 2
   }
  }
