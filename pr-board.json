@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T19:08:52Z",
+ "generated": "2026-10-05T19:39:05Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -192,13 +192,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/ancuria",
-   "number": 499,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/marcuspatman.space",
    "number": 10,
    "title": "(private repo)",
@@ -241,12 +234,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/cargocrypt",
-   "number": 14,
-   "title": "chore: migrate rand 0.8.8 \u2192 0.9.5 (TryRngCore)",
-   "mergedAt": "2026-10-04"
-  },
-  {
    "repo": "adventurewave-labs/pipeline-machine-v2",
    "number": 37,
    "title": "(private repo)",
@@ -255,11 +242,11 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-28T19:07:01Z",
-  "total": 193,
+  "start": "2026-09-28T19:37:01Z",
+  "total": 189,
   "repos": {
    "marcuspat/html-sites": 11,
-   "marcuspat/ancuria": 20,
+   "marcuspat/ancuria": 19,
    "marcuspat/marcuspatman.space": 5,
    "marcuspat/turbo-rig": 18,
    "marcuspat/cargocrypt": 10,
@@ -270,10 +257,10 @@
    "marcuspat/turbo-flow": 5,
    "marcuspat/serviya": 2,
    "marcuspat/velvet-bbs": 2,
-   "marcuspat/h20healer": 3,
+   "marcuspat/h20healer": 2,
    "marcuspat/creandotumatrix-site": 2,
    "marcuspat/adventure-wave-explorer": 1,
-   "marcuspat/sdelic_org": 3,
+   "marcuspat/sdelic_org": 2,
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
    "adventurewave-labs/dualbrand-lead-router": 12,
@@ -290,7 +277,7 @@
    "adventurewave-labs/preflight-integration-tester": 1,
    "adventurewave-labs/coach-gezedeay": 1,
    "adventurewave-labs/noip-scanner": 2,
-   "creandotumatrix-labs/marce-garcia-casas-vallarta": 6
+   "creandotumatrix-labs/marce-garcia-casas-vallarta": 5
   },
   "day": {
    "2026-10-05": 8,
@@ -298,7 +285,7 @@
    "2026-10-01": 69,
    "2026-09-30": 59,
    "2026-09-29": 9,
-   "2026-09-28": 14,
+   "2026-09-28": 10,
    "2026-10-03": 2
   }
  }
