@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T23:08:57Z",
+ "generated": "2026-10-05T23:38:44Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -26,6 +26,36 @@
    "updated": "2026-10-04",
    "g": "unreviewed",
    "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/debate-killer",
+   "number": 2,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-05",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/GUI-LOP",
+   "number": 12,
+   "title": "Production-readiness round 3 (contains PR #11)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-05",
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-02"
+  },
+  {
+   "repo": "adventurewave-labs/GUI-LOP",
+   "number": 11,
+   "title": "SOTA rounds 1+2: hardening, correctness and security fixes",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-02"
   },
   {
    "repo": "adventurewave-labs/dualbrand-lead-router",
@@ -98,26 +128,6 @@
    "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
-   "repo": "adventurewave-labs/GUI-LOP",
-   "number": 12,
-   "title": "Production-readiness round 3 (contains PR #11)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-02"
-  },
-  {
-   "repo": "adventurewave-labs/GUI-LOP",
-   "number": 11,
-   "title": "SOTA rounds 1+2: hardening, correctness and security fixes",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-02"
-  },
-  {
    "repo": "adventurewave-labs/brain-vault",
    "number": 1,
    "title": "(private repo)",
@@ -164,20 +174,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 21,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 502,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/ancuria",
    "number": 500,
    "title": "(private repo)",
@@ -221,7 +217,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-28T23:07:01Z",
+  "start": "2026-09-28T23:37:01Z",
   "total": 179,
   "repos": {
    "marcuspat/html-sites": 11,
@@ -242,11 +238,11 @@
    "marcuspat/sdelic_org": 2,
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
+   "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/pipeline-machine-v2": 33,
    "adventurewave-labs/turbo-brain-v2": 8,
    "adventurewave-labs/excavate": 1,
-   "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/awesome-agent-reliability": 8,
    "adventurewave-labs/.github": 4,
    "adventurewave-labs/loopwatch-v2": 12,
