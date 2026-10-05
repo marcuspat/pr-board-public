@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T13:09:05Z",
+ "generated": "2026-10-05T13:39:05Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -25,6 +25,66 @@
    "kind": "ours",
    "updated": "2026-10-04",
    "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/dualbrand-lead-router",
+   "number": 47,
+   "title": "(private repo)",
+   "author": "app/dependabot",
+   "kind": "bot",
+   "updated": "2026-10-05",
+   "g": "bots",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/dualbrand-lead-router",
+   "number": 46,
+   "title": "(private repo)",
+   "author": "app/dependabot",
+   "kind": "bot",
+   "updated": "2026-10-05",
+   "g": "bots",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/dualbrand-lead-router",
+   "number": 45,
+   "title": "(private repo)",
+   "author": "app/dependabot",
+   "kind": "bot",
+   "updated": "2026-10-05",
+   "g": "bots",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/dualbrand-lead-router",
+   "number": 44,
+   "title": "(private repo)",
+   "author": "app/dependabot",
+   "kind": "bot",
+   "updated": "2026-10-05",
+   "g": "bots",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/dualbrand-lead-router",
+   "number": 43,
+   "title": "(private repo)",
+   "author": "app/dependabot",
+   "kind": "bot",
+   "updated": "2026-10-05",
+   "g": "bots",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/dualbrand-lead-router",
+   "number": 42,
+   "title": "(private repo)",
+   "author": "app/dependabot",
+   "kind": "bot",
+   "updated": "2026-10-05",
+   "g": "bots",
    "priv": true
   },
   {
@@ -257,7 +317,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-28T13:07:01Z",
+  "start": "2026-09-28T13:37:01Z",
   "total": 203,
   "repos": {
    "marcuspat/html-sites": 11,
@@ -278,11 +338,11 @@
    "marcuspat/sdelic_org": 4,
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
+   "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/pipeline-machine-v2": 33,
    "adventurewave-labs/turbo-brain-v2": 8,
    "adventurewave-labs/excavate": 1,
    "adventurewave-labs/debate-killer": 1,
-   "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/awesome-agent-reliability": 8,
    "adventurewave-labs/.github": 4,
    "adventurewave-labs/loopwatch-v2": 12,
