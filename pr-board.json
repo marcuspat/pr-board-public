@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T04:38:43Z",
+ "generated": "2026-10-05T05:08:43Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -257,8 +257,8 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-28T04:37:01Z",
-  "total": 207,
+  "start": "2026-09-28T05:07:02Z",
+  "total": 206,
   "repos": {
    "marcuspat/html-sites": 11,
    "marcuspat/ancuria": 25,
@@ -275,7 +275,7 @@
    "marcuspat/h20healer": 3,
    "marcuspat/creandotumatrix-site": 4,
    "marcuspat/adventure-wave-explorer": 4,
-   "marcuspat/sdelic_org": 5,
+   "marcuspat/sdelic_org": 4,
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
    "adventurewave-labs/pipeline-machine-v2": 33,
@@ -300,7 +300,7 @@
    "2026-10-01": 69,
    "2026-09-30": 59,
    "2026-09-29": 9,
-   "2026-09-28": 28,
+   "2026-09-28": 27,
    "2026-10-03": 2
   }
  }
