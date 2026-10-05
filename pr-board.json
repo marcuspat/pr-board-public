@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T17:09:03Z",
+ "generated": "2026-10-05T17:39:43Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -317,11 +317,11 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-28T17:07:01Z",
-  "total": 195,
+  "start": "2026-09-28T17:37:01Z",
+  "total": 194,
   "repos": {
    "marcuspat/html-sites": 11,
-   "marcuspat/ancuria": 22,
+   "marcuspat/ancuria": 21,
    "marcuspat/marcuspatman.space": 5,
    "marcuspat/turbo-rig": 18,
    "marcuspat/cargocrypt": 10,
@@ -360,7 +360,7 @@
    "2026-10-01": 69,
    "2026-09-30": 59,
    "2026-09-29": 9,
-   "2026-09-28": 16,
+   "2026-09-28": 15,
    "2026-10-03": 2
   }
  }
