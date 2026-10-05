@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T15:09:35Z",
+ "generated": "2026-10-05T15:39:07Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -317,8 +317,8 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-28T15:07:01Z",
-  "total": 202,
+  "start": "2026-09-28T15:37:01Z",
+  "total": 199,
   "repos": {
    "marcuspat/html-sites": 11,
    "marcuspat/ancuria": 24,
@@ -334,8 +334,8 @@
    "marcuspat/velvet-bbs": 2,
    "marcuspat/h20healer": 3,
    "marcuspat/creandotumatrix-site": 4,
-   "marcuspat/adventure-wave-explorer": 3,
-   "marcuspat/sdelic_org": 4,
+   "marcuspat/adventure-wave-explorer": 1,
+   "marcuspat/sdelic_org": 3,
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
    "adventurewave-labs/dualbrand-lead-router": 12,
@@ -360,7 +360,7 @@
    "2026-10-01": 69,
    "2026-09-30": 59,
    "2026-09-29": 9,
-   "2026-09-28": 23,
+   "2026-09-28": 20,
    "2026-10-03": 2
   }
  }
