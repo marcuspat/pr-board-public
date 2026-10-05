@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T03:38:43Z",
+ "generated": "2026-10-05T04:08:43Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -257,11 +257,11 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-28T03:37:01Z",
-  "total": 218,
+  "start": "2026-09-28T04:07:01Z",
+  "total": 210,
   "repos": {
-   "marcuspat/html-sites": 13,
-   "marcuspat/ancuria": 26,
+   "marcuspat/html-sites": 11,
+   "marcuspat/ancuria": 25,
    "marcuspat/marcuspatman.space": 5,
    "marcuspat/turbo-rig": 18,
    "marcuspat/cargocrypt": 10,
@@ -273,14 +273,11 @@
    "marcuspat/serviya": 2,
    "marcuspat/velvet-bbs": 2,
    "marcuspat/h20healer": 4,
-   "marcuspat/creandotumatrix-site": 5,
+   "marcuspat/creandotumatrix-site": 4,
    "marcuspat/adventure-wave-explorer": 5,
    "marcuspat/sdelic_org": 5,
-   "marcuspat/AgenticsMexico": 2,
+   "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
-   "marcuspat/adventurewavelabs-website": 1,
-   "marcuspat/turboflowacademy": 1,
-   "marcuspat/agenticplatformengineering": 1,
    "adventurewave-labs/pipeline-machine-v2": 33,
    "adventurewave-labs/turbo-brain-v2": 8,
    "adventurewave-labs/excavate": 1,
@@ -302,8 +299,8 @@
    "2026-10-04": 32,
    "2026-10-01": 69,
    "2026-09-30": 59,
-   "2026-09-28": 39,
    "2026-09-29": 9,
+   "2026-09-28": 31,
    "2026-10-03": 2
   }
  }
