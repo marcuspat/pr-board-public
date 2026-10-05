@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T19:39:05Z",
+ "generated": "2026-10-05T20:08:47Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -179,13 +179,6 @@
   },
   {
    "repo": "marcuspat/ancuria",
-   "number": 501,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
    "number": 500,
    "title": "(private repo)",
    "mergedAt": "2026-10-05",
@@ -242,7 +235,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-28T19:37:01Z",
+  "start": "2026-09-28T20:07:01Z",
   "total": 189,
   "repos": {
    "marcuspat/html-sites": 11,
