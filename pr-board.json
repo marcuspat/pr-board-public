@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T01:38:41Z",
+ "generated": "2026-10-05T02:08:42Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -20,6 +20,16 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 500,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-05",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/marcuspatman.space",
+   "number": 10,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
@@ -90,62 +100,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/html-sites",
-   "number": 24,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-05",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 23,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-05",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 21,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 20,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 18,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 17,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/marcuspatman.space",
-   "number": 7,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-05",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/marcuspatman.space",
-   "number": 6,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-05",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/ancuria",
    "number": 502,
    "title": "(private repo)",
@@ -174,22 +128,64 @@
    "priv": true
   },
   {
+   "repo": "marcuspat/marcuspatman.space",
+   "number": 9,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-05",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/marcuspatman.space",
+   "number": 8,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-05",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/marcuspatman.space",
+   "number": 7,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-05",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/marcuspatman.space",
+   "number": 6,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-05",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 24,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-05",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 23,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-05",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 21,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 20,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/turbo-rig",
    "number": 42,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 41,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-04",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 40,
    "title": "(private repo)",
    "mergedAt": "2026-10-04",
    "priv": true
@@ -249,12 +245,6 @@
    "mergedAt": "2026-10-04"
   },
   {
-   "repo": "marcuspat/cargocrypt",
-   "number": 2,
-   "title": "CargoCrypt 0.3.0: make the advertised features real (15-loop hardening round)",
-   "mergedAt": "2026-10-04"
-  },
-  {
    "repo": "marcuspat/Sentinel",
    "number": 15,
    "title": "fix ci: drop the now-unused len() accessor",
@@ -267,42 +257,6 @@
    "mergedAt": "2026-10-04"
   },
   {
-   "repo": "marcuspat/Sentinel",
-   "number": 13,
-   "title": "fix ci: ambiguous .into() in the log_vacuum traversal arm (E0283)",
-   "mergedAt": "2026-10-04"
-  },
-  {
-   "repo": "marcuspat/Sentinel",
-   "number": 12,
-   "title": "fix ci after #11: rustfmt rewraps in the round-4 test code",
-   "mergedAt": "2026-10-04"
-  },
-  {
-   "repo": "marcuspat/Sentinel",
-   "number": 11,
-   "title": "SOTA round 2: signed audit, real sandboxing, native tool use, gate hardening",
-   "mergedAt": "2026-10-04"
-  },
-  {
-   "repo": "marcuspat/netrain",
-   "number": 39,
-   "title": "fix ci after #38: rustfmt one-liner + clamp test counts both tables",
-   "mergedAt": "2026-10-04"
-  },
-  {
-   "repo": "marcuspat/netrain",
-   "number": 38,
-   "title": "netrain: working threat detection, real decoding, flows, hostnames, replay, JSON output, C",
-   "mergedAt": "2026-10-04"
-  },
-  {
-   "repo": "marcuspat/k8s-netinspect",
-   "number": 2,
-   "title": "k8s-netinspect 0.2.0: snapshot-based network diagnostics, policy reachability, CI output, ",
-   "mergedAt": "2026-10-04"
-  },
-  {
    "repo": "adventurewave-labs/pipeline-machine-v2",
    "number": 37,
    "title": "(private repo)",
@@ -311,12 +265,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-28T01:37:01Z",
+  "start": "2026-09-28T02:07:01Z",
   "total": 218,
   "repos": {
+   "marcuspat/ancuria": 27,
+   "marcuspat/marcuspatman.space": 4,
    "marcuspat/html-sites": 13,
-   "marcuspat/marcuspatman.space": 2,
-   "marcuspat/ancuria": 28,
    "marcuspat/turbo-rig": 18,
    "marcuspat/cargocrypt": 10,
    "marcuspat/Sentinel": 8,
@@ -333,7 +287,7 @@
    "marcuspat/AgenticsMexico": 2,
    "marcuspat/rustops": 5,
    "marcuspat/adventurewavelabs-website": 1,
-   "marcuspat/turboflowacademy": 2,
+   "marcuspat/turboflowacademy": 1,
    "marcuspat/agenticplatformengineering": 1,
    "adventurewave-labs/pipeline-machine-v2": 33,
    "adventurewave-labs/turbo-brain-v2": 8,
@@ -352,12 +306,12 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 8
   },
   "day": {
-   "2026-10-05": 4,
    "2026-10-04": 32,
-   "2026-10-01": 69,
    "2026-09-30": 59,
-   "2026-09-28": 43,
+   "2026-10-01": 69,
    "2026-09-29": 9,
+   "2026-09-28": 41,
+   "2026-10-05": 6,
    "2026-10-03": 2
   }
  }
