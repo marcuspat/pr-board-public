@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T02:08:42Z",
+ "generated": "2026-10-05T02:38:39Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -14,26 +14,6 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-04",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 500,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-05",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/marcuspatman.space",
-   "number": 10,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-05",
    "g": "unreviewed",
    "priv": true
   },
@@ -115,6 +95,13 @@
   },
   {
    "repo": "marcuspat/ancuria",
+   "number": 500,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-05",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
    "number": 499,
    "title": "(private repo)",
    "mergedAt": "2026-10-04",
@@ -125,6 +112,13 @@
    "number": 498,
    "title": "(private repo)",
    "mergedAt": "2026-10-04",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/marcuspatman.space",
+   "number": 10,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-05",
    "priv": true
   },
   {
@@ -245,18 +239,6 @@
    "mergedAt": "2026-10-04"
   },
   {
-   "repo": "marcuspat/Sentinel",
-   "number": 15,
-   "title": "fix ci: drop the now-unused len() accessor",
-   "mergedAt": "2026-10-04"
-  },
-  {
-   "repo": "marcuspat/Sentinel",
-   "number": 14,
-   "title": "fix ci: clippy denies in the vacuum filter chain",
-   "mergedAt": "2026-10-04"
-  },
-  {
    "repo": "adventurewave-labs/pipeline-machine-v2",
    "number": 37,
    "title": "(private repo)",
@@ -265,11 +247,11 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-28T02:07:01Z",
-  "total": 218,
+  "start": "2026-09-28T02:37:01Z",
+  "total": 220,
   "repos": {
-   "marcuspat/ancuria": 27,
-   "marcuspat/marcuspatman.space": 4,
+   "marcuspat/ancuria": 28,
+   "marcuspat/marcuspatman.space": 5,
    "marcuspat/html-sites": 13,
    "marcuspat/turbo-rig": 18,
    "marcuspat/cargocrypt": 10,
@@ -307,11 +289,11 @@
   },
   "day": {
    "2026-10-04": 32,
+   "2026-10-05": 8,
    "2026-09-30": 59,
    "2026-10-01": 69,
    "2026-09-29": 9,
    "2026-09-28": 41,
-   "2026-10-05": 6,
    "2026-10-03": 2
   }
  }
