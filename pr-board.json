@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T21:12:06Z",
+ "generated": "2026-10-06T21:39:37Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -275,12 +275,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-29T21:07:01Z",
-  "total": 189,
+  "start": "2026-09-29T21:37:01Z",
+  "total": 186,
   "repos": {
    "marcuspat/html-sites": 12,
    "marcuspat/adventure-wave-explorer": 4,
-   "marcuspat/ancuria": 17,
+   "marcuspat/ancuria": 16,
    "marcuspat/CMatrix-Landing-Page": 3,
    "marcuspat/creandotumatrix-site": 5,
    "marcuspat/turbo-rig": 14,
@@ -294,7 +294,7 @@
    "marcuspat/serviya": 2,
    "marcuspat/velvet-bbs": 2,
    "marcuspat/h20healer": 2,
-   "marcuspat/sdelic_org": 2,
+   "marcuspat/sdelic_org": 1,
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
    "adventurewave-labs/turbo-brain-v2": 9,
@@ -310,7 +310,7 @@
    "adventurewave-labs/preflight-integration-tester": 1,
    "adventurewave-labs/coach-gezedeay": 1,
    "adventurewave-labs/noip-scanner": 2,
-   "creandotumatrix-labs/marce-garcia-casas-vallarta": 3
+   "creandotumatrix-labs/marce-garcia-casas-vallarta": 2
   },
   "day": {
    "2026-10-06": 13,
@@ -318,7 +318,7 @@
    "2026-10-04": 32,
    "2026-10-01": 69,
    "2026-09-30": 59,
-   "2026-09-29": 6,
+   "2026-09-29": 3,
    "2026-10-03": 2
   }
  },
