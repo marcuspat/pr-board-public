@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T22:09:33Z",
+ "generated": "2026-10-06T22:39:34Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,24 @@
  ],
  "private_stubbed": 57,
  "prs": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 505,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 504,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/html-sites",
    "number": 28,
@@ -32,15 +50,6 @@
    "kind": "ours",
    "updated": "2026-10-05",
    "g": "needs_work",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 504,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-06",
-   "g": "unreviewed",
    "priv": true
   },
   {
@@ -202,6 +211,13 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/ancuria",
+   "number": 503,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-06",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/html-sites",
    "number": 26,
    "title": "(private repo)",
@@ -225,13 +241,6 @@
   {
    "repo": "marcuspat/adventure-wave-explorer",
    "number": 26,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 503,
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
    "priv": true
@@ -293,12 +302,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-29T22:07:01Z",
+  "start": "2026-09-29T22:37:01Z",
   "total": 185,
   "repos": {
+   "marcuspat/ancuria": 15,
    "marcuspat/html-sites": 12,
    "marcuspat/adventure-wave-explorer": 4,
-   "marcuspat/ancuria": 15,
    "marcuspat/CMatrix-Landing-Page": 3,
    "marcuspat/creandotumatrix-site": 5,
    "marcuspat/turbo-rig": 14,
@@ -332,10 +341,10 @@
   },
   "day": {
    "2026-10-06": 13,
-   "2026-10-05": 8,
    "2026-10-04": 32,
-   "2026-10-01": 69,
+   "2026-10-05": 8,
    "2026-09-30": 59,
+   "2026-10-01": 69,
    "2026-09-29": 2,
    "2026-10-03": 2
   }
