@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T00:08:49Z",
+ "generated": "2026-10-06T00:38:47Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -28,12 +28,22 @@
    "priv": true
   },
   {
+   "repo": "adventurewave-labs/turbo-brain-v2",
+   "number": 11,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
    "repo": "adventurewave-labs/debate-killer",
    "number": 2,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-10-05",
+   "updated": "2026-10-06",
    "g": "unreviewed",
    "priv": true
   },
@@ -217,11 +227,11 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-29T00:07:01Z",
-  "total": 179,
+  "start": "2026-09-29T00:37:01Z",
+  "total": 178,
   "repos": {
    "marcuspat/html-sites": 11,
-   "marcuspat/ancuria": 17,
+   "marcuspat/ancuria": 16,
    "marcuspat/marcuspatman.space": 5,
    "marcuspat/turbo-rig": 15,
    "marcuspat/cargocrypt": 10,
@@ -238,10 +248,10 @@
    "marcuspat/sdelic_org": 2,
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
+   "adventurewave-labs/turbo-brain-v2": 8,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/pipeline-machine-v2": 33,
-   "adventurewave-labs/turbo-brain-v2": 8,
    "adventurewave-labs/excavate": 1,
    "adventurewave-labs/awesome-agent-reliability": 8,
    "adventurewave-labs/.github": 4,
@@ -258,7 +268,7 @@
    "2026-10-04": 32,
    "2026-10-01": 69,
    "2026-09-30": 59,
-   "2026-09-29": 9,
+   "2026-09-29": 8,
    "2026-10-03": 2
   }
  }
