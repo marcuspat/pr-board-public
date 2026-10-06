@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T15:39:05Z",
+ "generated": "2026-10-06T15:59:41Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,16 @@
  ],
  "private_stubbed": 57,
  "prs": [
+  {
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 19,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/adventure-wave-explorer",
    "number": 27,
@@ -20,16 +30,6 @@
   {
    "repo": "marcuspat/CMatrix-Landing-Page",
    "number": 10,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-06",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 19,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
@@ -240,6 +240,13 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 18,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-06",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/adventure-wave-explorer",
    "number": 26,
    "title": "(private repo)",
@@ -249,13 +256,6 @@
   {
    "repo": "marcuspat/CMatrix-Landing-Page",
    "number": 9,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 18,
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
    "priv": true
@@ -275,12 +275,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-29T15:37:01Z",
+  "start": "2026-09-29T15:53:20Z",
   "total": 181,
   "repos": {
+   "marcuspat/creandotumatrix-site": 3,
    "marcuspat/adventure-wave-explorer": 2,
    "marcuspat/CMatrix-Landing-Page": 1,
-   "marcuspat/creandotumatrix-site": 3,
    "marcuspat/html-sites": 12,
    "marcuspat/ancuria": 16,
    "marcuspat/turbo-rig": 14,
@@ -321,5 +321,159 @@
    "2026-09-29": 6,
    "2026-10-03": 2
   }
+ },
+ "issues": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 473,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-09-28",
+   "bucket": "actionable",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 1,
+   "title": "[Security Alert] Exposed API key(s) detected: AWS Access Key, GitHub PAT (classic)",
+   "author": "hdhdn",
+   "kind": "inbound",
+   "updated": "2026-03-14",
+   "bucket": "inbound"
+  },
+  {
+   "repo": "marcuspat/netrain",
+   "number": 37,
+   "title": "--demo mode renders nothing under a pty; div-by-zero panic on 0-width terminals",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-08-08",
+   "bucket": "actionable"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 61,
+   "title": "tmux auto-attach (#59): gate findings landed unaddressed on main",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-01",
+   "bucket": "actionable"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 47,
+   "title": "Beta feedback \u2014 rig-lite and the beta",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-09-22",
+   "bucket": "actionable"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 46,
+   "title": "Private beta \u2014 request access (Turbo Rig v5)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-09-22",
+   "bucket": "actionable"
+  },
+  {
+   "repo": "marcuspat/rustops",
+   "number": 15,
+   "title": "Migrate reqwest 0.11 \u2192 0.12 to clear the ignored rustls/h2 security advisories",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-09-30",
+   "bucket": "actionable"
+  },
+  {
+   "repo": "marcuspat/cargo-forge",
+   "number": 2,
+   "title": "Enhancement: Add more embedded options for STM32",
+   "author": "Vaishnav-Sabari-Girish",
+   "kind": "inbound",
+   "updated": "2026-02-18",
+   "bucket": "inbound"
+  }
+ ],
+ "actions": {
+  "asof": "2026-10-06T15:59:41Z",
+  "runs_7d": 1255,
+  "failures_7d": 249,
+  "repos_active_7d": 25,
+  "workflows": 73,
+  "red": [
+   {
+    "repo": "adventurewave-labs/aops-sre-pipeline",
+    "workflow": ".github/workflows/_probe.yml",
+    "status": "failure",
+    "at": "2026-08-22 00:56",
+    "url": "https://github.com/adventurewave-labs/aops-sre-pipeline/actions/runs/32541902909"
+   },
+   {
+    "repo": "adventurewave-labs/brain-vault",
+    "workflow": "vault-ci",
+    "status": "failure",
+    "at": "2026-10-01 19:18",
+    "url": "https://github.com/adventurewave-labs/brain-vault/actions/runs/36913349100"
+   },
+   {
+    "repo": "adventurewave-labs/cloudtrim",
+    "workflow": "Deploy landing page",
+    "status": "failure",
+    "at": "2026-09-09 04:47",
+    "url": "https://github.com/adventurewave-labs/cloudtrim/actions/runs/34312329228"
+   },
+   {
+    "repo": "adventurewave-labs/loopwatch-v2",
+    "workflow": "e2e",
+    "status": "failure",
+    "at": "2026-10-05 14:36",
+    "url": "https://github.com/adventurewave-labs/loopwatch-v2/actions/runs/37326045107"
+   },
+   {
+    "repo": "adventurewave-labs/loopwatch-v2",
+    "workflow": "release",
+    "status": "failure",
+    "at": "2026-10-01 03:48",
+    "url": "https://github.com/adventurewave-labs/loopwatch-v2/actions/runs/36812242451"
+   },
+   {
+    "repo": "creandotumatrix-labs/loyalty-club-engine",
+    "workflow": "CI",
+    "status": "failure",
+    "at": "2026-09-10 15:54",
+    "url": "https://github.com/creandotumatrix-labs/loyalty-club-engine/actions/runs/34498674335"
+   },
+   {
+    "repo": "marcuspat/rustops",
+    "workflow": "Dependency Updates",
+    "status": "failure",
+    "at": "2026-08-24 02:20",
+    "url": "https://github.com/marcuspat/rustops/actions/runs/32682754010"
+   },
+   {
+    "repo": "marcuspat/rustops",
+    "workflow": "Documentation",
+    "status": "failure",
+    "at": "2026-08-24 23:24",
+    "url": "https://github.com/marcuspat/rustops/actions/runs/32789188239"
+   },
+   {
+    "repo": "marcuspat/rustops",
+    "workflow": "Main Branch",
+    "status": "failure",
+    "at": "2026-08-24 23:39",
+    "url": "https://github.com/marcuspat/rustops/actions/runs/32790349783"
+   },
+   {
+    "repo": "marcuspat/rustops",
+    "workflow": "Pull Request",
+    "status": "failure",
+    "at": "2026-08-23 19:23",
+    "url": "https://github.com/marcuspat/rustops/actions/runs/32661068479"
+   }
+  ]
  }
 }
