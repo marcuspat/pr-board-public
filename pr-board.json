@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T04:38:48Z",
+ "generated": "2026-10-06T05:08:48Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,16 @@
  ],
  "private_stubbed": 57,
  "prs": [
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 25,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-05",
+   "g": "needs_work",
+   "priv": true
+  },
   {
    "repo": "marcuspat/ancuria",
    "number": 504,
@@ -25,16 +35,6 @@
    "kind": "ours",
    "updated": "2026-10-04",
    "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 25,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-05",
-   "g": "needs_work",
    "priv": true
   },
   {
@@ -222,14 +222,14 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-29T04:37:01Z",
+  "start": "2026-09-29T05:07:01Z",
   "total": 180,
   "repos": {
+   "marcuspat/html-sites": 11,
    "marcuspat/CMatrix-Landing-Page": 1,
    "marcuspat/creandotumatrix-site": 3,
    "marcuspat/adventure-wave-explorer": 2,
    "marcuspat/ancuria": 16,
-   "marcuspat/html-sites": 11,
    "marcuspat/turbo-rig": 14,
    "marcuspat/marcuspatman.space": 5,
    "marcuspat/cargocrypt": 10,
@@ -260,11 +260,11 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 4
   },
   "day": {
-   "2026-10-06": 3,
-   "2026-09-30": 59,
-   "2026-10-04": 32,
    "2026-10-05": 8,
+   "2026-10-04": 32,
    "2026-10-01": 69,
+   "2026-09-30": 59,
+   "2026-10-06": 3,
    "2026-09-29": 7,
    "2026-10-03": 2
   }
