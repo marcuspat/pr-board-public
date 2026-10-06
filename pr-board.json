@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T03:08:48Z",
+ "generated": "2026-10-06T03:38:45Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -8,12 +8,32 @@
  "private_stubbed": 57,
  "prs": [
   {
-   "repo": "marcuspat/adventure-wave-explorer",
-   "number": 26,
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 18,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 504,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 503,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-04",
    "g": "unreviewed",
    "priv": true
   },
@@ -38,12 +58,12 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/ancuria",
-   "number": 503,
+   "repo": "adventurewave-labs/dualbrand-lead-router",
+   "number": 48,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-10-04",
+   "updated": "2026-10-06",
    "g": "unreviewed",
    "priv": true
   },
@@ -188,15 +208,24 @@
    "priv": true
   }
  ],
- "merged_24h": [],
+ "merged_24h": [
+  {
+   "repo": "marcuspat/adventure-wave-explorer",
+   "number": 26,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-06",
+   "priv": true
+  }
+ ],
  "merged_7d": {
-  "start": "2026-09-29T03:07:01Z",
+  "start": "2026-09-29T03:37:01Z",
   "total": 178,
   "repos": {
-   "marcuspat/adventure-wave-explorer": 1,
-   "marcuspat/html-sites": 11,
-   "marcuspat/turbo-rig": 15,
+   "marcuspat/creandotumatrix-site": 2,
+   "marcuspat/adventure-wave-explorer": 2,
    "marcuspat/ancuria": 16,
+   "marcuspat/html-sites": 11,
+   "marcuspat/turbo-rig": 14,
    "marcuspat/marcuspatman.space": 5,
    "marcuspat/cargocrypt": 10,
    "marcuspat/Sentinel": 8,
@@ -207,7 +236,6 @@
    "marcuspat/serviya": 2,
    "marcuspat/velvet-bbs": 2,
    "marcuspat/h20healer": 2,
-   "marcuspat/creandotumatrix-site": 2,
    "marcuspat/sdelic_org": 2,
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
@@ -228,10 +256,11 @@
   },
   "day": {
    "2026-09-30": 59,
-   "2026-10-05": 8,
+   "2026-10-06": 1,
    "2026-10-04": 32,
+   "2026-10-05": 8,
    "2026-10-01": 69,
-   "2026-09-29": 8,
+   "2026-09-29": 7,
    "2026-10-03": 2
   }
  }
