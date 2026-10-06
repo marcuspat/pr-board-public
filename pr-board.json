@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T15:59:41Z",
+ "generated": "2026-10-06T16:13:03Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,26 @@
  ],
  "private_stubbed": 57,
  "prs": [
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 27,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 25,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-05",
+   "g": "needs_work",
+   "priv": true
+  },
   {
    "repo": "marcuspat/creandotumatrix-site",
    "number": 19,
@@ -35,26 +55,6 @@
    "kind": "ours",
    "updated": "2026-10-06",
    "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 27,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-06",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 25,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-05",
-   "g": "needs_work",
    "priv": true
   },
   {
@@ -240,6 +240,13 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/html-sites",
+   "number": 26,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-06",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/creandotumatrix-site",
    "number": 18,
    "title": "(private repo)",
@@ -261,13 +268,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 26,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/awesome-agent-reliability",
    "number": 5,
    "title": "Add AffixIO",
@@ -275,13 +275,13 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-29T15:53:20Z",
+  "start": "2026-09-29T16:07:01Z",
   "total": 181,
   "repos": {
+   "marcuspat/html-sites": 12,
    "marcuspat/creandotumatrix-site": 3,
    "marcuspat/adventure-wave-explorer": 2,
    "marcuspat/CMatrix-Landing-Page": 1,
-   "marcuspat/html-sites": 12,
    "marcuspat/ancuria": 16,
    "marcuspat/turbo-rig": 14,
    "marcuspat/marcuspatman.space": 5,
@@ -314,10 +314,10 @@
   },
   "day": {
    "2026-10-06": 5,
-   "2026-09-30": 59,
    "2026-10-05": 8,
    "2026-10-04": 32,
    "2026-10-01": 69,
+   "2026-09-30": 59,
    "2026-09-29": 6,
    "2026-10-03": 2
   }
@@ -398,8 +398,8 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-06T15:59:41Z",
-  "runs_7d": 1255,
+  "asof": "2026-10-06T16:13:03Z",
+  "runs_7d": 1258,
   "failures_7d": 249,
   "repos_active_7d": 25,
   "workflows": 73,
