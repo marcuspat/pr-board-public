@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T18:42:34Z",
+ "generated": "2026-10-06T19:09:57Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -275,7 +275,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-29T18:37:01Z",
+  "start": "2026-09-29T19:07:01Z",
   "total": 189,
   "repos": {
    "marcuspat/adventure-wave-explorer": 4,
