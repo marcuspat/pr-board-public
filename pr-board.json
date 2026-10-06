@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T02:38:46Z",
+ "generated": "2026-10-06T03:08:48Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -8,8 +8,8 @@
  "private_stubbed": 57,
  "prs": [
   {
-   "repo": "marcuspat/turbo-rig",
-   "number": 43,
+   "repo": "marcuspat/adventure-wave-explorer",
+   "number": 26,
    "title": "(private repo)",
    "author": "marcuspat",
    "kind": "ours",
@@ -28,6 +28,16 @@
    "priv": true
   },
   {
+   "repo": "marcuspat/turbo-rig",
+   "number": 43,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/ancuria",
    "number": 503,
    "title": "(private repo)",
@@ -36,46 +46,6 @@
    "updated": "2026-10-04",
    "g": "unreviewed",
    "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/debate-killer",
-   "number": 2,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-06",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/turbo-brain-v2",
-   "number": 11,
-   "title": "(private repo)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-06",
-   "g": "needs_work",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/GUI-LOP",
-   "number": 12,
-   "title": "Production-readiness round 3 (contains PR #11)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-05",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-02"
-  },
-  {
-   "repo": "adventurewave-labs/GUI-LOP",
-   "number": 11,
-   "title": "SOTA rounds 1+2: hardening, correctness and security fixes",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-02"
   },
   {
    "repo": "adventurewave-labs/dualbrand-lead-router",
@@ -138,6 +108,46 @@
    "priv": true
   },
   {
+   "repo": "adventurewave-labs/debate-killer",
+   "number": 2,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/turbo-brain-v2",
+   "number": 11,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "needs_work",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/GUI-LOP",
+   "number": 12,
+   "title": "Production-readiness round 3 (contains PR #11)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-05",
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-02"
+  },
+  {
+   "repo": "adventurewave-labs/GUI-LOP",
+   "number": 11,
+   "title": "SOTA rounds 1+2: hardening, correctness and security fixes",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-02"
+  },
+  {
    "repo": "adventurewave-labs/secret-scan",
    "number": 6,
    "title": "SOTA loop: SARIF, baselines, config, git history, pre-commit, 73 rules, 27x faster",
@@ -180,11 +190,12 @@
  ],
  "merged_24h": [],
  "merged_7d": {
-  "start": "2026-09-29T02:37:01Z",
+  "start": "2026-09-29T03:07:01Z",
   "total": 178,
   "repos": {
-   "marcuspat/turbo-rig": 15,
+   "marcuspat/adventure-wave-explorer": 1,
    "marcuspat/html-sites": 11,
+   "marcuspat/turbo-rig": 15,
    "marcuspat/ancuria": 16,
    "marcuspat/marcuspatman.space": 5,
    "marcuspat/cargocrypt": 10,
@@ -197,13 +208,12 @@
    "marcuspat/velvet-bbs": 2,
    "marcuspat/h20healer": 2,
    "marcuspat/creandotumatrix-site": 2,
-   "marcuspat/adventure-wave-explorer": 1,
    "marcuspat/sdelic_org": 2,
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
+   "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/turbo-brain-v2": 8,
-   "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/pipeline-machine-v2": 33,
    "adventurewave-labs/excavate": 1,
    "adventurewave-labs/awesome-agent-reliability": 8,
@@ -217,11 +227,11 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 4
   },
   "day": {
+   "2026-09-30": 59,
+   "2026-10-05": 8,
    "2026-10-04": 32,
    "2026-10-01": 69,
-   "2026-09-30": 59,
    "2026-09-29": 8,
-   "2026-10-05": 8,
    "2026-10-03": 2
   }
  }
