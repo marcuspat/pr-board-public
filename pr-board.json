@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T16:43:44Z",
+ "generated": "2026-10-06T16:46:33Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -285,7 +285,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-29T16:37:01Z",
+  "start": "2026-09-29T16:40:07Z",
   "total": 181,
   "repos": {
    "marcuspat/html-sites": 12,
@@ -408,25 +408,19 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-06T16:43:44Z",
+  "asof": "2026-10-06T16:46:33Z",
   "runs_7d": 1259,
   "failures_7d": 250,
   "repos_active_7d": 25,
-  "workflows": 73,
+  "workflows": 77,
+  "errors": [],
   "red": [
    {
-    "repo": "adventurewave-labs/aops-sre-pipeline",
-    "workflow": ".github/workflows/_probe.yml",
-    "status": "failure",
-    "at": "2026-08-22 00:56",
-    "url": "https://github.com/adventurewave-labs/aops-sre-pipeline/actions/runs/32541902909"
-   },
-   {
     "repo": "adventurewave-labs/brain-vault",
-    "workflow": "vault-ci",
+    "workflow": "(private repo)",
     "status": "failure",
     "at": "2026-10-01 19:18",
-    "url": "https://github.com/adventurewave-labs/brain-vault/actions/runs/36913349100"
+    "url": ""
    },
    {
     "repo": "adventurewave-labs/cloudtrim",
@@ -437,59 +431,52 @@
    },
    {
     "repo": "adventurewave-labs/dualbrand-lead-router",
-    "workflow": "mutants",
+    "workflow": "(private repo)",
     "status": "failure",
     "at": "2026-10-06 15:09",
-    "url": "https://github.com/adventurewave-labs/dualbrand-lead-router/actions/runs/37485079993"
+    "url": ""
+   },
+   {
+    "repo": "adventurewave-labs/dualbrand-lead-router",
+    "workflow": "(private repo)",
+    "status": "failure",
+    "at": "2026-10-06 15:09",
+    "url": ""
+   },
+   {
+    "repo": "adventurewave-labs/dualbrand-lead-router",
+    "workflow": "(private repo)",
+    "status": "failure",
+    "at": "2026-10-06 15:09",
+    "url": ""
    },
    {
     "repo": "adventurewave-labs/loopwatch-v2",
-    "workflow": "e2e",
+    "workflow": "(private repo)",
     "status": "failure",
     "at": "2026-10-05 14:36",
-    "url": "https://github.com/adventurewave-labs/loopwatch-v2/actions/runs/37326045107"
+    "url": ""
    },
    {
     "repo": "adventurewave-labs/loopwatch-v2",
-    "workflow": "release",
+    "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-10-01 03:48",
-    "url": "https://github.com/adventurewave-labs/loopwatch-v2/actions/runs/36812242451"
+    "at": "2026-10-05 14:36",
+    "url": ""
    },
    {
     "repo": "creandotumatrix-labs/loyalty-club-engine",
-    "workflow": "CI",
+    "workflow": "(private repo)",
     "status": "failure",
     "at": "2026-09-10 15:54",
-    "url": "https://github.com/creandotumatrix-labs/loyalty-club-engine/actions/runs/34498674335"
+    "url": ""
    },
    {
-    "repo": "marcuspat/rustops",
-    "workflow": "Dependency Updates",
+    "repo": "creandotumatrix-labs/loyalty-club-engine",
+    "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-08-24 02:20",
-    "url": "https://github.com/marcuspat/rustops/actions/runs/32682754010"
-   },
-   {
-    "repo": "marcuspat/rustops",
-    "workflow": "Documentation",
-    "status": "failure",
-    "at": "2026-08-24 23:24",
-    "url": "https://github.com/marcuspat/rustops/actions/runs/32789188239"
-   },
-   {
-    "repo": "marcuspat/rustops",
-    "workflow": "Main Branch",
-    "status": "failure",
-    "at": "2026-08-24 23:39",
-    "url": "https://github.com/marcuspat/rustops/actions/runs/32790349783"
-   },
-   {
-    "repo": "marcuspat/rustops",
-    "workflow": "Pull Request",
-    "status": "failure",
-    "at": "2026-08-23 19:23",
-    "url": "https://github.com/marcuspat/rustops/actions/runs/32661068479"
+    "at": "2026-09-10 15:54",
+    "url": ""
    }
   ]
  }
