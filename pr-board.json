@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T18:11:10Z",
+ "generated": "2026-10-06T18:42:34Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -275,7 +275,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-29T18:07:01Z",
+  "start": "2026-09-29T18:37:01Z",
   "total": 189,
   "repos": {
    "marcuspat/adventure-wave-explorer": 4,
@@ -397,9 +397,9 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-06T16:46:33Z",
-  "runs_7d": 1259,
-  "failures_7d": 250,
+  "asof": "2026-10-06T18:42:34Z",
+  "runs_7d": 1267,
+  "failures_7d": 251,
   "repos_active_7d": 25,
   "workflows": 77,
   "red": [
@@ -464,6 +464,20 @@
     "workflow": "(private repo)",
     "status": "failure",
     "at": "2026-09-10 15:54",
+    "url": ""
+   },
+   {
+    "repo": "marcuspat/ancuria",
+    "workflow": "(private repo)",
+    "status": "failure",
+    "at": "2026-10-06 17:54",
+    "url": ""
+   },
+   {
+    "repo": "marcuspat/ancuria",
+    "workflow": "(private repo)",
+    "status": "failure",
+    "at": "2026-10-06 17:54",
     "url": ""
    }
   ]
