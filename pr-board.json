@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T13:38:59Z",
+ "generated": "2026-10-06T14:09:01Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,16 @@
  ],
  "private_stubbed": 57,
  "prs": [
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 26,
+   "title": "(private repo)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/html-sites",
    "number": 25,
@@ -168,16 +178,6 @@
    "note": "commits after verdict 2026-10-02 - re-gate"
   },
   {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 5,
-   "title": "Add AffixIO",
-   "author": "AffixIO",
-   "kind": "inbound",
-   "updated": "2026-09-14",
-   "g": "inbound",
-   "note": "outside contributor - maintainer call"
-  },
-  {
    "repo": "adventurewave-labs/brain-vault",
    "number": 1,
    "title": "(private repo)",
@@ -229,11 +229,17 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
    "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 5,
+   "title": "Add AffixIO",
+   "mergedAt": "2026-10-06"
   }
  ],
  "merged_7d": {
-  "start": "2026-09-29T13:37:01Z",
-  "total": 179,
+  "start": "2026-09-29T14:07:01Z",
+  "total": 180,
   "repos": {
    "marcuspat/html-sites": 11,
    "marcuspat/CMatrix-Landing-Page": 1,
@@ -254,12 +260,12 @@
    "marcuspat/sdelic_org": 2,
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
+   "adventurewave-labs/awesome-agent-reliability": 9,
    "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/turbo-brain-v2": 8,
    "adventurewave-labs/pipeline-machine-v2": 33,
    "adventurewave-labs/excavate": 1,
-   "adventurewave-labs/awesome-agent-reliability": 8,
    "adventurewave-labs/.github": 4,
    "adventurewave-labs/loopwatch-v2": 12,
    "adventurewave-labs/ansible-heal-agent": 1,
@@ -274,7 +280,7 @@
    "2026-10-04": 32,
    "2026-10-01": 69,
    "2026-09-30": 59,
-   "2026-10-06": 3,
+   "2026-10-06": 4,
    "2026-09-29": 6,
    "2026-10-03": 2
   }
