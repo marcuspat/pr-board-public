@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T20:39:54Z",
+ "generated": "2026-10-06T21:12:06Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -275,7 +275,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-29T20:37:01Z",
+  "start": "2026-09-29T21:07:01Z",
   "total": 189,
   "repos": {
    "marcuspat/html-sites": 12,
@@ -397,8 +397,8 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-06T19:20:20Z",
-  "runs_7d": 1267,
+  "asof": "2026-10-06T21:12:06Z",
+  "runs_7d": 1268,
   "failures_7d": 251,
   "repos_active_7d": 25,
   "workflows": 77,
