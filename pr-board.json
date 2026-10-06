@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T02:08:47Z",
+ "generated": "2026-10-06T02:38:46Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -178,24 +178,9 @@
    "priv": true
   }
  ],
- "merged_24h": [
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 500,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-05",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/marcuspatman.space",
-   "number": 10,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-05",
-   "priv": true
-  }
- ],
+ "merged_24h": [],
  "merged_7d": {
-  "start": "2026-09-29T02:07:01Z",
+  "start": "2026-09-29T02:37:01Z",
   "total": 178,
   "repos": {
    "marcuspat/turbo-rig": 15,
