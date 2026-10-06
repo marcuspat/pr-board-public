@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T21:39:37Z",
+ "generated": "2026-10-06T22:09:33Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -46,6 +46,33 @@
   {
    "repo": "marcuspat/turbo-rig",
    "number": 43,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/brain-vault",
+   "number": 5,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/brain-vault",
+   "number": 4,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/brain-vault",
+   "number": 3,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-06",
@@ -153,15 +180,6 @@
    "updated": "2026-10-02",
    "g": "stale",
    "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
-   "repo": "adventurewave-labs/brain-vault",
-   "number": 1,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-04",
-   "g": "needs_work",
-   "priv": true
   },
   {
    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
@@ -275,12 +293,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-29T21:37:01Z",
-  "total": 186,
+  "start": "2026-09-29T22:07:01Z",
+  "total": 185,
   "repos": {
    "marcuspat/html-sites": 12,
    "marcuspat/adventure-wave-explorer": 4,
-   "marcuspat/ancuria": 16,
+   "marcuspat/ancuria": 15,
    "marcuspat/CMatrix-Landing-Page": 3,
    "marcuspat/creandotumatrix-site": 5,
    "marcuspat/turbo-rig": 14,
@@ -318,7 +336,7 @@
    "2026-10-04": 32,
    "2026-10-01": 69,
    "2026-09-30": 59,
-   "2026-09-29": 3,
+   "2026-09-29": 2,
    "2026-10-03": 2
   }
  },
