@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T08:09:32Z",
+ "generated": "2026-10-07T08:39:37Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -8,17 +8,8 @@
  "private_stubbed": 57,
  "prs": [
   {
-   "repo": "marcuspat/sdelic_org",
-   "number": 9,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/html-sites",
-   "number": 32,
+   "number": 34,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-07",
@@ -279,15 +270,15 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/sdelic_org",
-   "number": 8,
+   "repo": "marcuspat/html-sites",
+   "number": 33,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
   },
   {
-   "repo": "marcuspat/sdelic_org",
-   "number": 7,
+   "repo": "marcuspat/html-sites",
+   "number": 32,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
@@ -367,6 +358,27 @@
    "number": 503,
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/sdelic_org",
+   "number": 9,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/sdelic_org",
+   "number": 8,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/sdelic_org",
+   "number": 7,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
    "priv": true
   },
   {
@@ -494,12 +506,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T08:07:01Z",
-  "total": 175,
+  "start": "2026-09-30T08:37:01Z",
+  "total": 178,
   "repos": {
-   "marcuspat/sdelic_org": 3,
-   "marcuspat/html-sites": 13,
+   "marcuspat/html-sites": 15,
    "marcuspat/ancuria": 19,
+   "marcuspat/sdelic_org": 4,
    "marcuspat/turbo-rig": 11,
    "marcuspat/adventure-wave-explorer": 4,
    "marcuspat/CMatrix-Landing-Page": 3,
@@ -531,12 +543,12 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 6
   },
   "day": {
-   "2026-10-07": 20,
-   "2026-09-30": 30,
+   "2026-10-07": 23,
    "2026-10-06": 14,
    "2026-10-05": 8,
    "2026-10-04": 32,
    "2026-10-01": 69,
+   "2026-09-30": 30,
    "2026-10-03": 2
   }
  },
