@@ -1,0 +1,36 @@
+{
+ "collector": "ancuria/.github/workflows/ops-monitor.yml",
+ "generated": "2026-10-06T23:59:07+00:00",
+ "processes": [
+  {
+   "detail": "last run 11.0h ago, took 3s (railway execution record)",
+   "duration_s": 3,
+   "id": "market-aggregation",
+   "last_run": "2026-10-06T13:01:53Z",
+   "run_status": "EXITED",
+   "schedule": "daily 07:00 CST (13:00 UTC)",
+   "source": "railway api: deploymentInstanceExecutions",
+   "verdict": "ok"
+  },
+  {
+   "backup_age_h": 15.9,
+   "backup_size_mb": 4,
+   "detail": "newest dump 15.9h old, 4 MB in R2 (the artifact itself)",
+   "duration_s": 5,
+   "id": "db-backup",
+   "last_backup": "2026-10-06T08:03:31Z",
+   "last_run": "2026-10-06T08:03:27Z",
+   "run_status": "EXITED",
+   "schedule": "daily 02:00 CST (08:00 UTC)",
+   "source": "railway api: deploymentInstanceExecutions + r2: ListObjectsV2 backups/",
+   "verdict": "ok"
+  },
+  {
+   "detail": "bucket Postgres-PITR present (created 2026-09-18); railway api exposes no object-level freshness for its buckets \u2014 config-level check",
+   "id": "pitr",
+   "schedule": "continuous",
+   "source": "railway api: bucket resource (config-level)",
+   "verdict": "ok"
+  }
+ ]
+}
