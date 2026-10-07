@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T02:39:29Z",
+ "generated": "2026-10-07T03:11:54Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -8,11 +8,29 @@
  "private_stubbed": 57,
  "prs": [
   {
-   "repo": "marcuspat/html-sites",
-   "number": 29,
+   "repo": "marcuspat/ancuria",
+   "number": 509,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-07",
+   "g": "stale",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 508,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 504,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-06",
    "g": "unreviewed",
    "priv": true
   },
@@ -41,15 +59,6 @@
    "kind": "ours",
    "updated": "2026-10-05",
    "g": "needs_work",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 504,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-06",
-   "g": "unreviewed",
    "priv": true
   },
   {
@@ -139,13 +148,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/html-sites",
-   "number": 26,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/ancuria",
    "number": 507,
    "title": "(private repo)",
@@ -169,6 +171,20 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 503,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-06",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 29,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 26,
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
    "priv": true
@@ -258,6 +274,13 @@
   },
   {
    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
+   "number": 21,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
    "number": 10,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
@@ -272,11 +295,11 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T02:37:01Z",
+  "start": "2026-09-30T03:07:01Z",
   "total": 179,
   "repos": {
-   "marcuspat/html-sites": 11,
    "marcuspat/ancuria": 16,
+   "marcuspat/html-sites": 12,
    "marcuspat/turbo-rig": 13,
    "marcuspat/adventure-wave-explorer": 4,
    "marcuspat/CMatrix-Landing-Page": 3,
@@ -295,7 +318,7 @@
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
    "adventurewave-labs/dualbrand-lead-router": 13,
-   "adventurewave-labs/turbo-brain-v2": 9,
+   "adventurewave-labs/turbo-brain-v2": 7,
    "adventurewave-labs/awesome-agent-reliability": 9,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/pipeline-machine-v2": 33,
@@ -306,15 +329,15 @@
    "adventurewave-labs/loopwatch-catalog": 1,
    "adventurewave-labs/preflight-integration-tester": 1,
    "adventurewave-labs/noip-scanner": 2,
-   "creandotumatrix-labs/marce-garcia-casas-vallarta": 3
+   "creandotumatrix-labs/marce-garcia-casas-vallarta": 4
   },
   "day": {
    "2026-10-06": 14,
-   "2026-10-05": 8,
+   "2026-10-07": 7,
    "2026-10-04": 32,
+   "2026-10-05": 8,
+   "2026-09-30": 47,
    "2026-10-01": 69,
-   "2026-09-30": 49,
-   "2026-10-07": 5,
    "2026-10-03": 2
   }
  },
@@ -327,15 +350,6 @@
    "updated": "2026-09-28",
    "bucket": "actionable",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 1,
-   "title": "[Security Alert] Exposed API key(s) detected: AWS Access Key, GitHub PAT (classic)",
-   "author": "hdhdn",
-   "kind": "inbound",
-   "updated": "2026-10-07",
-   "bucket": "inbound"
   },
   {
    "repo": "marcuspat/netrain",
@@ -393,11 +407,11 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-07T01:12:34Z",
-  "runs_7d": 1248,
-  "failures_7d": 243,
-  "repos_active_7d": 25,
-  "workflows": 78,
+  "asof": "2026-10-07T03:11:54Z",
+  "runs_7d": 1233,
+  "failures_7d": 235,
+  "repos_active_7d": 26,
+  "workflows": 79,
   "red": [
    {
     "repo": "adventurewave-labs/aops-sre-pipeline",
@@ -439,6 +453,13 @@
     "workflow": "(private repo)",
     "status": "failure",
     "at": "2026-09-10 15:54",
+    "url": ""
+   },
+   {
+    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
+    "workflow": "(private repo)",
+    "status": "failure",
+    "at": "2026-10-07 03:06",
     "url": ""
    }
   ]
