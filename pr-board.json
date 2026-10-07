@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T16:40:06Z",
+ "generated": "2026-10-07T17:14:42Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -8,82 +8,8 @@
  "private_stubbed": 57,
  "prs": [
   {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 14,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 13,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/marcuspatman.space",
-   "number": 11,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/velvet-bbs",
-   "number": 12,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/marcuspat",
-   "number": 6,
-   "title": "seo: ecosystem links \u2014 turboflow.online fix, add Ancuria + sdelic/shack preservation pair",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 511,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 67,
-   "title": "readme: canonical entity paragraph in the first 150 words",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "marcuspat/agenticplatformengineering",
-   "number": 8,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/html-sites",
-   "number": 35,
+   "number": 36,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-07",
@@ -127,8 +53,26 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/adventure-wave-explorer",
-   "number": 29,
+   "repo": "marcuspat/velvet-bbs",
+   "number": 12,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/agenticplatformengineering",
+   "number": 8,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 22,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-07",
@@ -143,6 +87,43 @@
    "updated": "2026-10-07",
    "g": "unreviewed",
    "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 14,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 13,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turboflowacademy",
+   "number": 14,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/marcuspat",
+   "number": 6,
+   "title": "seo: ecosystem links \u2014 turboflow.online fix, add Ancuria + sdelic/shack preservation pair",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "note": "no gate review yet"
   },
   {
    "repo": "adventurewave-labs/secret-scan",
@@ -360,15 +341,6 @@
    "priv": true
   },
   {
-   "repo": "creandotumatrix-labs/AgenticsMexico",
-   "number": 8,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
    "number": 25,
    "title": "(private repo)",
@@ -380,10 +352,67 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/marcuspat",
-   "number": 5,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
+   "repo": "marcuspat/html-sites",
+   "number": 38,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 37,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 35,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 34,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 33,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 32,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 30,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 29,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 511,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
   },
   {
    "repo": "marcuspat/ancuria",
@@ -442,6 +471,26 @@
    "priv": true
   },
   {
+   "repo": "marcuspat/h20healer",
+   "number": 10,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/h20healer",
+   "number": 9,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 67,
+   "title": "readme: canonical entity paragraph in the first 150 words",
+   "mergedAt": "2026-10-07"
+  },
+  {
    "repo": "marcuspat/turbo-flow",
    "number": 66,
    "title": "add setup-harness.sh \u2014 pick your harness at boot: Claude / Codex / GLM",
@@ -472,39 +521,51 @@
    "mergedAt": "2026-10-07"
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 34,
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 20,
    "title": "(private repo)",
-   "mergedAt": "2026-10-07",
+   "mergedAt": "2026-10-06",
    "priv": true
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 33,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 32,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
+   "repo": "marcuspat/adventure-wave-explorer",
    "number": 30,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
   },
   {
-   "repo": "marcuspat/html-sites",
+   "repo": "marcuspat/adventure-wave-explorer",
    "number": 29,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
+  },
+  {
+   "repo": "marcuspat/adventure-wave-explorer",
+   "number": 28,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-06",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/marcuspatman.space",
+   "number": 11,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/pr-board-public",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/marcuspat",
+   "number": 5,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
   },
   {
    "repo": "marcuspat/sdelic_org",
@@ -540,40 +601,6 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/adventure-wave-explorer",
-   "number": 28,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventure-wave-explorer",
-   "number": 27,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 20,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 19,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/pr-board-public",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
   },
   {
    "repo": "marcuspat/cargo-forge",
@@ -651,13 +678,6 @@
   {
    "repo": "marcuspat/CMatrix-Landing-Page",
    "number": 11,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/CMatrix-Landing-Page",
-   "number": 10,
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
    "priv": true
@@ -793,6 +813,13 @@
    "priv": true
   },
   {
+   "repo": "creandotumatrix-labs/AgenticsMexico",
+   "number": 8,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
    "number": 24,
    "title": "(private repo)",
@@ -860,19 +887,20 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T16:37:01Z",
-  "total": 205,
+  "start": "2026-09-30T17:07:02Z",
+  "total": 216,
   "repos": {
-   "marcuspat/marcuspatman.space": 5,
+   "marcuspat/html-sites": 19,
    "marcuspat/velvet-bbs": 2,
-   "marcuspat/marcuspat": 2,
-   "marcuspat/ancuria": 15,
-   "marcuspat/turbo-flow": 7,
-   "marcuspat/html-sites": 16,
-   "marcuspat/sdelic_org": 6,
-   "marcuspat/adventure-wave-explorer": 4,
+   "marcuspat/ancuria": 16,
+   "marcuspat/h20healer": 3,
+   "marcuspat/turbo-flow": 8,
    "marcuspat/creandotumatrix-site": 4,
+   "marcuspat/adventure-wave-explorer": 6,
+   "marcuspat/marcuspatman.space": 6,
    "marcuspat/pr-board-public": 1,
+   "marcuspat/marcuspat": 2,
+   "marcuspat/sdelic_org": 6,
    "marcuspat/cargo-forge": 2,
    "marcuspat/rustops": 5,
    "marcuspat/file-hasher": 1,
@@ -886,7 +914,6 @@
    "marcuspat/turbo-rig": 12,
    "marcuspat/CMatrix-Landing-Page": 3,
    "marcuspat/serviya": 1,
-   "marcuspat/h20healer": 1,
    "adventurewave-labs/turbo-flow-wizard": 1,
    "adventurewave-labs/agentic-platform-engineering-extravaganza": 1,
    "adventurewave-labs/aops-sre-pipeline": 1,
@@ -909,7 +936,7 @@
    "adventurewave-labs/excavate": 1,
    "adventurewave-labs/loopwatch-v2": 1,
    "adventurewave-labs/loopwatch-catalog": 1,
-   "creandotumatrix-labs/AgenticsMexico": 1,
+   "creandotumatrix-labs/AgenticsMexico": 2,
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 7,
    "creandotumatrix-labs/asistente-pedidos": 1,
    "creandotumatrix-labs/asistente-comercial": 1,
@@ -917,12 +944,12 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
+   "2026-10-07": 76,
+   "2026-10-06": 13,
    "2026-10-05": 8,
+   "2026-10-04": 32,
    "2026-10-01": 61,
    "2026-09-30": 24,
-   "2026-10-07": 65,
-   "2026-10-06": 13,
-   "2026-10-04": 32,
    "2026-10-03": 2
   }
  },
@@ -992,10 +1019,10 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-07T15:12:46Z",
-  "runs_7d": 1419,
-  "failures_7d": 260,
-  "repos_active_7d": 32,
+  "asof": "2026-10-07T17:14:42Z",
+  "runs_7d": 1429,
+  "failures_7d": 258,
+  "repos_active_7d": 33,
   "workflows": 82,
   "red": [
    {
@@ -1044,7 +1071,7 @@
     "repo": "adventurewave-labs/dualbrand-lead-router",
     "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-10-07 04:47",
+    "at": "2026-10-07 15:32",
     "url": ""
    },
    {
@@ -1086,13 +1113,6 @@
     "repo": "marcuspat/ancuria",
     "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-10-07 06:52",
-    "url": ""
-   },
-   {
-    "repo": "marcuspat/ancuria",
-    "workflow": "(private repo)",
-    "status": "failure",
     "at": "2026-10-07 14:33",
     "url": ""
    },
@@ -1100,7 +1120,7 @@
     "repo": "marcuspat/html-sites",
     "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-10-07 15:02",
+    "at": "2026-10-07 17:06",
     "url": ""
    },
    {
@@ -1109,13 +1129,6 @@
     "status": "failure",
     "at": "2026-10-07 09:42",
     "url": ""
-   },
-   {
-    "repo": "marcuspat/netrain",
-    "workflow": "CI",
-    "status": "failure",
-    "at": "2026-10-07 14:50",
-    "url": "https://github.com/marcuspat/netrain/actions/runs/37640024805"
    }
   ]
  }
