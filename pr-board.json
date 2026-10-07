@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T22:09:51Z",
+ "generated": "2026-10-07T22:39:52Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -8,14 +8,13 @@
  "private_stubbed": 57,
  "prs": [
   {
-   "repo": "marcuspat/turbo-flow",
-   "number": 68,
-   "title": "README EN/ES: withdrawn 116-task claim replaced by the audited record (badge too)",
-   "author": "marcuspat",
+   "repo": "marcuspat/ancuria",
+   "number": 515,
+   "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-07",
    "g": "unreviewed",
-   "note": "no gate review yet"
+   "priv": true
   },
   {
    "repo": "marcuspat/ancuria",
@@ -25,6 +24,26 @@
    "updated": "2026-10-07",
    "g": "unreviewed",
    "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 69,
+   "title": "demo: the harness boot gif \u2014 pick a harness, get a rig (one real take)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-07 - re-gate"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 68,
+   "title": "README EN/ES: withdrawn 116-task claim replaced by the audited record (badge too)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "note": "no gate review yet"
   },
   {
    "repo": "marcuspat/adventurewavelabs-website",
@@ -389,42 +408,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/turbo-flow",
-   "number": 67,
-   "title": "readme: canonical entity paragraph in the first 150 words",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 66,
-   "title": "add setup-harness.sh \u2014 pick your harness at boot: Claude / Codex / GLM",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 65,
-   "title": "fix: kit devcontainer needs the sshd feature (gh cs ssh/cp break without it)",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 64,
-   "title": "strip pr3: tokens.py drops down \u2014 the multi-harness token dashboard (first open-core drop)",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 63,
-   "title": "strip pr2: v4 out \u2014 repo repositions to rig-lite only, ZCode-first",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 62,
-   "title": "strip pr1: dead weight \u2014 unreferenced assets, V2 stub, legacy k8s-planes, dead CI excludes",
-   "mergedAt": "2026-10-07"
-  },
-  {
    "repo": "marcuspat/ancuria",
    "number": 513,
    "title": "(private repo)",
@@ -493,6 +476,42 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 67,
+   "title": "readme: canonical entity paragraph in the first 150 words",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 66,
+   "title": "add setup-harness.sh \u2014 pick your harness at boot: Claude / Codex / GLM",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 65,
+   "title": "fix: kit devcontainer needs the sshd feature (gh cs ssh/cp break without it)",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 64,
+   "title": "strip pr3: tokens.py drops down \u2014 the multi-harness token dashboard (first open-core drop)",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 63,
+   "title": "strip pr2: v4 out \u2014 repo repositions to rig-lite only, ZCode-first",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 62,
+   "title": "strip pr1: dead weight \u2014 unreferenced assets, V2 stub, legacy k8s-planes, dead CI excludes",
+   "mergedAt": "2026-10-07"
   },
   {
    "repo": "marcuspat/pr-board-public",
@@ -917,25 +936,25 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T22:07:01Z",
-  "total": 212,
+  "start": "2026-09-30T22:37:01Z",
+  "total": 210,
   "repos": {
-   "marcuspat/turbo-flow": 8,
    "marcuspat/ancuria": 18,
+   "marcuspat/turbo-flow": 8,
    "marcuspat/pr-board-public": 1,
    "marcuspat/turboflowacademy": 1,
    "marcuspat/adventurewavelabs-website": 1,
    "marcuspat/turbo-rig": 7,
    "marcuspat/html-sites": 18,
    "marcuspat/velvet-bbs": 2,
-   "marcuspat/h20healer": 3,
+   "marcuspat/h20healer": 2,
    "marcuspat/creandotumatrix-site": 4,
    "marcuspat/adventure-wave-explorer": 6,
    "marcuspat/marcuspatman.space": 6,
    "marcuspat/marcuspat": 2,
    "marcuspat/sdelic_org": 6,
    "marcuspat/cargo-forge": 2,
-   "marcuspat/rustops": 3,
+   "marcuspat/rustops": 2,
    "marcuspat/file-hasher": 1,
    "marcuspat/magpu": 1,
    "marcuspat/packt-technical-reviews": 1,
@@ -977,15 +996,24 @@
   },
   "day": {
    "2026-10-07": 80,
-   "2026-10-01": 61,
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-09-30": 16,
+   "2026-09-30": 14,
+   "2026-10-01": 61,
    "2026-10-03": 2
   }
  },
  "issues": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 473,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-09-28",
+   "bucket": "actionable",
+   "priv": true
+  },
   {
    "repo": "marcuspat/turbo-flow",
    "number": 61,
@@ -1012,15 +1040,6 @@
    "kind": "ours",
    "updated": "2026-09-22",
    "bucket": "actionable"
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 473,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-09-28",
-   "bucket": "actionable",
-   "priv": true
   },
   {
    "repo": "marcuspat/cargo-forge",
