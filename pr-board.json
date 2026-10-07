@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T08:39:37Z",
+ "generated": "2026-10-07T09:12:21Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -270,41 +270,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/html-sites",
-   "number": 33,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 32,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 30,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 29,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 26,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/ancuria",
    "number": 510,
    "title": "(private repo)",
@@ -356,6 +321,41 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 503,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-06",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 33,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 32,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 30,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 29,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 26,
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
    "priv": true
@@ -506,11 +506,11 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T08:37:01Z",
+  "start": "2026-09-30T09:07:01Z",
   "total": 178,
   "repos": {
-   "marcuspat/html-sites": 15,
    "marcuspat/ancuria": 19,
+   "marcuspat/html-sites": 15,
    "marcuspat/sdelic_org": 4,
    "marcuspat/turbo-rig": 11,
    "marcuspat/adventure-wave-explorer": 4,
@@ -545,10 +545,10 @@
   "day": {
    "2026-10-07": 23,
    "2026-10-06": 14,
-   "2026-10-05": 8,
    "2026-10-04": 32,
-   "2026-10-01": 69,
+   "2026-10-05": 8,
    "2026-09-30": 30,
+   "2026-10-01": 69,
    "2026-10-03": 2
   }
  },
@@ -618,12 +618,19 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-07T07:11:59Z",
-  "runs_7d": 1125,
-  "failures_7d": 229,
+  "asof": "2026-10-07T09:12:21Z",
+  "runs_7d": 1364,
+  "failures_7d": 251,
   "repos_active_7d": 25,
-  "workflows": 80,
+  "workflows": 82,
   "red": [
+   {
+    "repo": "adventurewave-labs/GUI-LOP",
+    "workflow": "bench",
+    "status": "failure",
+    "at": "2026-10-07 07:40",
+    "url": "https://github.com/adventurewave-labs/GUI-LOP/actions/runs/37588821000"
+   },
    {
     "repo": "adventurewave-labs/aops-sre-pipeline",
     "workflow": ".github/workflows/_probe.yml",
