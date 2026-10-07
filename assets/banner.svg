@@ -88,7 +88,7 @@
 <rect x="-420" y="26" width="120" height="28" rx="7" fill="#264d78" stroke="#388bfd" filter="url(#glow)">
 <animate attributeName="fill" calcMode="discrete" values="#264d78;#264d78;#123b22;#123b22;#123b22" keyTimes="0;0.56;0.6;0.8;1" dur="8s" repeatCount="indefinite"/>
 </rect>
-<text x="-360" y="45" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#c9d1d9" text-anchor="middle">PR #1024</text>
+<text x="-360" y="45" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#c9d1d9" text-anchor="middle">PR #1024<animate attributeName="opacity" calcMode="discrete" values="1;1;0" keyTimes="0;0.56;0.6" dur="8s" repeatCount="indefinite"/></text>
 <text x="-360" y="45" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#3fb950" text-anchor="middle" opacity="0">✓ merged<animate attributeName="opacity" calcMode="discrete" values="0;0;1" keyTimes="0;0.56;0.6" dur="8s" repeatCount="indefinite"/></text>
 <animateTransform attributeName="transform" type="translate" values="0 0;0 0;180 0;180 0;360 0;360 0;540 0;540 0;720 0;720 0" keyTimes="0;0.14;0.24;0.36;0.46;0.58;0.68;0.8;0.9;1" dur="8s" repeatCount="indefinite"/>
 <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.9;0.97;1" dur="8s" repeatCount="indefinite"/>
