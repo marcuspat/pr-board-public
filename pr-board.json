@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T19:12:42Z",
+ "generated": "2026-10-07T19:40:58Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -10,15 +10,6 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 514,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 513,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-07",
@@ -397,6 +388,13 @@
   }
  ],
  "merged_24h": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 513,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
   {
    "repo": "marcuspat/ancuria",
    "number": 512,
@@ -919,14 +917,14 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T19:07:01Z",
-  "total": 218,
+  "start": "2026-09-30T19:37:01Z",
+  "total": 217,
   "repos": {
-   "marcuspat/ancuria": 17,
+   "marcuspat/ancuria": 18,
    "marcuspat/pr-board-public": 1,
    "marcuspat/turboflowacademy": 1,
    "marcuspat/adventurewavelabs-website": 1,
-   "marcuspat/turbo-rig": 11,
+   "marcuspat/turbo-rig": 9,
    "marcuspat/turbo-flow": 8,
    "marcuspat/html-sites": 19,
    "marcuspat/velvet-bbs": 2,
@@ -978,11 +976,11 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
-   "2026-10-07": 79,
+   "2026-10-07": 80,
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-09-30": 23,
+   "2026-09-30": 21,
    "2026-10-01": 61,
    "2026-10-03": 2
   }
