@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T02:09:34Z",
+ "generated": "2026-10-07T02:39:29Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -8,21 +8,12 @@
  "private_stubbed": 57,
  "prs": [
   {
-   "repo": "marcuspat/ancuria",
-   "number": 504,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-06",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 43,
+   "repo": "marcuspat/html-sites",
+   "number": 29,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "needs_work",
+   "g": "unreviewed",
    "priv": true
   },
   {
@@ -49,6 +40,24 @@
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-05",
+   "g": "needs_work",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 504,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 43,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
    "g": "needs_work",
    "priv": true
   },
@@ -126,18 +135,16 @@
    "updated": "2026-10-02",
    "g": "needs_work",
    "note": "gate REVISE 2026-10-02"
-  },
-  {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 9,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "needs_work",
-   "priv": true
   }
  ],
  "merged_24h": [
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 26,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-06",
+   "priv": true
+  },
   {
    "repo": "marcuspat/ancuria",
    "number": 507,
@@ -162,13 +169,6 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 503,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 26,
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
    "priv": true
@@ -262,15 +262,22 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
+  },
+  {
+   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
+   "number": 9,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T02:07:01Z",
-  "total": 178,
+  "start": "2026-09-30T02:37:01Z",
+  "total": 179,
   "repos": {
+   "marcuspat/html-sites": 11,
    "marcuspat/ancuria": 16,
    "marcuspat/turbo-rig": 13,
-   "marcuspat/html-sites": 11,
    "marcuspat/adventure-wave-explorer": 4,
    "marcuspat/CMatrix-Landing-Page": 3,
    "marcuspat/creandotumatrix-site": 4,
@@ -299,15 +306,15 @@
    "adventurewave-labs/loopwatch-catalog": 1,
    "adventurewave-labs/preflight-integration-tester": 1,
    "adventurewave-labs/noip-scanner": 2,
-   "creandotumatrix-labs/marce-garcia-casas-vallarta": 2
+   "creandotumatrix-labs/marce-garcia-casas-vallarta": 3
   },
   "day": {
    "2026-10-06": 14,
-   "2026-10-07": 4,
-   "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-09-30": 49,
+   "2026-10-04": 32,
    "2026-10-01": 69,
+   "2026-09-30": 49,
+   "2026-10-07": 5,
    "2026-10-03": 2
   }
  },
