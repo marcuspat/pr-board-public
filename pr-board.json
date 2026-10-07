@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T18:13:06Z",
+ "generated": "2026-10-07T18:40:03Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,15 +7,6 @@
  ],
  "private_stubbed": 57,
  "prs": [
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 44,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
   {
    "repo": "marcuspat/adventurewavelabs-website",
    "number": 15,
@@ -35,8 +26,8 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 13,
+   "repo": "marcuspat/turbo-rig",
+   "number": 44,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-07",
@@ -146,15 +137,6 @@
   {
    "repo": "marcuspat/creandotumatrix-site",
    "number": 21,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turboflowacademy",
-   "number": 14,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-07",
@@ -456,6 +438,20 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 504,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turboflowacademy",
+   "number": 14,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 13,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
@@ -905,10 +901,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T18:07:01Z",
-  "total": 216,
+  "start": "2026-09-30T18:37:01Z",
+  "total": 218,
   "repos": {
    "marcuspat/ancuria": 17,
+   "marcuspat/turboflowacademy": 1,
+   "marcuspat/adventurewavelabs-website": 1,
    "marcuspat/pr-board-public": 1,
    "marcuspat/turbo-rig": 11,
    "marcuspat/turbo-flow": 8,
@@ -962,7 +960,7 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
-   "2026-10-07": 77,
+   "2026-10-07": 79,
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
