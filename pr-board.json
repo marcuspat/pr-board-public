@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T11:39:44Z",
+ "generated": "2026-10-07T12:09:44Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -257,51 +257,18 @@
    "updated": "2026-10-07",
    "g": "needs_work",
    "priv": true
+  },
+  {
+   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
+   "number": 24,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
   }
  ],
  "merged_24h": [
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 34,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 33,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 32,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 30,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 29,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 26,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
-  },
   {
    "repo": "marcuspat/ancuria",
    "number": 510,
@@ -354,6 +321,48 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 503,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-06",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 34,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 33,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 32,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 30,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 29,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 26,
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
    "priv": true
@@ -511,11 +520,11 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T11:37:01Z",
+  "start": "2026-09-30T12:07:01Z",
   "total": 180,
   "repos": {
-   "marcuspat/html-sites": 16,
    "marcuspat/ancuria": 19,
+   "marcuspat/html-sites": 16,
    "marcuspat/sdelic_org": 5,
    "marcuspat/turbo-rig": 11,
    "marcuspat/adventure-wave-explorer": 4,
@@ -550,10 +559,10 @@
   "day": {
    "2026-10-07": 25,
    "2026-10-06": 14,
-   "2026-10-05": 8,
    "2026-10-04": 32,
-   "2026-10-01": 69,
+   "2026-10-05": 8,
    "2026-09-30": 30,
+   "2026-10-01": 69,
    "2026-10-03": 2
   }
  },
