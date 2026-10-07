@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T00:09:44Z",
+ "generated": "2026-10-07T00:39:36Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -71,6 +71,24 @@
    "priv": true
   },
   {
+   "repo": "adventurewave-labs/dualbrand-lead-router",
+   "number": 49,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "green",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/dualbrand-lead-router",
+   "number": 48,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
    "repo": "adventurewave-labs/brain-vault",
    "number": 5,
    "title": "(private repo)",
@@ -95,69 +113,6 @@
    "kind": "ours",
    "updated": "2026-10-06",
    "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 48,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-06",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 47,
-   "title": "(private repo)",
-   "kind": "bot",
-   "updated": "2026-10-05",
-   "g": "bots",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 46,
-   "title": "(private repo)",
-   "kind": "bot",
-   "updated": "2026-10-05",
-   "g": "bots",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 45,
-   "title": "(private repo)",
-   "kind": "bot",
-   "updated": "2026-10-05",
-   "g": "bots",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 44,
-   "title": "(private repo)",
-   "kind": "bot",
-   "updated": "2026-10-05",
-   "g": "bots",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 43,
-   "title": "(private repo)",
-   "kind": "bot",
-   "updated": "2026-10-05",
-   "g": "bots",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 42,
-   "title": "(private repo)",
-   "kind": "bot",
-   "updated": "2026-10-05",
-   "g": "bots",
    "priv": true
   },
   {
@@ -241,6 +196,27 @@
    "priv": true
   },
   {
+   "repo": "marcuspat/adventure-wave-explorer",
+   "number": 28,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-06",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventure-wave-explorer",
+   "number": 27,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-06",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventure-wave-explorer",
+   "number": 26,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-06",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/CMatrix-Landing-Page",
    "number": 11,
    "title": "(private repo)",
@@ -297,11 +273,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T00:07:01Z",
-  "total": 178,
+  "start": "2026-09-30T00:37:01Z",
+  "total": 181,
   "repos": {
    "marcuspat/ancuria": 15,
    "marcuspat/html-sites": 12,
+   "marcuspat/adventure-wave-explorer": 4,
    "marcuspat/CMatrix-Landing-Page": 3,
    "marcuspat/creandotumatrix-site": 5,
    "marcuspat/turbo-rig": 13,
@@ -310,7 +287,7 @@
    "marcuspat/Sentinel": 8,
    "marcuspat/netrain": 2,
    "marcuspat/k8s-netinspect": 1,
-   "marcuspat/marcuspat": 2,
+   "marcuspat/marcuspat": 1,
    "marcuspat/turbo-flow": 2,
    "marcuspat/serviya": 2,
    "marcuspat/velvet-bbs": 2,
@@ -318,9 +295,9 @@
    "marcuspat/sdelic_org": 1,
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
+   "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/turbo-brain-v2": 9,
    "adventurewave-labs/awesome-agent-reliability": 9,
-   "adventurewave-labs/dualbrand-lead-router": 12,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/pipeline-machine-v2": 33,
    "adventurewave-labs/excavate": 1,
@@ -334,7 +311,7 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 1
   },
   "day": {
-   "2026-10-06": 11,
+   "2026-10-06": 14,
    "2026-10-04": 32,
    "2026-10-05": 8,
    "2026-09-30": 56,
