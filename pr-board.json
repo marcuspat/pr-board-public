@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T03:39:27Z",
+ "generated": "2026-10-07T04:09:37Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -53,6 +53,15 @@
    "priv": true
   },
   {
+   "repo": "adventurewave-labs/dualbrand-lead-router",
+   "number": 50,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
    "repo": "adventurewave-labs/secret-scan",
    "number": 6,
    "title": "SOTA loop: SARIF, baselines, config, git history, pre-commit, 73 rules, 27x faster",
@@ -61,15 +70,6 @@
    "updated": "2026-10-07",
    "g": "needs_work",
    "note": "gate REVISE 2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 48,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-06",
-   "g": "unreviewed",
-   "priv": true
   },
   {
    "repo": "adventurewave-labs/brain-vault",
@@ -173,6 +173,13 @@
   },
   {
    "repo": "marcuspat/html-sites",
+   "number": 30,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
    "number": 29,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
@@ -235,15 +242,15 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 18,
+   "repo": "adventurewave-labs/dualbrand-lead-router",
+   "number": 49,
    "title": "(private repo)",
-   "mergedAt": "2026-10-06",
+   "mergedAt": "2026-10-07",
    "priv": true
   },
   {
    "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 49,
+   "number": 48,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
@@ -260,6 +267,20 @@
    "number": 5,
    "title": "Add AffixIO",
    "mergedAt": "2026-10-06"
+  },
+  {
+   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
+   "number": 23,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
+   "number": 22,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
   },
   {
    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
@@ -284,12 +305,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T03:37:01Z",
-  "total": 179,
+  "start": "2026-09-30T04:07:01Z",
+  "total": 168,
   "repos": {
-   "marcuspat/ancuria": 18,
-   "marcuspat/html-sites": 12,
-   "marcuspat/turbo-rig": 12,
+   "marcuspat/ancuria": 17,
+   "marcuspat/html-sites": 13,
+   "marcuspat/turbo-rig": 11,
    "marcuspat/adventure-wave-explorer": 4,
    "marcuspat/CMatrix-Landing-Page": 3,
    "marcuspat/creandotumatrix-site": 4,
@@ -306,25 +327,25 @@
    "marcuspat/sdelic_org": 1,
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
-   "adventurewave-labs/dualbrand-lead-router": 13,
-   "adventurewave-labs/turbo-brain-v2": 7,
+   "adventurewave-labs/dualbrand-lead-router": 14,
+   "adventurewave-labs/turbo-brain-v2": 6,
    "adventurewave-labs/awesome-agent-reliability": 9,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/pipeline-machine-v2": 33,
    "adventurewave-labs/excavate": 1,
    "adventurewave-labs/.github": 4,
-   "adventurewave-labs/loopwatch-v2": 12,
+   "adventurewave-labs/loopwatch-v2": 1,
    "adventurewave-labs/loopwatch-catalog": 1,
    "adventurewave-labs/preflight-integration-tester": 1,
-   "adventurewave-labs/noip-scanner": 2,
-   "creandotumatrix-labs/marce-garcia-casas-vallarta": 4
+   "adventurewave-labs/noip-scanner": 1,
+   "creandotumatrix-labs/marce-garcia-casas-vallarta": 6
   },
   "day": {
-   "2026-10-07": 9,
+   "2026-10-07": 13,
    "2026-10-06": 14,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-09-30": 45,
+   "2026-09-30": 30,
    "2026-10-01": 69,
    "2026-10-03": 2
   }
