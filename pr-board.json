@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T06:39:32Z",
+ "generated": "2026-10-07T07:11:59Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,24 @@
  ],
  "private_stubbed": 57,
  "prs": [
+  {
+   "repo": "marcuspat/sdelic_org",
+   "number": 8,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 31,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/html-sites",
    "number": 28,
@@ -32,15 +50,6 @@
    "kind": "ours",
    "updated": "2026-10-05",
    "g": "needs_work",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 510,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
    "priv": true
   },
   {
@@ -121,6 +130,13 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/sdelic_org",
+   "number": 7,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/html-sites",
    "number": 30,
    "title": "(private repo)",
@@ -139,6 +155,13 @@
    "number": 26,
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 510,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
    "priv": true
   },
   {
@@ -303,11 +326,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T06:37:01Z",
-  "total": 170,
+  "start": "2026-09-30T07:07:01Z",
+  "total": 172,
   "repos": {
+   "marcuspat/sdelic_org": 2,
    "marcuspat/html-sites": 13,
-   "marcuspat/ancuria": 18,
+   "marcuspat/ancuria": 19,
    "marcuspat/turbo-rig": 11,
    "marcuspat/adventure-wave-explorer": 4,
    "marcuspat/CMatrix-Landing-Page": 3,
@@ -322,7 +346,6 @@
    "marcuspat/serviya": 1,
    "marcuspat/velvet-bbs": 2,
    "marcuspat/h20healer": 1,
-   "marcuspat/sdelic_org": 1,
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
    "adventurewave-labs/dualbrand-lead-router": 15,
@@ -339,12 +362,12 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 6
   },
   "day": {
-   "2026-10-07": 15,
+   "2026-10-07": 17,
+   "2026-09-30": 30,
    "2026-10-06": 14,
    "2026-10-05": 8,
    "2026-10-04": 32,
    "2026-10-01": 69,
-   "2026-09-30": 30,
    "2026-10-03": 2
   }
  },
@@ -414,9 +437,9 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-07T05:11:46Z",
-  "runs_7d": 1198,
-  "failures_7d": 242,
+  "asof": "2026-10-07T07:11:59Z",
+  "runs_7d": 1125,
+  "failures_7d": 229,
   "repos_active_7d": 25,
   "workflows": 80,
   "red": [
@@ -480,7 +503,7 @@
     "repo": "marcuspat/ancuria",
     "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-10-07 04:24",
+    "at": "2026-10-07 06:52",
     "url": ""
    }
   ]
