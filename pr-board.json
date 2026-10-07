@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T00:39:36Z",
+ "generated": "2026-10-07T01:12:34Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -21,7 +21,7 @@
    "number": 505,
    "title": "(private repo)",
    "kind": "ours",
-   "updated": "2026-10-06",
+   "updated": "2026-10-07",
    "g": "unreviewed",
    "priv": true
   },
@@ -66,17 +66,8 @@
    "number": 43,
    "title": "(private repo)",
    "kind": "ours",
-   "updated": "2026-10-06",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 49,
-   "title": "(private repo)",
-   "kind": "ours",
    "updated": "2026-10-07",
-   "g": "green",
+   "g": "needs_work",
    "priv": true
   },
   {
@@ -120,8 +111,8 @@
    "number": 2,
    "title": "(private repo)",
    "kind": "ours",
-   "updated": "2026-10-06",
-   "g": "unreviewed",
+   "updated": "2026-10-07",
+   "g": "needs_work",
    "priv": true
   },
   {
@@ -153,15 +144,6 @@
    "updated": "2026-10-02",
    "g": "stale",
    "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 10,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "green",
-   "priv": true
   },
   {
    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
@@ -259,6 +241,13 @@
    "priv": true
   },
   {
+   "repo": "adventurewave-labs/dualbrand-lead-router",
+   "number": 49,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
    "repo": "adventurewave-labs/turbo-brain-v2",
    "number": 11,
    "title": "(private repo)",
@@ -270,11 +259,18 @@
    "number": 5,
    "title": "Add AffixIO",
    "mergedAt": "2026-10-06"
+  },
+  {
+   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
+   "number": 10,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T00:37:01Z",
-  "total": 181,
+  "start": "2026-09-30T01:07:01Z",
+  "total": 183,
   "repos": {
    "marcuspat/ancuria": 15,
    "marcuspat/html-sites": 12,
@@ -295,7 +291,7 @@
    "marcuspat/sdelic_org": 1,
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 5,
-   "adventurewave-labs/dualbrand-lead-router": 12,
+   "adventurewave-labs/dualbrand-lead-router": 13,
    "adventurewave-labs/turbo-brain-v2": 9,
    "adventurewave-labs/awesome-agent-reliability": 9,
    "adventurewave-labs/debate-killer": 1,
@@ -308,7 +304,7 @@
    "adventurewave-labs/preflight-integration-tester": 1,
    "adventurewave-labs/coach-gezedeay": 1,
    "adventurewave-labs/noip-scanner": 2,
-   "creandotumatrix-labs/marce-garcia-casas-vallarta": 1
+   "creandotumatrix-labs/marce-garcia-casas-vallarta": 2
   },
   "day": {
    "2026-10-06": 14,
@@ -316,6 +312,7 @@
    "2026-10-05": 8,
    "2026-09-30": 56,
    "2026-10-01": 69,
+   "2026-10-07": 2,
    "2026-10-03": 2
   }
  },
@@ -394,11 +391,11 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-06T23:12:06Z",
-  "runs_7d": 1252,
-  "failures_7d": 251,
+  "asof": "2026-10-07T01:12:34Z",
+  "runs_7d": 1248,
+  "failures_7d": 243,
   "repos_active_7d": 25,
-  "workflows": 77,
+  "workflows": 78,
   "red": [
    {
     "repo": "adventurewave-labs/aops-sre-pipeline",
