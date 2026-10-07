@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T14:11:04Z",
+ "generated": "2026-10-07T14:40:32Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,136 +7,6 @@
  ],
  "private_stubbed": 57,
  "prs": [
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 64,
-   "title": "strip pr3: tokens.py drops down \u2014 the multi-harness token dashboard (first open-core drop)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-07 - re-gate"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 63,
-   "title": "strip pr2: v4 out \u2014 repo repositions to rig-lite only, ZCode-first",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 62,
-   "title": "strip pr1: dead weight \u2014 unreferenced assets, V2 stub, legacy k8s-planes, dead CI excludes",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "marcuspat/Ansible-Bash",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "marcuspat/ansible",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "marcuspat/Misc_Ansible_Playbooks",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "marcuspat/percona_client_install_ansible",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "marcuspat/dns-bash-scripts",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "marcuspat/terraform_ansible_jenkins_deployment",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "marcuspat/SysAdmin-Shell-Scripts",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "marcuspat/winrm-ansible-setup",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "marcuspat/aws_python_sdk",
-   "number": 2,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "marcuspat/devops",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
   {
    "repo": "marcuspat/html-sites",
    "number": 31,
@@ -174,98 +44,8 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/AI-Kubernetes-API-Generator-Demo",
-   "number": 3,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "adventurewave-labs/agentic-platform-engineering-notes",
-   "number": 2,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "adventurewave-labs/json-prettify",
+   "repo": "marcuspat/Ansible-Bash",
    "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "adventurewave-labs/aria",
-   "number": 4,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "adventurewave-labs/agentic-powered-golden-path-demo",
-   "number": 5,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "adventurewave-labs/cloop",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-rust-agentics",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-loop-engineering",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-graph-engineering",
-   "number": 3,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 14,
    "title": "Add animated SVG banner",
    "author": "marcuspat",
    "kind": "ours",
@@ -274,7 +54,77 @@
    "note": "gate APPROVED 2026-10-07"
   },
   {
-   "repo": "adventurewave-labs/turbo-flow-wizard",
+   "repo": "marcuspat/ansible",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "green",
+   "note": "gate APPROVED 2026-10-07"
+  },
+  {
+   "repo": "marcuspat/Misc_Ansible_Playbooks",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "green",
+   "note": "gate APPROVED 2026-10-07"
+  },
+  {
+   "repo": "marcuspat/percona_client_install_ansible",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "green",
+   "note": "gate APPROVED 2026-10-07"
+  },
+  {
+   "repo": "marcuspat/dns-bash-scripts",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-07"
+  },
+  {
+   "repo": "marcuspat/terraform_ansible_jenkins_deployment",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "green",
+   "note": "gate APPROVED 2026-10-07"
+  },
+  {
+   "repo": "marcuspat/SysAdmin-Shell-Scripts",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "green",
+   "note": "gate APPROVED 2026-10-07"
+  },
+  {
+   "repo": "marcuspat/winrm-ansible-setup",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "green",
+   "note": "gate APPROVED 2026-10-07"
+  },
+  {
+   "repo": "marcuspat/aws_python_sdk",
    "number": 2,
    "title": "Add animated SVG banner",
    "author": "marcuspat",
@@ -284,128 +134,8 @@
    "note": "gate APPROVED 2026-10-07"
   },
   {
-   "repo": "adventurewave-labs/agentic-platform-engineering-extravaganza",
-   "number": 6,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/aops-sre-pipeline",
-   "number": 6,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/gitops-progressive-delivery-demo",
-   "number": 3,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/agentic-devops-extravaganza",
-   "number": 7,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/moor-demo",
+   "repo": "marcuspat/devops",
    "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/cloudtrim-demo",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/loopgen-rs",
-   "number": 4,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/noip-scanner",
-   "number": 50,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/preflight-integration-tester",
-   "number": 5,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/ansible-heal-agent",
-   "number": 19,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/codescope",
-   "number": 11,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/.github",
-   "number": 7,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/secret-scan",
-   "number": 7,
    "title": "Add animated SVG banner",
    "author": "marcuspat",
    "kind": "ours",
@@ -422,16 +152,6 @@
    "updated": "2026-10-07",
    "g": "needs_work",
    "note": "gate REVISE 2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/GUI-LOP",
-   "number": 29,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
   },
   {
    "repo": "adventurewave-labs/GUI-LOP",
@@ -637,49 +357,69 @@
    "updated": "2026-10-07",
    "g": "needs_work",
    "priv": true
-  },
-  {
-   "repo": "creandotumatrix-labs/asistente-pedidos",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "creandotumatrix-labs/asistente-comercial",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-07"
-  },
-  {
-   "repo": "creandotumatrix-labs/.github",
-   "number": 10,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "creandotumatrix-labs/asistente-de-tienda",
-   "number": 6,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
   }
  ],
  "merged_24h": [
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 64,
+   "title": "strip pr3: tokens.py drops down \u2014 the multi-harness token dashboard (first open-core drop)",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 63,
+   "title": "strip pr2: v4 out \u2014 repo repositions to rig-lite only, ZCode-first",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 62,
+   "title": "strip pr1: dead weight \u2014 unreferenced assets, V2 stub, legacy k8s-planes, dead CI excludes",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 34,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 33,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 32,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 30,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 29,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 26,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-06",
+   "priv": true
+  },
   {
    "repo": "marcuspat/ancuria",
    "number": 510,
@@ -741,48 +481,6 @@
    "number": 43,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 34,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 33,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 32,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 30,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 29,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 26,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
    "priv": true
   },
   {
@@ -856,6 +554,144 @@
    "priv": true
   },
   {
+   "repo": "adventurewave-labs/json-prettify",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/aria",
+   "number": 4,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/agentic-powered-golden-path-demo",
+   "number": 5,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/cloop",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-rust-agentics",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-loop-engineering",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-graph-engineering",
+   "number": 3,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/awesome-agent-reliability",
+   "number": 14,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/turbo-flow-wizard",
+   "number": 2,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/agentic-platform-engineering-extravaganza",
+   "number": 6,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/aops-sre-pipeline",
+   "number": 6,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/gitops-progressive-delivery-demo",
+   "number": 3,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/agentic-devops-extravaganza",
+   "number": 7,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/moor-demo",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/cloudtrim-demo",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/loopgen-rs",
+   "number": 4,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/noip-scanner",
+   "number": 50,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/preflight-integration-tester",
+   "number": 5,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/ansible-heal-agent",
+   "number": 19,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/codescope",
+   "number": 11,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/.github",
+   "number": 7,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/secret-scan",
+   "number": 7,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/GUI-LOP",
+   "number": 29,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
    "repo": "adventurewave-labs/GUI-LOP",
    "number": 12,
    "title": "Production-readiness round 3 (contains PR #11)",
@@ -865,6 +701,18 @@
    "repo": "adventurewave-labs/GUI-LOP",
    "number": 11,
    "title": "SOTA rounds 1+2: hardening, correctness and security fixes",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/AI-Kubernetes-API-Generator-Demo",
+   "number": 3,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "adventurewave-labs/agentic-platform-engineering-notes",
+   "number": 2,
+   "title": "Add animated SVG banner",
    "mergedAt": "2026-10-07"
   },
   {
@@ -894,6 +742,30 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
    "priv": true
+  },
+  {
+   "repo": "creandotumatrix-labs/asistente-pedidos",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "creandotumatrix-labs/asistente-comercial",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "creandotumatrix-labs/.github",
+   "number": 10,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "creandotumatrix-labs/asistente-de-tienda",
+   "number": 6,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
   },
   {
    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
@@ -939,13 +811,13 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T14:07:01Z",
-  "total": 179,
+  "start": "2026-09-30T14:37:01Z",
+  "total": 210,
   "repos": {
-   "marcuspat/ancuria": 18,
-   "marcuspat/turbo-flow": 2,
-   "marcuspat/turbo-rig": 12,
+   "marcuspat/turbo-flow": 5,
    "marcuspat/html-sites": 16,
+   "marcuspat/ancuria": 17,
+   "marcuspat/turbo-rig": 12,
    "marcuspat/sdelic_org": 5,
    "marcuspat/adventure-wave-explorer": 4,
    "marcuspat/CMatrix-Landing-Page": 3,
@@ -961,11 +833,31 @@
    "marcuspat/h20healer": 1,
    "marcuspat/AgenticsMexico": 1,
    "marcuspat/rustops": 4,
-   "adventurewave-labs/awesome-agent-reliability": 9,
-   "adventurewave-labs/noip-scanner": 1,
-   "adventurewave-labs/preflight-integration-tester": 1,
-   "adventurewave-labs/.github": 4,
-   "adventurewave-labs/GUI-LOP": 2,
+   "adventurewave-labs/json-prettify": 1,
+   "adventurewave-labs/aria": 1,
+   "adventurewave-labs/agentic-powered-golden-path-demo": 1,
+   "adventurewave-labs/cloop": 1,
+   "adventurewave-labs/awesome-rust-agentics": 1,
+   "adventurewave-labs/awesome-loop-engineering": 1,
+   "adventurewave-labs/awesome-graph-engineering": 1,
+   "adventurewave-labs/awesome-agent-reliability": 10,
+   "adventurewave-labs/turbo-flow-wizard": 1,
+   "adventurewave-labs/agentic-platform-engineering-extravaganza": 1,
+   "adventurewave-labs/aops-sre-pipeline": 1,
+   "adventurewave-labs/gitops-progressive-delivery-demo": 1,
+   "adventurewave-labs/agentic-devops-extravaganza": 1,
+   "adventurewave-labs/moor-demo": 1,
+   "adventurewave-labs/cloudtrim-demo": 1,
+   "adventurewave-labs/loopgen-rs": 1,
+   "adventurewave-labs/noip-scanner": 2,
+   "adventurewave-labs/preflight-integration-tester": 2,
+   "adventurewave-labs/ansible-heal-agent": 1,
+   "adventurewave-labs/codescope": 1,
+   "adventurewave-labs/.github": 5,
+   "adventurewave-labs/secret-scan": 1,
+   "adventurewave-labs/GUI-LOP": 3,
+   "adventurewave-labs/AI-Kubernetes-API-Generator-Demo": 1,
+   "adventurewave-labs/agentic-platform-engineering-notes": 1,
    "adventurewave-labs/dualbrand-lead-router": 15,
    "adventurewave-labs/pipeline-machine-v2": 33,
    "adventurewave-labs/turbo-brain-v2": 6,
@@ -973,28 +865,23 @@
    "adventurewave-labs/excavate": 1,
    "adventurewave-labs/loopwatch-v2": 1,
    "adventurewave-labs/loopwatch-catalog": 1,
+   "creandotumatrix-labs/asistente-pedidos": 1,
+   "creandotumatrix-labs/asistente-comercial": 1,
+   "creandotumatrix-labs/.github": 1,
+   "creandotumatrix-labs/asistente-de-tienda": 1,
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 7
   },
   "day": {
-   "2026-10-07": 27,
-   "2026-10-06": 14,
-   "2026-10-04": 32,
-   "2026-10-05": 8,
-   "2026-09-30": 27,
+   "2026-10-07": 59,
    "2026-10-01": 69,
+   "2026-10-06": 14,
+   "2026-10-05": 8,
+   "2026-10-04": 32,
+   "2026-09-30": 26,
    "2026-10-03": 2
   }
  },
  "issues": [
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 473,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-09-28",
-   "bucket": "actionable",
-   "priv": true
-  },
   {
    "repo": "marcuspat/turbo-flow",
    "number": 61,
@@ -1021,6 +908,15 @@
    "kind": "ours",
    "updated": "2026-09-22",
    "bucket": "actionable"
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 473,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-09-28",
+   "bucket": "actionable",
+   "priv": true
   },
   {
    "repo": "marcuspat/netrain",
