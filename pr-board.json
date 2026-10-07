@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T01:40:45Z",
+ "generated": "2026-10-07T02:09:34Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -9,7 +9,7 @@
  "prs": [
   {
    "repo": "marcuspat/ancuria",
-   "number": 506,
+   "number": 504,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-06",
@@ -17,12 +17,12 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/ancuria",
-   "number": 504,
+   "repo": "marcuspat/turbo-rig",
+   "number": 43,
    "title": "(private repo)",
    "kind": "ours",
-   "updated": "2026-10-06",
-   "g": "unreviewed",
+   "updated": "2026-10-07",
+   "g": "needs_work",
    "priv": true
   },
   {
@@ -53,13 +53,14 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/turbo-rig",
-   "number": 43,
-   "title": "(private repo)",
+   "repo": "adventurewave-labs/secret-scan",
+   "number": 6,
+   "title": "SOTA loop: SARIF, baselines, config, git history, pre-commit, 73 rules, 27x faster",
+   "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
    "g": "needs_work",
-   "priv": true
+   "note": "gate REVISE 2026-10-07"
   },
   {
    "repo": "adventurewave-labs/dualbrand-lead-router",
@@ -127,21 +128,11 @@
    "note": "gate REVISE 2026-10-02"
   },
   {
-   "repo": "adventurewave-labs/secret-scan",
-   "number": 6,
-   "title": "SOTA loop: SARIF, baselines, config, git history, pre-commit, 73 rules, 27x faster",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-02 - re-gate"
-  },
-  {
    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
    "number": 9,
    "title": "(private repo)",
    "kind": "ours",
-   "updated": "2026-10-02",
+   "updated": "2026-10-07",
    "g": "needs_work",
    "priv": true
   }
@@ -152,6 +143,13 @@
    "number": 507,
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 506,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
    "priv": true
   },
   {
@@ -267,18 +265,18 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T01:37:01Z",
-  "total": 182,
+  "start": "2026-09-30T02:07:01Z",
+  "total": 178,
   "repos": {
    "marcuspat/ancuria": 16,
-   "marcuspat/html-sites": 12,
+   "marcuspat/turbo-rig": 13,
+   "marcuspat/html-sites": 11,
    "marcuspat/adventure-wave-explorer": 4,
    "marcuspat/CMatrix-Landing-Page": 3,
-   "marcuspat/creandotumatrix-site": 5,
-   "marcuspat/turbo-rig": 13,
+   "marcuspat/creandotumatrix-site": 4,
    "marcuspat/marcuspatman.space": 5,
    "marcuspat/cargocrypt": 10,
-   "marcuspat/Sentinel": 8,
+   "marcuspat/Sentinel": 6,
    "marcuspat/netrain": 2,
    "marcuspat/k8s-netinspect": 1,
    "marcuspat/marcuspat": 1,
@@ -305,10 +303,10 @@
   },
   "day": {
    "2026-10-06": 14,
-   "2026-10-07": 3,
+   "2026-10-07": 4,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-09-30": 54,
+   "2026-09-30": 49,
    "2026-10-01": 69,
    "2026-10-03": 2
   }
@@ -329,7 +327,7 @@
    "title": "[Security Alert] Exposed API key(s) detected: AWS Access Key, GitHub PAT (classic)",
    "author": "hdhdn",
    "kind": "inbound",
-   "updated": "2026-03-14",
+   "updated": "2026-10-07",
    "bucket": "inbound"
   },
   {
