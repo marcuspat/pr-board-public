@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T17:14:42Z",
+ "generated": "2026-10-07T17:40:20Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,70 @@
  ],
  "private_stubbed": 57,
  "prs": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 512,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 44,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 15,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 14,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 13,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 68,
+   "title": "README EN/ES: withdrawn 116-task claim replaced by the audited record (badge too)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "note": "no gate review yet"
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 39,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/html-sites",
    "number": 36,
@@ -53,8 +117,8 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/velvet-bbs",
-   "number": 12,
+   "repo": "marcuspat/agenticplatformengineering",
+   "number": 9,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-07",
@@ -64,6 +128,15 @@
   {
    "repo": "marcuspat/agenticplatformengineering",
    "number": 8,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/velvet-bbs",
+   "number": 12,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-07",
@@ -82,24 +155,6 @@
   {
    "repo": "marcuspat/creandotumatrix-site",
    "number": 21,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 14,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 13,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-07",
@@ -352,62 +407,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/html-sites",
-   "number": 38,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 37,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 35,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 34,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 33,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 32,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 30,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 29,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/ancuria",
    "number": 511,
    "title": "(private repo)",
@@ -471,15 +470,8 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/h20healer",
-   "number": 10,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/h20healer",
-   "number": 9,
+   "repo": "marcuspat/turbo-rig",
+   "number": 43,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
@@ -521,10 +513,79 @@
    "mergedAt": "2026-10-07"
   },
   {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 20,
+   "repo": "marcuspat/html-sites",
+   "number": 38,
    "title": "(private repo)",
-   "mergedAt": "2026-10-06",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 37,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 35,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 34,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 33,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 32,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 30,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 29,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/pr-board-public",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/h20healer",
+   "number": 10,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/h20healer",
+   "number": 9,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
    "priv": true
   },
   {
@@ -554,12 +615,6 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/pr-board-public",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
   },
   {
    "repo": "marcuspat/marcuspat",
@@ -667,13 +722,6 @@
    "number": 1,
    "title": "Add animated SVG banner",
    "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 43,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
   },
   {
    "repo": "marcuspat/CMatrix-Landing-Page",
@@ -806,13 +854,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/turbo-brain-v2",
-   "number": 11,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
-  },
-  {
    "repo": "creandotumatrix-labs/AgenticsMexico",
    "number": 8,
    "title": "(private repo)",
@@ -887,18 +928,19 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T17:07:02Z",
+  "start": "2026-09-30T17:37:02Z",
   "total": 216,
   "repos": {
-   "marcuspat/html-sites": 19,
-   "marcuspat/velvet-bbs": 2,
    "marcuspat/ancuria": 16,
-   "marcuspat/h20healer": 3,
+   "marcuspat/turbo-rig": 12,
    "marcuspat/turbo-flow": 8,
+   "marcuspat/html-sites": 19,
+   "marcuspat/pr-board-public": 1,
+   "marcuspat/velvet-bbs": 2,
+   "marcuspat/h20healer": 3,
    "marcuspat/creandotumatrix-site": 4,
    "marcuspat/adventure-wave-explorer": 6,
    "marcuspat/marcuspatman.space": 6,
-   "marcuspat/pr-board-public": 1,
    "marcuspat/marcuspat": 2,
    "marcuspat/sdelic_org": 6,
    "marcuspat/cargo-forge": 2,
@@ -911,7 +953,6 @@
    "marcuspat/Sentinel": 6,
    "marcuspat/cargocrypt": 11,
    "marcuspat/vps-status": 1,
-   "marcuspat/turbo-rig": 12,
    "marcuspat/CMatrix-Landing-Page": 3,
    "marcuspat/serviya": 1,
    "adventurewave-labs/turbo-flow-wizard": 1,
@@ -946,10 +987,10 @@
   "day": {
    "2026-10-07": 76,
    "2026-10-06": 13,
-   "2026-10-05": 8,
    "2026-10-04": 32,
-   "2026-10-01": 61,
+   "2026-10-05": 8,
    "2026-09-30": 24,
+   "2026-10-01": 61,
    "2026-10-03": 2
   }
  },
