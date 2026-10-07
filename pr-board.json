@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T21:12:19Z",
+ "generated": "2026-10-07T21:39:56Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -917,8 +917,8 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T21:07:01Z",
-  "total": 213,
+  "start": "2026-09-30T21:37:02Z",
+  "total": 212,
   "repos": {
    "marcuspat/ancuria": 18,
    "marcuspat/pr-board-public": 1,
@@ -935,7 +935,7 @@
    "marcuspat/marcuspat": 2,
    "marcuspat/sdelic_org": 6,
    "marcuspat/cargo-forge": 2,
-   "marcuspat/rustops": 4,
+   "marcuspat/rustops": 3,
    "marcuspat/file-hasher": 1,
    "marcuspat/magpu": 1,
    "marcuspat/packt-technical-reviews": 1,
@@ -980,7 +980,7 @@
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-09-30": 17,
+   "2026-09-30": 16,
    "2026-10-01": 61,
    "2026-10-03": 2
   }
