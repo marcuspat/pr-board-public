@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T13:40:57Z",
+ "generated": "2026-10-07T14:11:04Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -260,8 +260,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-07"
   },
   {
    "repo": "adventurewave-labs/awesome-agent-reliability",
@@ -856,12 +856,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/awesome-agent-reliability",
-   "number": 5,
-   "title": "Add AffixIO",
-   "mergedAt": "2026-10-06"
-  },
-  {
    "repo": "adventurewave-labs/GUI-LOP",
    "number": 12,
    "title": "Production-readiness round 3 (contains PR #11)",
@@ -945,10 +939,10 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T13:37:01Z",
-  "total": 180,
+  "start": "2026-09-30T14:07:01Z",
+  "total": 179,
   "repos": {
-   "marcuspat/ancuria": 19,
+   "marcuspat/ancuria": 18,
    "marcuspat/turbo-flow": 2,
    "marcuspat/turbo-rig": 12,
    "marcuspat/html-sites": 16,
@@ -986,7 +980,7 @@
    "2026-10-06": 14,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-09-30": 28,
+   "2026-09-30": 27,
    "2026-10-01": 69,
    "2026-10-03": 2
   }
