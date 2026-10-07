@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T03:11:54Z",
+ "generated": "2026-10-07T03:39:27Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,24 +7,6 @@
  ],
  "private_stubbed": 57,
  "prs": [
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 509,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "stale",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 508,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
   {
    "repo": "marcuspat/ancuria",
    "number": 504,
@@ -149,6 +131,20 @@
  "merged_24h": [
   {
    "repo": "marcuspat/ancuria",
+   "number": 509,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 508,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
    "number": 507,
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
@@ -199,13 +195,6 @@
   {
    "repo": "marcuspat/adventure-wave-explorer",
    "number": 27,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventure-wave-explorer",
-   "number": 26,
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
    "priv": true
@@ -295,12 +284,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T03:07:01Z",
+  "start": "2026-09-30T03:37:01Z",
   "total": 179,
   "repos": {
-   "marcuspat/ancuria": 16,
+   "marcuspat/ancuria": 18,
    "marcuspat/html-sites": 12,
-   "marcuspat/turbo-rig": 13,
+   "marcuspat/turbo-rig": 12,
    "marcuspat/adventure-wave-explorer": 4,
    "marcuspat/CMatrix-Landing-Page": 3,
    "marcuspat/creandotumatrix-site": 4,
@@ -325,18 +314,17 @@
    "adventurewave-labs/excavate": 1,
    "adventurewave-labs/.github": 4,
    "adventurewave-labs/loopwatch-v2": 12,
-   "adventurewave-labs/ansible-heal-agent": 1,
    "adventurewave-labs/loopwatch-catalog": 1,
    "adventurewave-labs/preflight-integration-tester": 1,
    "adventurewave-labs/noip-scanner": 2,
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 4
   },
   "day": {
+   "2026-10-07": 9,
    "2026-10-06": 14,
-   "2026-10-07": 7,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-09-30": 47,
+   "2026-09-30": 45,
    "2026-10-01": 69,
    "2026-10-03": 2
   }
