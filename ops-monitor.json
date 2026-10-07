@@ -1,6 +1,6 @@
 {
  "collector": "ancuria/.github/workflows/ops-monitor.yml",
- "generated": "2026-10-07T19:41:05+00:00",
+ "generated": "2026-10-07T20:22:07+00:00",
  "processes": [
   {
    "detail": "last run status CRASHED",
@@ -13,9 +13,9 @@
    "verdict": "error"
   },
   {
-   "backup_age_h": 11.6,
+   "backup_age_h": 12.3,
    "backup_size_mb": 4,
-   "detail": "newest dump 11.6h old, 4 MB in R2 (the artifact itself)",
+   "detail": "newest dump 12.3h old, 4 MB in R2 (the artifact itself)",
    "duration_s": 5,
    "id": "db-backup",
    "last_backup": "2026-10-07T08:03:15Z",
