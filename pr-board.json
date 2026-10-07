@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T07:11:59Z",
+ "generated": "2026-10-07T07:39:33Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,15 +7,6 @@
  ],
  "private_stubbed": 57,
  "prs": [
-  {
-   "repo": "marcuspat/sdelic_org",
-   "number": 8,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
   {
    "repo": "marcuspat/html-sites",
    "number": 31,
@@ -62,6 +53,26 @@
    "priv": true
   },
   {
+   "repo": "adventurewave-labs/GUI-LOP",
+   "number": 12,
+   "title": "Production-readiness round 3 (contains PR #11)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-02"
+  },
+  {
+   "repo": "adventurewave-labs/GUI-LOP",
+   "number": 11,
+   "title": "SOTA rounds 1+2: hardening, correctness and security fixes",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-02",
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-02"
+  },
+  {
    "repo": "adventurewave-labs/secret-scan",
    "number": 6,
    "title": "SOTA loop: SARIF, baselines, config, git history, pre-commit, 73 rules, 27x faster",
@@ -106,57 +117,9 @@
    "updated": "2026-10-07",
    "g": "needs_work",
    "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/GUI-LOP",
-   "number": 12,
-   "title": "Production-readiness round 3 (contains PR #11)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-05",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-02"
-  },
-  {
-   "repo": "adventurewave-labs/GUI-LOP",
-   "number": 11,
-   "title": "SOTA rounds 1+2: hardening, correctness and security fixes",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-02",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-02"
   }
  ],
  "merged_24h": [
-  {
-   "repo": "marcuspat/sdelic_org",
-   "number": 7,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 30,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 29,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 26,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
-  },
   {
    "repo": "marcuspat/ancuria",
    "number": 510,
@@ -209,6 +172,41 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 503,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-06",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/sdelic_org",
+   "number": 8,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/sdelic_org",
+   "number": 7,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 30,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 29,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 26,
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
    "priv": true
@@ -326,12 +324,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T07:07:01Z",
-  "total": 172,
+  "start": "2026-09-30T07:37:01Z",
+  "total": 173,
   "repos": {
-   "marcuspat/sdelic_org": 2,
-   "marcuspat/html-sites": 13,
    "marcuspat/ancuria": 19,
+   "marcuspat/sdelic_org": 3,
+   "marcuspat/html-sites": 13,
    "marcuspat/turbo-rig": 11,
    "marcuspat/adventure-wave-explorer": 4,
    "marcuspat/CMatrix-Landing-Page": 3,
@@ -362,11 +360,11 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 6
   },
   "day": {
-   "2026-10-07": 17,
-   "2026-09-30": 30,
+   "2026-10-07": 18,
    "2026-10-06": 14,
-   "2026-10-05": 8,
    "2026-10-04": 32,
+   "2026-10-05": 8,
+   "2026-09-30": 30,
    "2026-10-01": 69,
    "2026-10-03": 2
   }
