@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T15:12:46Z",
+ "generated": "2026-10-07T15:40:08Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -8,19 +8,9 @@
  "private_stubbed": 57,
  "prs": [
   {
-   "repo": "marcuspat/vps-status",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "marcuspat/Sentinel",
-   "number": 16,
-   "title": "Add animated SVG banner",
+   "repo": "marcuspat/turbo-flow",
+   "number": 66,
+   "title": "add setup-harness.sh \u2014 pick your harness at boot: Claude / Codex / GLM",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
@@ -28,19 +18,9 @@
    "note": "commits after verdict 2026-10-07 - re-gate"
   },
   {
-   "repo": "marcuspat/cargo-forge",
-   "number": 4,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-07"
-  },
-  {
-   "repo": "marcuspat/pr-board-public",
-   "number": 1,
-   "title": "Add animated SVG banner",
+   "repo": "marcuspat/turbo-flow",
+   "number": 65,
+   "title": "fix: kit devcontainer needs the sshd feature (gh cs ssh/cp break without it)",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
@@ -82,96 +62,6 @@
    "updated": "2026-10-05",
    "g": "needs_work",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/marcuspat",
-   "number": 5,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "marcuspat/file-hasher",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "marcuspat/magpu",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "marcuspat/packt-technical-reviews",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "marcuspat/rustops",
-   "number": 20,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "marcuspat/k8s-netinspect",
-   "number": 3,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "marcuspat/netrain",
-   "number": 40,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 15,
-   "title": "Add animated SVG banner",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 65,
-   "title": "fix: kit devcontainer needs the sshd feature (gh cs ssh/cp break without it)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
   },
   {
    "repo": "adventurewave-labs/secret-scan",
@@ -391,39 +281,22 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/html-sites",
-   "number": 34,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
+   "repo": "marcuspat/turbo-flow",
+   "number": 64,
+   "title": "strip pr3: tokens.py drops down \u2014 the multi-harness token dashboard (first open-core drop)",
+   "mergedAt": "2026-10-07"
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 33,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
+   "repo": "marcuspat/turbo-flow",
+   "number": 63,
+   "title": "strip pr2: v4 out \u2014 repo repositions to rig-lite only, ZCode-first",
+   "mergedAt": "2026-10-07"
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 32,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 30,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 29,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
+   "repo": "marcuspat/turbo-flow",
+   "number": 62,
+   "title": "strip pr1: dead weight \u2014 unreferenced assets, V2 stub, legacy k8s-planes, dead CI excludes",
+   "mergedAt": "2026-10-07"
   },
   {
    "repo": "marcuspat/ancuria",
@@ -482,22 +355,117 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/turbo-flow",
-   "number": 64,
-   "title": "strip pr3: tokens.py drops down \u2014 the multi-harness token dashboard (first open-core drop)",
+   "repo": "marcuspat/cargo-forge",
+   "number": 5,
+   "title": "Banner: fix hammer wind-up covering the emb chip",
    "mergedAt": "2026-10-07"
   },
   {
-   "repo": "marcuspat/turbo-flow",
-   "number": 63,
-   "title": "strip pr2: v4 out \u2014 repo repositions to rig-lite only, ZCode-first",
+   "repo": "marcuspat/cargo-forge",
+   "number": 4,
+   "title": "Add animated SVG banner",
    "mergedAt": "2026-10-07"
   },
   {
-   "repo": "marcuspat/turbo-flow",
-   "number": 62,
-   "title": "strip pr1: dead weight \u2014 unreferenced assets, V2 stub, legacy k8s-planes, dead CI excludes",
+   "repo": "marcuspat/rustops",
+   "number": 20,
+   "title": "Add animated SVG banner",
    "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/marcuspat",
+   "number": 5,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/file-hasher",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/magpu",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/packt-technical-reviews",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/k8s-netinspect",
+   "number": 3,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/netrain",
+   "number": 40,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/Sentinel",
+   "number": 16,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 15,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/pr-board-public",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/vps-status",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 34,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 33,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 32,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 30,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 29,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
   },
   {
    "repo": "marcuspat/turbo-rig",
@@ -774,18 +742,24 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T15:07:01Z",
-  "total": 191,
+  "start": "2026-09-30T15:37:01Z",
+  "total": 203,
   "repos": {
-   "marcuspat/Sentinel": 5,
-   "marcuspat/html-sites": 16,
-   "marcuspat/marcuspat": 1,
-   "marcuspat/rustops": 4,
-   "marcuspat/k8s-netinspect": 1,
-   "marcuspat/netrain": 2,
-   "marcuspat/cargocrypt": 10,
-   "marcuspat/ancuria": 17,
    "marcuspat/turbo-flow": 5,
+   "marcuspat/ancuria": 16,
+   "marcuspat/cargo-forge": 2,
+   "marcuspat/rustops": 5,
+   "marcuspat/marcuspat": 2,
+   "marcuspat/file-hasher": 1,
+   "marcuspat/magpu": 1,
+   "marcuspat/packt-technical-reviews": 1,
+   "marcuspat/k8s-netinspect": 2,
+   "marcuspat/netrain": 3,
+   "marcuspat/Sentinel": 6,
+   "marcuspat/cargocrypt": 11,
+   "marcuspat/pr-board-public": 1,
+   "marcuspat/vps-status": 1,
+   "marcuspat/html-sites": 16,
    "marcuspat/turbo-rig": 12,
    "marcuspat/sdelic_org": 5,
    "marcuspat/adventure-wave-explorer": 4,
@@ -825,52 +799,16 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 7
   },
   "day": {
-   "2026-10-04": 32,
-   "2026-10-07": 49,
-   "2026-10-06": 13,
-   "2026-10-05": 8,
+   "2026-10-07": 62,
    "2026-10-01": 61,
-   "2026-09-30": 26,
+   "2026-10-06": 13,
+   "2026-10-04": 32,
+   "2026-10-05": 8,
+   "2026-09-30": 25,
    "2026-10-03": 2
   }
  },
  "issues": [
-  {
-   "repo": "marcuspat/cargo-forge",
-   "number": 2,
-   "title": "Enhancement: Add more embedded options for STM32",
-   "author": "Vaishnav-Sabari-Girish",
-   "kind": "inbound",
-   "updated": "2026-02-18",
-   "bucket": "inbound"
-  },
-  {
-   "repo": "marcuspat/rustops",
-   "number": 15,
-   "title": "Migrate reqwest 0.11 \u2192 0.12 to clear the ignored rustls/h2 security advisories",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-09-30",
-   "bucket": "actionable"
-  },
-  {
-   "repo": "marcuspat/netrain",
-   "number": 37,
-   "title": "--demo mode renders nothing under a pty; div-by-zero panic on 0-width terminals",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-08-08",
-   "bucket": "actionable"
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 473,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-09-28",
-   "bucket": "actionable",
-   "priv": true
-  },
   {
    "repo": "marcuspat/turbo-flow",
    "number": 61,
@@ -896,6 +834,42 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-09-22",
+   "bucket": "actionable"
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 473,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-09-28",
+   "bucket": "actionable",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/cargo-forge",
+   "number": 2,
+   "title": "Enhancement: Add more embedded options for STM32",
+   "author": "Vaishnav-Sabari-Girish",
+   "kind": "inbound",
+   "updated": "2026-02-18",
+   "bucket": "inbound"
+  },
+  {
+   "repo": "marcuspat/rustops",
+   "number": 15,
+   "title": "Migrate reqwest 0.11 \u2192 0.12 to clear the ignored rustls/h2 security advisories",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-09-30",
+   "bucket": "actionable"
+  },
+  {
+   "repo": "marcuspat/netrain",
+   "number": 37,
+   "title": "--demo mode renders nothing under a pty; div-by-zero panic on 0-width terminals",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-08-08",
    "bucket": "actionable"
   }
  ],
