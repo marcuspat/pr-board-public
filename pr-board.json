@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T22:39:52Z",
+ "generated": "2026-10-07T23:12:21Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -478,6 +478,12 @@
    "priv": true
   },
   {
+   "repo": "marcuspat/pr-board-public",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
    "repo": "marcuspat/turbo-flow",
    "number": 67,
    "title": "readme: canonical entity paragraph in the first 150 words",
@@ -511,12 +517,6 @@
    "repo": "marcuspat/turbo-flow",
    "number": 62,
    "title": "strip pr1: dead weight \u2014 unreferenced assets, V2 stub, legacy k8s-planes, dead CI excludes",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/pr-board-public",
-   "number": 1,
-   "title": "Add animated SVG banner",
    "mergedAt": "2026-10-07"
   },
   {
@@ -936,12 +936,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T22:37:01Z",
-  "total": 210,
+  "start": "2026-09-30T23:07:02Z",
+  "total": 207,
   "repos": {
    "marcuspat/ancuria": 18,
-   "marcuspat/turbo-flow": 8,
    "marcuspat/pr-board-public": 1,
+   "marcuspat/turbo-flow": 8,
    "marcuspat/turboflowacademy": 1,
    "marcuspat/adventurewavelabs-website": 1,
    "marcuspat/turbo-rig": 7,
@@ -954,7 +954,7 @@
    "marcuspat/marcuspat": 2,
    "marcuspat/sdelic_org": 6,
    "marcuspat/cargo-forge": 2,
-   "marcuspat/rustops": 2,
+   "marcuspat/rustops": 1,
    "marcuspat/file-hasher": 1,
    "marcuspat/magpu": 1,
    "marcuspat/packt-technical-reviews": 1,
@@ -973,11 +973,11 @@
    "adventurewave-labs/moor-demo": 1,
    "adventurewave-labs/cloudtrim-demo": 1,
    "adventurewave-labs/loopgen-rs": 1,
-   "adventurewave-labs/noip-scanner": 2,
+   "adventurewave-labs/noip-scanner": 1,
    "adventurewave-labs/preflight-integration-tester": 2,
    "adventurewave-labs/ansible-heal-agent": 1,
    "adventurewave-labs/codescope": 1,
-   "adventurewave-labs/.github": 5,
+   "adventurewave-labs/.github": 4,
    "adventurewave-labs/secret-scan": 1,
    "adventurewave-labs/GUI-LOP": 3,
    "adventurewave-labs/dualbrand-lead-router": 15,
@@ -999,7 +999,7 @@
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-09-30": 14,
+   "2026-09-30": 11,
    "2026-10-01": 61,
    "2026-10-03": 2
   }
@@ -1070,9 +1070,9 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-07T21:12:19Z",
-  "runs_7d": 1446,
-  "failures_7d": 261,
+  "asof": "2026-10-07T23:12:21Z",
+  "runs_7d": 1425,
+  "failures_7d": 255,
   "repos_active_7d": 33,
   "workflows": 82,
   "red": [
