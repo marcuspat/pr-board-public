@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T13:14:07Z",
+ "generated": "2026-10-07T13:40:57Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -8,14 +8,14 @@
  "private_stubbed": 57,
  "prs": [
   {
-   "repo": "marcuspat/Ansible-Bash",
-   "number": 1,
-   "title": "Add animated SVG banner",
+   "repo": "marcuspat/turbo-flow",
+   "number": 64,
+   "title": "strip pr3: tokens.py drops down \u2014 the multi-harness token dashboard (first open-core drop)",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
+   "g": "stale",
+   "note": "commits after verdict 2026-10-07 - re-gate"
   },
   {
    "repo": "marcuspat/turbo-flow",
@@ -36,6 +36,16 @@
    "updated": "2026-10-07",
    "g": "green",
    "note": "gate APPROVED 2026-10-07"
+  },
+  {
+   "repo": "marcuspat/Ansible-Bash",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "note": "no gate review yet"
   },
   {
    "repo": "marcuspat/ansible",
@@ -164,8 +174,8 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/agentic-platform-engineering-notes",
-   "number": 2,
+   "repo": "adventurewave-labs/AI-Kubernetes-API-Generator-Demo",
+   "number": 3,
    "title": "Add animated SVG banner",
    "author": "marcuspat",
    "kind": "ours",
@@ -174,8 +184,8 @@
    "note": "no gate review yet"
   },
   {
-   "repo": "adventurewave-labs/AI-Kubernetes-API-Generator-Demo",
-   "number": 3,
+   "repo": "adventurewave-labs/agentic-platform-engineering-notes",
+   "number": 2,
    "title": "Add animated SVG banner",
    "author": "marcuspat",
    "kind": "ours",
@@ -260,8 +270,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-07"
+   "g": "green",
+   "note": "gate APPROVED 2026-10-07"
   },
   {
    "repo": "adventurewave-labs/turbo-flow-wizard",
@@ -280,8 +290,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
+   "g": "green",
+   "note": "gate APPROVED 2026-10-07"
   },
   {
    "repo": "adventurewave-labs/aops-sre-pipeline",
@@ -290,8 +300,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
+   "g": "green",
+   "note": "gate APPROVED 2026-10-07"
   },
   {
    "repo": "adventurewave-labs/gitops-progressive-delivery-demo",
@@ -310,8 +320,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
+   "g": "green",
+   "note": "gate APPROVED 2026-10-07"
   },
   {
    "repo": "adventurewave-labs/moor-demo",
@@ -320,8 +330,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-07"
   },
   {
    "repo": "adventurewave-labs/cloudtrim-demo",
@@ -330,8 +340,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-07"
   },
   {
    "repo": "adventurewave-labs/loopgen-rs",
@@ -340,8 +350,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-07"
+   "g": "green",
+   "note": "gate APPROVED 2026-10-07"
   },
   {
    "repo": "adventurewave-labs/noip-scanner",
@@ -360,8 +370,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "green",
-   "note": "gate APPROVED 2026-10-07"
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-07"
   },
   {
    "repo": "adventurewave-labs/ansible-heal-agent",
@@ -380,8 +390,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-07"
+   "g": "green",
+   "note": "gate APPROVED 2026-10-07"
   },
   {
    "repo": "adventurewave-labs/.github",
@@ -390,8 +400,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-07"
   },
   {
    "repo": "adventurewave-labs/secret-scan",
@@ -420,8 +430,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-07"
+   "g": "green",
+   "note": "gate APPROVED 2026-10-07"
   },
   {
    "repo": "adventurewave-labs/GUI-LOP",
@@ -635,8 +645,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
+   "g": "green",
+   "note": "gate APPROVED 2026-10-07"
   },
   {
    "repo": "creandotumatrix-labs/asistente-comercial",
@@ -655,8 +665,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-07"
+   "g": "green",
+   "note": "gate APPROVED 2026-10-07"
   },
   {
    "repo": "creandotumatrix-labs/asistente-de-tienda",
@@ -670,13 +680,6 @@
   }
  ],
  "merged_24h": [
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 43,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
   {
    "repo": "marcuspat/ancuria",
    "number": 510,
@@ -731,6 +734,13 @@
    "number": 503,
    "title": "(private repo)",
    "mergedAt": "2026-10-06",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 43,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
    "priv": true
   },
   {
@@ -935,12 +945,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T13:07:01Z",
+  "start": "2026-09-30T13:37:01Z",
   "total": 180,
   "repos": {
+   "marcuspat/ancuria": 19,
    "marcuspat/turbo-flow": 2,
    "marcuspat/turbo-rig": 12,
-   "marcuspat/ancuria": 19,
    "marcuspat/html-sites": 16,
    "marcuspat/sdelic_org": 5,
    "marcuspat/adventure-wave-explorer": 4,
@@ -972,16 +982,25 @@
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 7
   },
   "day": {
-   "2026-10-01": 69,
    "2026-10-07": 27,
-   "2026-10-04": 32,
-   "2026-09-30": 28,
    "2026-10-06": 14,
+   "2026-10-04": 32,
    "2026-10-05": 8,
+   "2026-09-30": 28,
+   "2026-10-01": 69,
    "2026-10-03": 2
   }
  },
  "issues": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 473,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-09-28",
+   "bucket": "actionable",
+   "priv": true
+  },
   {
    "repo": "marcuspat/turbo-flow",
    "number": 61,
@@ -1008,15 +1027,6 @@
    "kind": "ours",
    "updated": "2026-09-22",
    "bucket": "actionable"
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 473,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-09-28",
-   "bucket": "actionable",
-   "priv": true
   },
   {
    "repo": "marcuspat/netrain",
