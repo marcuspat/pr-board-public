@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T17:40:20Z",
+ "generated": "2026-10-07T18:13:06Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,15 +7,6 @@
  ],
  "private_stubbed": 57,
  "prs": [
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 512,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
   {
    "repo": "marcuspat/turbo-rig",
    "number": 44,
@@ -408,6 +399,13 @@
  "merged_24h": [
   {
    "repo": "marcuspat/ancuria",
+   "number": 512,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
    "number": 511,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
@@ -463,11 +461,10 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/ancuria",
-   "number": 503,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
+   "repo": "marcuspat/pr-board-public",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
   },
   {
    "repo": "marcuspat/turbo-rig",
@@ -569,12 +566,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/pr-board-public",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
    "repo": "marcuspat/h20healer",
    "number": 10,
    "title": "(private repo)",
@@ -600,13 +591,6 @@
    "number": 29,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventure-wave-explorer",
-   "number": 28,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
    "priv": true
   },
   {
@@ -722,13 +706,6 @@
    "number": 1,
    "title": "Add animated SVG banner",
    "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/CMatrix-Landing-Page",
-   "number": 11,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
-   "priv": true
   },
   {
    "repo": "adventurewave-labs/turbo-flow-wizard",
@@ -928,14 +905,14 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T17:37:02Z",
+  "start": "2026-09-30T18:07:01Z",
   "total": 216,
   "repos": {
-   "marcuspat/ancuria": 16,
-   "marcuspat/turbo-rig": 12,
+   "marcuspat/ancuria": 17,
+   "marcuspat/pr-board-public": 1,
+   "marcuspat/turbo-rig": 11,
    "marcuspat/turbo-flow": 8,
    "marcuspat/html-sites": 19,
-   "marcuspat/pr-board-public": 1,
    "marcuspat/velvet-bbs": 2,
    "marcuspat/h20healer": 3,
    "marcuspat/creandotumatrix-site": 4,
@@ -985,11 +962,11 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
-   "2026-10-07": 76,
+   "2026-10-07": 77,
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-09-30": 24,
+   "2026-09-30": 23,
    "2026-10-01": 61,
    "2026-10-03": 2
   }
