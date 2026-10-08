@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T02:39:36Z",
+ "generated": "2026-10-08T03:12:06Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -569,13 +569,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 29,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/h20healer",
    "number": 10,
    "title": "(private repo)",
@@ -862,13 +855,6 @@
    "priv": true
   },
   {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 21,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
    "repo": "creandotumatrix-labs/asistente-pedidos",
    "number": 1,
    "title": "Add animated SVG banner",
@@ -894,8 +880,8 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T02:37:01Z",
-  "total": 177,
+  "start": "2026-10-01T03:07:01Z",
+  "total": 174,
   "repos": {
    "marcuspat/ancuria": 17,
    "marcuspat/pr-board-public": 1,
@@ -903,7 +889,7 @@
    "marcuspat/turboflowacademy": 1,
    "marcuspat/adventurewavelabs-website": 1,
    "marcuspat/turbo-rig": 5,
-   "marcuspat/html-sites": 17,
+   "marcuspat/html-sites": 16,
    "marcuspat/h20healer": 2,
    "marcuspat/creandotumatrix-site": 3,
    "marcuspat/adventure-wave-explorer": 5,
@@ -937,8 +923,8 @@
    "adventurewave-labs/.github": 2,
    "adventurewave-labs/secret-scan": 1,
    "adventurewave-labs/GUI-LOP": 3,
-   "adventurewave-labs/dualbrand-lead-router": 11,
-   "adventurewave-labs/pipeline-machine-v2": 24,
+   "adventurewave-labs/dualbrand-lead-router": 10,
+   "adventurewave-labs/pipeline-machine-v2": 23,
    "adventurewave-labs/turbo-brain-v2": 5,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/excavate": 1,
@@ -955,7 +941,7 @@
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-10-01": 42,
+   "2026-10-01": 39,
    "2026-10-03": 2
   }
  },
@@ -1025,10 +1011,10 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-08T01:12:19Z",
-  "runs_7d": 1416,
-  "failures_7d": 250,
-  "repos_active_7d": 33,
+  "asof": "2026-10-08T03:12:06Z",
+  "runs_7d": 1367,
+  "failures_7d": 228,
+  "repos_active_7d": 32,
   "workflows": 82,
   "red": [
    {
