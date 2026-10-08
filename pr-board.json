@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T14:40:34Z",
+ "generated": "2026-10-08T15:15:13Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -602,78 +602,6 @@
    "mergedAt": "2026-10-07"
   },
   {
-   "repo": "adventurewave-labs/turbo-flow-wizard",
-   "number": 2,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/agentic-platform-engineering-extravaganza",
-   "number": 6,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/aops-sre-pipeline",
-   "number": 6,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/gitops-progressive-delivery-demo",
-   "number": 3,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/agentic-devops-extravaganza",
-   "number": 7,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/moor-demo",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/cloudtrim-demo",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/loopgen-rs",
-   "number": 4,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/noip-scanner",
-   "number": 50,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/preflight-integration-tester",
-   "number": 5,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/ansible-heal-agent",
-   "number": 19,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/codescope",
-   "number": 11,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
    "repo": "creandotumatrix-labs/AgenticsMexico",
    "number": 8,
    "title": "(private repo)",
@@ -682,7 +610,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T14:37:01Z",
+  "start": "2026-10-01T15:07:01Z",
   "total": 142,
   "repos": {
    "marcuspat/ancuria": 17,
@@ -812,9 +740,9 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-08T13:12:20Z",
-  "runs_7d": 1085,
-  "failures_7d": 183,
+  "asof": "2026-10-08T15:15:13Z",
+  "runs_7d": 1049,
+  "failures_7d": 184,
   "repos_active_7d": 32,
   "workflows": 82,
   "red": [
@@ -906,7 +834,7 @@
     "repo": "marcuspat/ancuria",
     "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-10-07 14:33",
+    "at": "2026-10-08 14:43",
     "url": ""
    },
    {
