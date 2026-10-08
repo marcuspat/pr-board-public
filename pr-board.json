@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T20:39:48Z",
+ "generated": "2026-10-08T21:12:40Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -129,24 +129,6 @@
   {
    "repo": "marcuspat/velvet-bbs",
    "number": 12,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 22,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 21,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-07",
@@ -418,6 +400,20 @@
    "priv": true
   },
   {
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 22,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 21,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
    "repo": "adventurewave-labs/.github",
    "number": 8,
    "title": "profile: canonical Turbo Flow story (v5 rules layer); founder line names Turbo Rig",
@@ -425,18 +421,18 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T20:37:01Z",
-  "total": 143,
+  "start": "2026-10-01T21:07:01Z",
+  "total": 144,
   "repos": {
-   "marcuspat/ancuria": 17,
-   "marcuspat/adventurewavelabs-website": 5,
+   "marcuspat/ancuria": 16,
    "marcuspat/pr-board-public": 1,
+   "marcuspat/adventurewavelabs-website": 5,
    "marcuspat/html-sites": 16,
    "marcuspat/turbo-flow": 6,
    "marcuspat/turboflowacademy": 1,
    "marcuspat/turbo-rig": 4,
    "marcuspat/h20healer": 2,
-   "marcuspat/creandotumatrix-site": 3,
+   "marcuspat/creandotumatrix-site": 5,
    "marcuspat/adventure-wave-explorer": 5,
    "marcuspat/marcuspatman.space": 6,
    "marcuspat/marcuspat": 2,
@@ -484,8 +480,8 @@
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-10-01": 3,
-   "2026-10-08": 5,
+   "2026-10-08": 7,
+   "2026-10-01": 2,
    "2026-10-03": 2
   }
  },
@@ -555,10 +551,10 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-08T19:12:29Z",
-  "runs_7d": 974,
-  "failures_7d": 184,
-  "repos_active_7d": 32,
+  "asof": "2026-10-08T21:12:40Z",
+  "runs_7d": 948,
+  "failures_7d": 177,
+  "repos_active_7d": 31,
   "workflows": 82,
   "red": [
    {
@@ -636,13 +632,6 @@
     "workflow": "(private repo)",
     "status": "failure",
     "at": "2026-09-10 15:54",
-    "url": ""
-   },
-   {
-    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-    "workflow": "(private repo)",
-    "status": "failure",
-    "at": "2026-10-07 12:11",
     "url": ""
    },
    {
