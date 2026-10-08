@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T23:39:48Z",
+ "generated": "2026-10-08T00:10:03Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -447,13 +447,6 @@
    "number": 508,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 507,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-06",
    "priv": true
   },
   {
@@ -936,8 +929,8 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-09-30T23:37:01Z",
-  "total": 199,
+  "start": "2026-10-01T00:07:01Z",
+  "total": 196,
   "repos": {
    "marcuspat/ancuria": 17,
    "marcuspat/pr-board-public": 1,
@@ -945,8 +938,8 @@
    "marcuspat/turboflowacademy": 1,
    "marcuspat/adventurewavelabs-website": 1,
    "marcuspat/turbo-rig": 6,
-   "marcuspat/html-sites": 18,
-   "marcuspat/velvet-bbs": 2,
+   "marcuspat/html-sites": 17,
+   "marcuspat/velvet-bbs": 1,
    "marcuspat/h20healer": 2,
    "marcuspat/creandotumatrix-site": 3,
    "marcuspat/adventure-wave-explorer": 5,
@@ -977,7 +970,7 @@
    "adventurewave-labs/preflight-integration-tester": 2,
    "adventurewave-labs/ansible-heal-agent": 1,
    "adventurewave-labs/codescope": 1,
-   "adventurewave-labs/.github": 3,
+   "adventurewave-labs/.github": 2,
    "adventurewave-labs/secret-scan": 1,
    "adventurewave-labs/GUI-LOP": 3,
    "adventurewave-labs/dualbrand-lead-router": 15,
@@ -1000,7 +993,6 @@
    "2026-10-04": 32,
    "2026-10-05": 8,
    "2026-10-01": 61,
-   "2026-09-30": 3,
    "2026-10-03": 2
   }
  },
@@ -1066,7 +1058,7 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-08-08",
-   "bucket": "actionable"
+   "bucket": "stale"
   }
  ],
  "actions": {
