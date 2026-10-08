@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T22:39:44Z",
+ "generated": "2026-10-08T23:11:58Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -8,8 +8,8 @@
  "private_stubbed": 59,
  "prs": [
   {
-   "repo": "marcuspat/h20healer",
-   "number": 11,
+   "repo": "marcuspat/ancuria",
+   "number": 517,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-08",
@@ -37,6 +37,15 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 514,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/h20healer",
+   "number": 11,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-08",
@@ -399,6 +408,13 @@
  "merged_24h": [
   {
    "repo": "marcuspat/creandotumatrix-site",
+   "number": 25,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/creandotumatrix-site",
    "number": 23,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
@@ -571,14 +587,14 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T22:37:01Z",
-  "total": 160,
+  "start": "2026-10-01T23:07:01Z",
+  "total": 161,
   "repos": {
-   "marcuspat/creandotumatrix-site": 6,
-   "marcuspat/h20healer": 2,
    "marcuspat/ancuria": 16,
-   "marcuspat/velvet-bbs": 3,
+   "marcuspat/h20healer": 2,
    "marcuspat/pr-board-public": 1,
+   "marcuspat/creandotumatrix-site": 7,
+   "marcuspat/velvet-bbs": 3,
    "marcuspat/html-sites": 19,
    "marcuspat/marcuspatman.space": 9,
    "marcuspat/agenticplatformengineering": 1,
@@ -628,11 +644,11 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
-   "2026-10-08": 25,
-   "2026-10-06": 13,
    "2026-10-07": 80,
+   "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
+   "2026-10-08": 26,
    "2026-10-03": 2
   }
  },
@@ -702,9 +718,9 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-08T21:12:40Z",
-  "runs_7d": 948,
-  "failures_7d": 177,
+  "asof": "2026-10-08T23:11:58Z",
+  "runs_7d": 924,
+  "failures_7d": 170,
   "repos_active_7d": 31,
   "workflows": 82,
   "red": [
@@ -790,6 +806,13 @@
     "workflow": "(private repo)",
     "status": "failure",
     "at": "2026-10-08 14:43",
+    "url": ""
+   },
+   {
+    "repo": "marcuspat/html-sites",
+    "workflow": "(private repo)",
+    "status": "failure",
+    "at": "2026-10-08 22:06",
     "url": ""
    },
    {
