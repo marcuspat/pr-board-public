@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T00:10:03Z",
+ "generated": "2026-10-08T00:39:45Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -408,6 +408,12 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/pr-board-public",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
+  },
+  {
    "repo": "marcuspat/ancuria",
    "number": 513,
    "title": "(private repo)",
@@ -469,12 +475,6 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/pr-board-public",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
   },
   {
    "repo": "marcuspat/turbo-flow",
@@ -929,11 +929,11 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T00:07:01Z",
+  "start": "2026-10-01T00:37:01Z",
   "total": 196,
   "repos": {
-   "marcuspat/ancuria": 17,
    "marcuspat/pr-board-public": 1,
+   "marcuspat/ancuria": 17,
    "marcuspat/turbo-flow": 8,
    "marcuspat/turboflowacademy": 1,
    "marcuspat/adventurewavelabs-website": 1,
