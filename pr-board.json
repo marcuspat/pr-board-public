@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-08T02:09:40Z",
+ "generated": "2026-10-08T02:39:36Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
   "creandotumatrix-labs"
  ],
- "private_stubbed": 58,
+ "private_stubbed": 59,
  "prs": [
   {
    "repo": "marcuspat/ancuria",
@@ -408,12 +408,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/pr-board-public",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
    "repo": "marcuspat/ancuria",
    "number": 513,
    "title": "(private repo)",
@@ -461,6 +455,12 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
+  },
+  {
+   "repo": "marcuspat/pr-board-public",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
   },
   {
    "repo": "marcuspat/turbo-flow",
@@ -869,13 +869,6 @@
    "priv": true
   },
   {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 9,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
    "repo": "creandotumatrix-labs/asistente-pedidos",
    "number": 1,
    "title": "Add animated SVG banner",
@@ -901,11 +894,11 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T02:07:02Z",
-  "total": 180,
+  "start": "2026-10-01T02:37:01Z",
+  "total": 177,
   "repos": {
-   "marcuspat/pr-board-public": 1,
    "marcuspat/ancuria": 17,
+   "marcuspat/pr-board-public": 1,
    "marcuspat/turbo-flow": 7,
    "marcuspat/turboflowacademy": 1,
    "marcuspat/adventurewavelabs-website": 1,
@@ -945,12 +938,11 @@
    "adventurewave-labs/secret-scan": 1,
    "adventurewave-labs/GUI-LOP": 3,
    "adventurewave-labs/dualbrand-lead-router": 11,
-   "adventurewave-labs/pipeline-machine-v2": 25,
-   "adventurewave-labs/turbo-brain-v2": 6,
+   "adventurewave-labs/pipeline-machine-v2": 24,
+   "adventurewave-labs/turbo-brain-v2": 5,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/excavate": 1,
    "adventurewave-labs/loopwatch-v2": 1,
-   "adventurewave-labs/loopwatch-catalog": 1,
    "creandotumatrix-labs/AgenticsMexico": 1,
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 6,
    "creandotumatrix-labs/asistente-pedidos": 1,
@@ -963,7 +955,7 @@
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-10-01": 45,
+   "2026-10-01": 42,
    "2026-10-03": 2
   }
  },
