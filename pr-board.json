@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-08T00:39:45Z",
+ "generated": "2026-10-08T01:12:19Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
   "creandotumatrix-labs"
  ],
- "private_stubbed": 57,
+ "private_stubbed": 58,
  "prs": [
   {
    "repo": "marcuspat/ancuria",
@@ -408,12 +408,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/pr-board-public",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
    "repo": "marcuspat/ancuria",
    "number": 513,
    "title": "(private repo)",
@@ -475,6 +469,12 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
+  },
+  {
+   "repo": "marcuspat/pr-board-public",
+   "number": 1,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-07"
   },
   {
    "repo": "marcuspat/turbo-flow",
@@ -842,13 +842,6 @@
   },
   {
    "repo": "adventurewave-labs/dualbrand-lead-router",
-   "number": 49,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/dualbrand-lead-router",
    "number": 48,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
@@ -891,13 +884,6 @@
   },
   {
    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 10,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
    "number": 9,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
@@ -929,11 +915,11 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T00:37:01Z",
+  "start": "2026-10-01T01:07:01Z",
   "total": 196,
   "repos": {
-   "marcuspat/pr-board-public": 1,
    "marcuspat/ancuria": 17,
+   "marcuspat/pr-board-public": 1,
    "marcuspat/turbo-flow": 8,
    "marcuspat/turboflowacademy": 1,
    "marcuspat/adventurewavelabs-website": 1,
@@ -1062,9 +1048,9 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-07T23:12:21Z",
-  "runs_7d": 1425,
-  "failures_7d": 255,
+  "asof": "2026-10-08T01:12:19Z",
+  "runs_7d": 1416,
+  "failures_7d": 250,
   "repos_active_7d": 33,
   "workflows": 82,
   "red": [
