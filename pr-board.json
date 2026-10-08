@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T12:09:53Z",
+ "generated": "2026-10-08T12:39:44Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -724,13 +724,6 @@
    "priv": true
   },
   {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 24,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
    "repo": "creandotumatrix-labs/asistente-pedidos",
    "number": 1,
    "title": "Add animated SVG banner",
@@ -756,7 +749,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T12:07:01Z",
+  "start": "2026-10-01T12:37:01Z",
   "total": 142,
   "repos": {
    "marcuspat/ancuria": 17,
