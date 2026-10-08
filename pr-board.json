@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T21:39:35Z",
+ "generated": "2026-10-08T22:09:37Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -8,30 +8,11 @@
  "private_stubbed": 59,
  "prs": [
   {
-   "repo": "marcuspat/turbo-flow",
-   "number": 69,
-   "title": "demo: the harness boot gif \u2014 pick a harness, get a rig (one real take)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-07 - re-gate"
-  },
-  {
    "repo": "marcuspat/html-sites",
-   "number": 39,
+   "number": 41,
    "title": "(private repo)",
    "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 36,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "unreviewed",
    "priv": true
   },
@@ -72,15 +53,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 15,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/creandotumatrix-site",
    "number": 23,
    "title": "(private repo)",
@@ -88,6 +60,61 @@
    "updated": "2026-10-08",
    "g": "unreviewed",
    "priv": true
+  },
+  {
+   "repo": "marcuspat/marcuspatman.space",
+   "number": 13,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/agenticplatformengineering",
+   "number": 11,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/agenticplatformengineering",
+   "number": 10,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/sdelic_org",
+   "number": 12,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 15,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 69,
+   "title": "demo: the harness boot gif \u2014 pick a harness, get a rig (one real take)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-07 - re-gate"
   },
   {
    "repo": "marcuspat/ancuria",
@@ -331,35 +358,66 @@
    "updated": "2026-10-08",
    "g": "needs_work",
    "priv": true
+  },
+  {
+   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
+   "number": 26,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
   }
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/agenticplatformengineering",
-   "number": 9,
+   "repo": "marcuspat/html-sites",
+   "number": 40,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
   },
   {
-   "repo": "marcuspat/velvet-bbs",
-   "number": 12,
+   "repo": "marcuspat/html-sites",
+   "number": 39,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
   },
   {
-   "repo": "marcuspat/turbo-rig",
-   "number": 44,
+   "repo": "marcuspat/html-sites",
+   "number": 36,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
   },
   {
-   "repo": "marcuspat/turbo-flow",
-   "number": 68,
-   "title": "README EN/ES: withdrawn 116-task claim replaced by the audited record (badge too)",
-   "mergedAt": "2026-10-08"
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 22,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 21,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/marcuspatman.space",
+   "number": 15,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/marcuspatman.space",
+   "number": 14,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
   },
   {
    "repo": "marcuspat/marcuspatman.space",
@@ -369,8 +427,15 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 40,
+   "repo": "marcuspat/agenticplatformengineering",
+   "number": 9,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 21,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
@@ -411,18 +476,44 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 22,
+   "repo": "marcuspat/turbo-rig",
+   "number": 45,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
   },
   {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 21,
+   "repo": "marcuspat/turbo-rig",
+   "number": 44,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
+  },
+  {
+   "repo": "marcuspat/velvet-bbs",
+   "number": 13,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/velvet-bbs",
+   "number": 12,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 70,
+   "title": "README: correct the withdrawal note \u2014 the 116-task result is real and external (Xiang et a",
+   "mergedAt": "2026-10-08"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 68,
+   "title": "README EN/ES: withdrawn 116-task claim replaced by the audited record (badge too)",
+   "mergedAt": "2026-10-08"
   },
   {
    "repo": "adventurewave-labs/.github",
@@ -439,24 +530,24 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T21:37:01Z",
-  "total": 152,
+  "start": "2026-10-01T22:07:01Z",
+  "total": 158,
   "repos": {
-   "marcuspat/agenticplatformengineering": 1,
-   "marcuspat/velvet-bbs": 1,
-   "marcuspat/turbo-rig": 5,
-   "marcuspat/turbo-flow": 7,
-   "marcuspat/marcuspatman.space": 7,
-   "marcuspat/html-sites": 17,
-   "marcuspat/adventurewavelabs-website": 6,
+   "marcuspat/html-sites": 19,
    "marcuspat/creandotumatrix-site": 5,
+   "marcuspat/marcuspatman.space": 9,
+   "marcuspat/agenticplatformengineering": 1,
+   "marcuspat/sdelic_org": 5,
+   "marcuspat/adventurewavelabs-website": 7,
+   "marcuspat/turbo-rig": 6,
+   "marcuspat/velvet-bbs": 2,
+   "marcuspat/turbo-flow": 8,
    "marcuspat/ancuria": 16,
    "marcuspat/pr-board-public": 1,
    "marcuspat/turboflowacademy": 1,
    "marcuspat/h20healer": 2,
    "marcuspat/adventure-wave-explorer": 5,
-   "marcuspat/marcuspat": 2,
-   "marcuspat/sdelic_org": 5,
+   "marcuspat/marcuspat": 1,
    "marcuspat/cargo-forge": 2,
    "marcuspat/rustops": 1,
    "marcuspat/file-hasher": 1,
@@ -468,7 +559,7 @@
    "marcuspat/cargocrypt": 11,
    "marcuspat/vps-status": 1,
    "marcuspat/CMatrix-Landing-Page": 3,
-   "adventurewave-labs/.github": 3,
+   "adventurewave-labs/.github": 2,
    "adventurewave-labs/turbo-flow-wizard": 1,
    "adventurewave-labs/agentic-platform-engineering-extravaganza": 1,
    "adventurewave-labs/aops-sre-pipeline": 1,
@@ -496,12 +587,11 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
-   "2026-10-08": 15,
+   "2026-10-08": 23,
    "2026-10-07": 80,
-   "2026-10-04": 32,
-   "2026-10-05": 8,
    "2026-10-06": 13,
-   "2026-10-01": 2,
+   "2026-10-05": 8,
+   "2026-10-04": 32,
    "2026-10-03": 2
   }
  },
