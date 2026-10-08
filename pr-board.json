@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T03:12:06Z",
+ "generated": "2026-10-08T03:39:41Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -437,20 +437,6 @@
   },
   {
    "repo": "marcuspat/ancuria",
-   "number": 509,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 508,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
    "number": 504,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
@@ -880,8 +866,8 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T03:07:01Z",
-  "total": 174,
+  "start": "2026-10-01T03:37:02Z",
+  "total": 172,
   "repos": {
    "marcuspat/ancuria": 17,
    "marcuspat/pr-board-public": 1,
@@ -924,7 +910,7 @@
    "adventurewave-labs/secret-scan": 1,
    "adventurewave-labs/GUI-LOP": 3,
    "adventurewave-labs/dualbrand-lead-router": 10,
-   "adventurewave-labs/pipeline-machine-v2": 23,
+   "adventurewave-labs/pipeline-machine-v2": 21,
    "adventurewave-labs/turbo-brain-v2": 5,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/excavate": 1,
@@ -941,7 +927,7 @@
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-10-01": 39,
+   "2026-10-01": 37,
    "2026-10-03": 2
   }
  },
