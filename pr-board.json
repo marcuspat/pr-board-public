@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T07:39:35Z",
+ "generated": "2026-10-08T08:09:37Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -752,18 +752,6 @@
    "mergedAt": "2026-10-07"
   },
   {
-   "repo": "adventurewave-labs/GUI-LOP",
-   "number": 12,
-   "title": "Production-readiness round 3 (contains PR #11)",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/GUI-LOP",
-   "number": 11,
-   "title": "SOTA rounds 1+2: hardening, correctness and security fixes",
-   "mergedAt": "2026-10-07"
-  },
-  {
    "repo": "creandotumatrix-labs/AgenticsMexico",
    "number": 8,
    "title": "(private repo)",
@@ -803,7 +791,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T07:37:01Z",
+  "start": "2026-10-01T08:07:01Z",
   "total": 142,
   "repos": {
    "marcuspat/ancuria": 17,
