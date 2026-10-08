@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T15:15:13Z",
+ "generated": "2026-10-08T15:40:40Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,24 @@
  ],
  "private_stubbed": 59,
  "prs": [
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 16,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 15,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/ancuria",
    "number": 515,
@@ -44,24 +62,6 @@
    "updated": "2026-10-07",
    "g": "unreviewed",
    "note": "no gate review yet"
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 15,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 14,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
   },
   {
    "repo": "marcuspat/turbo-rig",
@@ -408,6 +408,13 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 13,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-07",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/ancuria",
    "number": 513,
    "title": "(private repo)",
@@ -427,12 +434,6 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/pr-board-public",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
   },
   {
    "repo": "marcuspat/turbo-flow",
@@ -455,13 +456,6 @@
   {
    "repo": "marcuspat/turboflowacademy",
    "number": 14,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 13,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
@@ -523,83 +517,11 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/marcuspat",
-   "number": 5,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
    "repo": "marcuspat/sdelic_org",
    "number": 11,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/cargo-forge",
-   "number": 5,
-   "title": "Banner: fix hammer wind-up covering the emb chip",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/cargo-forge",
-   "number": 4,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/rustops",
-   "number": 20,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/file-hasher",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/magpu",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/packt-technical-reviews",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/k8s-netinspect",
-   "number": 3,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/netrain",
-   "number": 40,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/Sentinel",
-   "number": 16,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 15,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/vps-status",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
   },
   {
    "repo": "creandotumatrix-labs/AgenticsMexico",
@@ -610,14 +532,14 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T15:07:01Z",
+  "start": "2026-10-01T15:37:01Z",
   "total": 142,
   "repos": {
+   "marcuspat/adventurewavelabs-website": 1,
    "marcuspat/ancuria": 17,
    "marcuspat/pr-board-public": 1,
    "marcuspat/turbo-flow": 7,
    "marcuspat/turboflowacademy": 1,
-   "marcuspat/adventurewavelabs-website": 1,
    "marcuspat/turbo-rig": 5,
    "marcuspat/html-sites": 16,
    "marcuspat/h20healer": 2,
