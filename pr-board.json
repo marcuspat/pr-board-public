@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T04:09:37Z",
+ "generated": "2026-10-08T04:39:35Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -12,7 +12,7 @@
    "number": 515,
    "title": "(private repo)",
    "kind": "ours",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "unreviewed",
    "priv": true
   },
@@ -21,7 +21,7 @@
    "number": 514,
    "title": "(private repo)",
    "kind": "ours",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "unreviewed",
    "priv": true
   },
@@ -436,13 +436,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/ancuria",
-   "number": 504,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/pr-board-public",
    "number": 1,
    "title": "Add animated SVG banner",
@@ -813,13 +806,6 @@
    "priv": true
   },
   {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 23,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
    "repo": "creandotumatrix-labs/asistente-pedidos",
    "number": 1,
    "title": "Add animated SVG banner",
@@ -845,8 +831,8 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T04:07:01Z",
-  "total": 170,
+  "start": "2026-10-01T04:37:01Z",
+  "total": 151,
   "repos": {
    "marcuspat/ancuria": 17,
    "marcuspat/pr-board-public": 1,
@@ -888,12 +874,11 @@
    "adventurewave-labs/.github": 2,
    "adventurewave-labs/secret-scan": 1,
    "adventurewave-labs/GUI-LOP": 3,
-   "adventurewave-labs/dualbrand-lead-router": 9,
-   "adventurewave-labs/pipeline-machine-v2": 20,
-   "adventurewave-labs/turbo-brain-v2": 5,
+   "adventurewave-labs/dualbrand-lead-router": 8,
+   "adventurewave-labs/pipeline-machine-v2": 4,
+   "adventurewave-labs/turbo-brain-v2": 4,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/excavate": 1,
-   "adventurewave-labs/loopwatch-v2": 1,
    "creandotumatrix-labs/AgenticsMexico": 1,
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 6,
    "creandotumatrix-labs/asistente-pedidos": 1,
@@ -906,7 +891,7 @@
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-10-01": 35,
+   "2026-10-01": 16,
    "2026-10-03": 2
   }
  },
