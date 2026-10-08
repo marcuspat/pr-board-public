@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T22:09:37Z",
+ "generated": "2026-10-08T22:39:44Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,42 @@
  ],
  "private_stubbed": 59,
  "prs": [
+  {
+   "repo": "marcuspat/h20healer",
+   "number": 11,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 516,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "green",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 515,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 514,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/html-sites",
    "number": 41,
@@ -50,15 +86,6 @@
    "kind": "ours",
    "updated": "2026-10-05",
    "g": "needs_work",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 23,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-08",
-   "g": "unreviewed",
    "priv": true
   },
   {
@@ -115,24 +142,6 @@
    "updated": "2026-10-07",
    "g": "stale",
    "note": "commits after verdict 2026-10-07 - re-gate"
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 515,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-08",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 514,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-08",
-   "g": "unreviewed",
-   "priv": true
   },
   {
    "repo": "marcuspat/marcuspat",
@@ -360,6 +369,24 @@
    "priv": true
   },
   {
+   "repo": "creandotumatrix-labs/AgenticsMexico",
+   "number": 10,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "creandotumatrix-labs/AgenticsMexico",
+   "number": 9,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
    "number": 26,
    "title": "(private repo)",
@@ -370,6 +397,48 @@
   }
  ],
  "merged_24h": [
+  {
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 23,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 22,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 21,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/velvet-bbs",
+   "number": 14,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/velvet-bbs",
+   "number": 13,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/velvet-bbs",
+   "number": 12,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
   {
    "repo": "marcuspat/html-sites",
    "number": 40,
@@ -387,20 +456,6 @@
   {
    "repo": "marcuspat/html-sites",
    "number": 36,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 22,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 21,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
@@ -490,20 +545,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/velvet-bbs",
-   "number": 13,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/velvet-bbs",
-   "number": 12,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/turbo-flow",
    "number": 70,
    "title": "README: correct the withdrawal note \u2014 the 116-task result is real and external (Xiang et a",
@@ -530,22 +571,22 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T22:07:01Z",
-  "total": 158,
+  "start": "2026-10-01T22:37:01Z",
+  "total": 160,
   "repos": {
+   "marcuspat/creandotumatrix-site": 6,
+   "marcuspat/h20healer": 2,
+   "marcuspat/ancuria": 16,
+   "marcuspat/velvet-bbs": 3,
+   "marcuspat/pr-board-public": 1,
    "marcuspat/html-sites": 19,
-   "marcuspat/creandotumatrix-site": 5,
    "marcuspat/marcuspatman.space": 9,
    "marcuspat/agenticplatformengineering": 1,
    "marcuspat/sdelic_org": 5,
    "marcuspat/adventurewavelabs-website": 7,
    "marcuspat/turbo-rig": 6,
-   "marcuspat/velvet-bbs": 2,
    "marcuspat/turbo-flow": 8,
-   "marcuspat/ancuria": 16,
-   "marcuspat/pr-board-public": 1,
    "marcuspat/turboflowacademy": 1,
-   "marcuspat/h20healer": 2,
    "marcuspat/adventure-wave-explorer": 5,
    "marcuspat/marcuspat": 1,
    "marcuspat/cargo-forge": 2,
@@ -579,23 +620,32 @@
    "adventurewave-labs/turbo-brain-v2": 2,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/excavate": 1,
-   "creandotumatrix-labs/marce-garcia-casas-vallarta": 7,
    "creandotumatrix-labs/AgenticsMexico": 1,
+   "creandotumatrix-labs/marce-garcia-casas-vallarta": 7,
    "creandotumatrix-labs/asistente-pedidos": 1,
    "creandotumatrix-labs/asistente-comercial": 1,
    "creandotumatrix-labs/.github": 1,
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
-   "2026-10-08": 23,
-   "2026-10-07": 80,
+   "2026-10-08": 25,
    "2026-10-06": 13,
-   "2026-10-05": 8,
+   "2026-10-07": 80,
    "2026-10-04": 32,
+   "2026-10-05": 8,
    "2026-10-03": 2
   }
  },
  "issues": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 473,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-09-28",
+   "bucket": "actionable",
+   "priv": true
+  },
   {
    "repo": "marcuspat/turbo-flow",
    "number": 61,
@@ -622,15 +672,6 @@
    "kind": "ours",
    "updated": "2026-09-22",
    "bucket": "actionable"
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 473,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-09-28",
-   "bucket": "actionable",
-   "priv": true
   },
   {
    "repo": "marcuspat/cargo-forge",

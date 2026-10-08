@@ -1,9 +1,9 @@
 {
  "collector": "ancuria/.github/workflows/ops-monitor.yml",
- "generated": "2026-10-08T21:43:02+00:00",
+ "generated": "2026-10-08T22:19:34+00:00",
  "processes": [
   {
-   "detail": "last run 8.6h ago, took 3s (railway execution record)",
+   "detail": "last run 9.2h ago, took 3s (railway execution record)",
    "duration_s": 3,
    "id": "market-aggregation",
    "last_run": "2026-10-08T13:05:10Z",
@@ -13,9 +13,9 @@
    "verdict": "ok"
   },
   {
-   "backup_age_h": 13.6,
+   "backup_age_h": 14.3,
    "backup_size_mb": 4,
-   "detail": "newest dump 13.6h old, 4 MB in R2 (the artifact itself)",
+   "detail": "newest dump 14.3h old, 4 MB in R2 (the artifact itself)",
    "duration_s": 5,
    "id": "db-backup",
    "last_backup": "2026-10-08T08:04:43Z",
