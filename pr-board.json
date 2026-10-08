@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T06:39:37Z",
+ "generated": "2026-10-08T07:11:51Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -435,13 +435,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/ancuria",
-   "number": 510,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/turbo-flow",
    "number": 67,
    "title": "readme: canonical entity paragraph in the first 150 words",
@@ -605,13 +598,6 @@
   {
    "repo": "marcuspat/sdelic_org",
    "number": 8,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/sdelic_org",
-   "number": 7,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
@@ -824,7 +810,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T06:37:01Z",
+  "start": "2026-10-01T07:07:01Z",
   "total": 142,
   "repos": {
    "marcuspat/pr-board-public": 1,
@@ -954,9 +940,9 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-08T05:12:01Z",
-  "runs_7d": 1254,
-  "failures_7d": 192,
+  "asof": "2026-10-08T07:11:51Z",
+  "runs_7d": 1197,
+  "failures_7d": 188,
   "repos_active_7d": 32,
   "workflows": 82,
   "red": [
