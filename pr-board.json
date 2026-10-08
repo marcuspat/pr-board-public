@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T14:10:05Z",
+ "generated": "2026-10-08T14:40:34Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -453,24 +453,6 @@
    "mergedAt": "2026-10-07"
   },
   {
-   "repo": "marcuspat/turbo-flow",
-   "number": 64,
-   "title": "strip pr3: tokens.py drops down \u2014 the multi-harness token dashboard (first open-core drop)",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 63,
-   "title": "strip pr2: v4 out \u2014 repo repositions to rig-lite only, ZCode-first",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 62,
-   "title": "strip pr1: dead weight \u2014 unreferenced assets, V2 stub, legacy k8s-planes, dead CI excludes",
-   "mergedAt": "2026-10-07"
-  },
-  {
    "repo": "marcuspat/turboflowacademy",
    "number": 14,
    "title": "(private repo)",
@@ -692,57 +674,15 @@
    "mergedAt": "2026-10-07"
   },
   {
-   "repo": "adventurewave-labs/.github",
-   "number": 7,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/secret-scan",
-   "number": 7,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "adventurewave-labs/GUI-LOP",
-   "number": 29,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
    "repo": "creandotumatrix-labs/AgenticsMexico",
    "number": 8,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
-  },
-  {
-   "repo": "creandotumatrix-labs/asistente-pedidos",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "creandotumatrix-labs/asistente-comercial",
-   "number": 1,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "creandotumatrix-labs/.github",
-   "number": 10,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
-  },
-  {
-   "repo": "creandotumatrix-labs/asistente-de-tienda",
-   "number": 6,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-07"
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T14:07:01Z",
+  "start": "2026-10-01T14:37:01Z",
   "total": 142,
   "repos": {
    "marcuspat/ancuria": 17,
