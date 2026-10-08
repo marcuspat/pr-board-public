@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T18:40:12Z",
+ "generated": "2026-10-08T19:12:29Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -19,15 +19,6 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 514,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-08",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 17,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-08",
@@ -178,16 +169,6 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
-   "g": "unreviewed",
-   "note": "no gate review yet"
-  },
-  {
-   "repo": "adventurewave-labs/.github",
-   "number": 8,
-   "title": "profile: canonical Turbo Flow story (v5 rules layer); founder line names Turbo Rig",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-08",
    "g": "unreviewed",
    "note": "no gate review yet"
   },
@@ -426,18 +407,31 @@
   },
   {
    "repo": "marcuspat/adventurewavelabs-website",
+   "number": 17,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
    "number": 16,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/.github",
+   "number": 8,
+   "title": "profile: canonical Turbo Flow story (v5 rules layer); founder line names Turbo Rig",
+   "mergedAt": "2026-10-08"
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T18:37:01Z",
-  "total": 143,
+  "start": "2026-10-01T19:07:01Z",
+  "total": 145,
   "repos": {
    "marcuspat/ancuria": 17,
-   "marcuspat/adventurewavelabs-website": 2,
+   "marcuspat/adventurewavelabs-website": 3,
    "marcuspat/pr-board-public": 1,
    "marcuspat/html-sites": 16,
    "marcuspat/turbo-flow": 7,
@@ -461,7 +455,7 @@
    "marcuspat/vps-status": 1,
    "marcuspat/CMatrix-Landing-Page": 3,
    "marcuspat/serviya": 1,
-   "adventurewave-labs/.github": 2,
+   "adventurewave-labs/.github": 3,
    "adventurewave-labs/turbo-flow-wizard": 1,
    "adventurewave-labs/agentic-platform-engineering-extravaganza": 1,
    "adventurewave-labs/aops-sre-pipeline": 1,
@@ -494,7 +488,7 @@
    "2026-10-04": 32,
    "2026-10-05": 8,
    "2026-10-01": 7,
-   "2026-10-08": 1,
+   "2026-10-08": 3,
    "2026-10-03": 2
   }
  },
@@ -564,8 +558,8 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-08T17:14:24Z",
-  "runs_7d": 1012,
+  "asof": "2026-10-08T19:12:29Z",
+  "runs_7d": 974,
   "failures_7d": 184,
   "repos_active_7d": 32,
   "workflows": 82,
