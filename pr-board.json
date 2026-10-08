@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T19:39:51Z",
+ "generated": "2026-10-08T20:10:18Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,24 @@
  ],
  "private_stubbed": 59,
  "prs": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 515,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 514,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/adventurewavelabs-website",
    "number": 19,
@@ -28,24 +46,6 @@
   {
    "repo": "marcuspat/agenticplatformengineering",
    "number": 9,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-08",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 515,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-08",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 514,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-08",
@@ -178,7 +178,7 @@
    "title": "SOTA loop: SARIF, baselines, config, git history, pre-commit, 73 rules, 27x faster",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "needs_work",
    "note": "gate REVISE 2026-10-07"
   },
@@ -188,7 +188,7 @@
    "title": "chore(deps): bump compression 1.8.2 + proxy-addr 2.0.8 (closes high+critical audit finding",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "green",
    "note": "gate APPROVED 2026-10-07"
   },
@@ -347,7 +347,7 @@
    "number": 1,
    "title": "(private repo)",
    "kind": "ours",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "unreviewed",
    "priv": true
   },
@@ -356,7 +356,7 @@
    "number": 5,
    "title": "(private repo)",
    "kind": "ours",
-   "updated": "2026-10-06",
+   "updated": "2026-10-08",
    "g": "unreviewed",
    "priv": true
   },
@@ -365,7 +365,7 @@
    "number": 4,
    "title": "(private repo)",
    "kind": "ours",
-   "updated": "2026-10-06",
+   "updated": "2026-10-08",
    "g": "unreviewed",
    "priv": true
   },
@@ -374,7 +374,7 @@
    "number": 3,
    "title": "(private repo)",
    "kind": "ours",
-   "updated": "2026-10-06",
+   "updated": "2026-10-08",
    "g": "unreviewed",
    "priv": true
   },
@@ -383,7 +383,7 @@
    "number": 2,
    "title": "(private repo)",
    "kind": "ours",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "needs_work",
    "priv": true
   },
@@ -427,12 +427,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T19:37:01Z",
-  "total": 143,
+  "start": "2026-10-01T20:07:01Z",
+  "total": 142,
   "repos": {
-   "marcuspat/adventurewavelabs-website": 4,
    "marcuspat/ancuria": 17,
    "marcuspat/pr-board-public": 1,
+   "marcuspat/adventurewavelabs-website": 4,
    "marcuspat/html-sites": 16,
    "marcuspat/turbo-flow": 6,
    "marcuspat/turboflowacademy": 1,
@@ -469,7 +469,7 @@
    "adventurewave-labs/codescope": 1,
    "adventurewave-labs/secret-scan": 1,
    "adventurewave-labs/GUI-LOP": 3,
-   "adventurewave-labs/dualbrand-lead-router": 4,
+   "adventurewave-labs/dualbrand-lead-router": 3,
    "adventurewave-labs/pipeline-machine-v2": 1,
    "adventurewave-labs/turbo-brain-v2": 2,
    "adventurewave-labs/debate-killer": 1,
@@ -482,12 +482,12 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
-   "2026-10-08": 4,
    "2026-10-07": 80,
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-10-01": 4,
+   "2026-10-01": 3,
+   "2026-10-08": 4,
    "2026-10-03": 2
   }
  },
