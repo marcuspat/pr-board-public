@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T12:39:44Z",
+ "generated": "2026-10-08T13:12:20Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -207,7 +207,7 @@
    "title": "chore(deps): bump anchore/sbom-action from 0.24.2 to 0.24.3 in the actions group",
    "author": "app/dependabot",
    "kind": "bot",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "bots",
    "note": "automated bump - never gated"
   },
@@ -217,7 +217,7 @@
    "title": "chore(deps): bump redis from 5.12.1 to 6.3.0",
    "author": "app/dependabot",
    "kind": "bot",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "bots",
    "note": "automated bump - never gated"
   },
@@ -227,7 +227,7 @@
    "title": "chore(deps-dev): bump jest-runtime from 29.7.0 to 30.5.2",
    "author": "app/dependabot",
    "kind": "bot",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "bots",
    "note": "automated bump - never gated"
   },
@@ -237,7 +237,7 @@
    "title": "chore(deps): bump rate-limit-redis from 4.3.1 to 6.0.1",
    "author": "app/dependabot",
    "kind": "bot",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "bots",
    "note": "automated bump - never gated"
   },
@@ -247,7 +247,7 @@
    "title": "chore(deps-dev): bump jest-circus from 29.7.0 to 30.5.2",
    "author": "app/dependabot",
    "kind": "bot",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "bots",
    "note": "automated bump - never gated"
   },
@@ -257,7 +257,7 @@
    "title": "chore(deps-dev): bump jest-environment-jsdom from 29.7.0 to 30.5.2",
    "author": "app/dependabot",
    "kind": "bot",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "bots",
    "note": "automated bump - never gated"
   },
@@ -267,7 +267,7 @@
    "title": "chore(deps-dev): bump jest from 29.7.0 to 30.5.2",
    "author": "app/dependabot",
    "kind": "bot",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "bots",
    "note": "automated bump - never gated"
   },
@@ -277,7 +277,7 @@
    "title": "chore(deps-dev): bump concurrently from 9.2.4 to 10.0.5",
    "author": "app/dependabot",
    "kind": "bot",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "bots",
    "note": "automated bump - never gated"
   },
@@ -287,7 +287,7 @@
    "title": "chore(deps-dev): bump the dev-minor-patch group with 7 updates",
    "author": "app/dependabot",
    "kind": "bot",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "bots",
    "note": "automated bump - never gated"
   },
@@ -297,7 +297,7 @@
    "title": "chore(deps-dev): bump jest from 27.5.1 to 30.5.2 in /src/frontend",
    "author": "app/dependabot",
    "kind": "bot",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "bots",
    "note": "automated bump - never gated"
   },
@@ -307,7 +307,7 @@
    "title": "chore(deps): bump the prod-minor-patch group with 3 updates",
    "author": "app/dependabot",
    "kind": "bot",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "bots",
    "note": "automated bump - never gated"
   },
@@ -317,7 +317,7 @@
    "title": "chore(deps-dev): bump @testing-library/jest-dom from 6.9.1 to 7.0.1 in /src/frontend",
    "author": "app/dependabot",
    "kind": "bot",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "bots",
    "note": "automated bump - never gated"
   },
@@ -327,7 +327,7 @@
    "title": "chore(deps): bump react from 18.3.1 to 19.3.0 in /src/frontend",
    "author": "app/dependabot",
    "kind": "bot",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "bots",
    "note": "automated bump - never gated"
   },
@@ -337,7 +337,7 @@
    "title": "chore(deps): bump react-dom from 18.3.1 to 19.3.0 in /src/frontend",
    "author": "app/dependabot",
    "kind": "bot",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "bots",
    "note": "automated bump - never gated"
   },
@@ -347,7 +347,7 @@
    "title": "chore(deps): bump node from 24-alpine to 26-alpine",
    "author": "app/dependabot",
    "kind": "bot",
-   "updated": "2026-10-07",
+   "updated": "2026-10-08",
    "g": "bots",
    "note": "automated bump - never gated"
   },
@@ -480,13 +480,6 @@
   {
    "repo": "marcuspat/adventurewavelabs-website",
    "number": 13,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 43,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
@@ -749,7 +742,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T12:37:01Z",
+  "start": "2026-10-01T13:07:01Z",
   "total": 142,
   "repos": {
    "marcuspat/ancuria": 17,
@@ -879,8 +872,8 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-08T11:12:15Z",
-  "runs_7d": 1109,
+  "asof": "2026-10-08T13:12:20Z",
+  "runs_7d": 1085,
   "failures_7d": 183,
   "repos_active_7d": 32,
   "workflows": 82,
