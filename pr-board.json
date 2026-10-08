@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T11:12:15Z",
+ "generated": "2026-10-08T11:39:49Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -756,7 +756,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T11:07:02Z",
+  "start": "2026-10-01T11:37:01Z",
   "total": 142,
   "repos": {
    "marcuspat/ancuria": 17,
