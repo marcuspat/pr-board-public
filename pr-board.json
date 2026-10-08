@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T16:40:00Z",
+ "generated": "2026-10-08T17:14:24Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -413,13 +413,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/ancuria",
-   "number": 511,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/adventurewavelabs-website",
    "number": 16,
    "title": "(private repo)",
@@ -434,84 +427,15 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 38,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 37,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 35,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 67,
-   "title": "readme: canonical entity paragraph in the first 150 words",
-   "mergedAt": "2026-10-07"
-  },
-  {
    "repo": "marcuspat/turboflowacademy",
    "number": 14,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/h20healer",
-   "number": 10,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/h20healer",
-   "number": 9,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventure-wave-explorer",
-   "number": 30,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventure-wave-explorer",
-   "number": 29,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/marcuspatman.space",
-   "number": 11,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "creandotumatrix-labs/AgenticsMexico",
-   "number": 8,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T16:37:01Z",
+  "start": "2026-10-01T17:07:01Z",
   "total": 143,
   "repos": {
    "marcuspat/ancuria": 17,
@@ -642,8 +566,8 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-08T15:15:13Z",
-  "runs_7d": 1049,
+  "asof": "2026-10-08T17:14:24Z",
+  "runs_7d": 1012,
   "failures_7d": 184,
   "repos_active_7d": 32,
   "workflows": 82,
@@ -694,7 +618,7 @@
     "repo": "adventurewave-labs/dualbrand-lead-router",
     "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-10-07 15:32",
+    "at": "2026-10-08 15:35",
     "url": ""
    },
    {
