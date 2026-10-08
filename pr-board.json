@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T08:39:41Z",
+ "generated": "2026-10-08T09:11:56Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -770,7 +770,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T08:37:01Z",
+  "start": "2026-10-01T09:07:01Z",
   "total": 142,
   "repos": {
    "marcuspat/ancuria": 17,
@@ -900,9 +900,9 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-08T07:11:51Z",
-  "runs_7d": 1197,
-  "failures_7d": 188,
+  "asof": "2026-10-08T09:11:56Z",
+  "runs_7d": 1161,
+  "failures_7d": 187,
   "repos_active_7d": 32,
   "workflows": 82,
   "red": [
