@@ -1,6 +1,6 @@
 {
  "collector": "ancuria/.github/workflows/ops-monitor.yml",
- "generated": "2026-10-08T07:50:28+00:00",
+ "generated": "2026-10-08T08:29:32+00:00",
  "processes": [
   {
    "detail": "last run status CRASHED",
@@ -13,13 +13,13 @@
    "verdict": "error"
   },
   {
-   "backup_age_h": 23.8,
+   "backup_age_h": 0.4,
    "backup_size_mb": 4,
-   "detail": "newest dump 23.8h old, 4 MB in R2 (the artifact itself)",
+   "detail": "newest dump 0.4h old, 4 MB in R2 (the artifact itself)",
    "duration_s": 5,
    "id": "db-backup",
-   "last_backup": "2026-10-07T08:03:15Z",
-   "last_run": "2026-10-07T08:03:11Z",
+   "last_backup": "2026-10-08T08:04:43Z",
+   "last_run": "2026-10-08T08:04:39Z",
    "run_status": "EXITED",
    "schedule": "daily 02:00 CST (08:00 UTC)",
    "source": "railway api: deploymentInstanceExecutions + r2: ListObjectsV2 backups/",

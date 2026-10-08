@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T08:09:37Z",
+ "generated": "2026-10-08T08:39:41Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -520,20 +520,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 33,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 32,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/h20healer",
    "number": 10,
    "title": "(private repo)",
@@ -584,13 +570,6 @@
   {
    "repo": "marcuspat/sdelic_org",
    "number": 10,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-07",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/sdelic_org",
-   "number": 9,
    "title": "(private repo)",
    "mergedAt": "2026-10-07",
    "priv": true
@@ -791,7 +770,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-01T08:07:01Z",
+  "start": "2026-10-01T08:37:01Z",
   "total": 142,
   "repos": {
    "marcuspat/ancuria": 17,
