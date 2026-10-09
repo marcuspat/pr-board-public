@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T16:40:03Z",
+ "generated": "2026-10-09T17:14:00Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -764,12 +764,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T16:37:01Z",
+  "start": "2026-10-02T17:07:01Z",
   "total": 207,
   "repos": {
    "marcuspat/ancuria": 21,
-   "marcuspat/turbo-rig": 6,
    "marcuspat/pr-board-public": 1,
+   "marcuspat/turbo-rig": 6,
    "marcuspat/html-sites": 25,
    "marcuspat/turbo-flow": 13,
    "marcuspat/cargocrypt": 12,
@@ -906,9 +906,9 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-09T15:12:19Z",
+  "asof": "2026-10-09T17:14:00Z",
   "runs_7d": 870,
-  "failures_7d": 167,
+  "failures_7d": 171,
   "repos_active_7d": 31,
   "workflows": 82,
   "red": [
@@ -965,7 +965,7 @@
     "repo": "adventurewave-labs/dualbrand-lead-router",
     "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-10-08 15:35",
+    "at": "2026-10-09 15:17",
     "url": ""
    },
    {
@@ -1007,7 +1007,7 @@
     "repo": "marcuspat/html-sites",
     "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-10-09 15:02",
+    "at": "2026-10-09 16:01",
     "url": ""
    },
    {
