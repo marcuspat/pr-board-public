@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T07:12:01Z",
+ "generated": "2026-10-09T07:39:37Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -24,6 +24,16 @@
    "updated": "2026-10-08",
    "g": "unreviewed",
    "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 73,
+   "title": "fix: harness installs are visible and land on PATH immediately",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-09"
   },
   {
    "repo": "marcuspat/html-sites",
@@ -331,6 +341,12 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-09",
    "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 72,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-09"
   },
   {
    "repo": "marcuspat/turbo-flow",
@@ -743,12 +759,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T07:07:01Z",
-  "total": 200,
+  "start": "2026-10-02T07:37:01Z",
+  "total": 201,
   "repos": {
-   "marcuspat/pr-board-public": 1,
    "marcuspat/ancuria": 21,
-   "marcuspat/turbo-flow": 10,
+   "marcuspat/turbo-flow": 11,
+   "marcuspat/pr-board-public": 1,
    "marcuspat/cargocrypt": 12,
    "marcuspat/k8s-netinspect": 3,
    "marcuspat/adventurewavelabs-website": 9,
@@ -800,9 +816,9 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
-   "2026-10-07": 80,
-   "2026-10-09": 33,
+   "2026-10-09": 34,
    "2026-10-08": 32,
+   "2026-10-07": 80,
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
