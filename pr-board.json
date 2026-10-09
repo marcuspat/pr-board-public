@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T15:12:19Z",
+ "generated": "2026-10-09T15:40:39Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,33 @@
  ],
  "private_stubbed": 59,
  "prs": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 520,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "needs_work",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 514,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 46,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/html-sites",
    "number": 31,
@@ -41,33 +68,6 @@
    "kind": "ours",
    "updated": "2026-10-05",
    "g": "needs_work",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 520,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "needs_work",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 514,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 46,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "unreviewed",
    "priv": true
   },
   {
@@ -280,6 +280,55 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/ancuria",
+   "number": 519,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 518,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 517,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 516,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 515,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 45,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 44,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/html-sites",
    "number": 46,
    "title": "(private repo)",
@@ -340,41 +389,6 @@
    "number": 36,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 519,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 518,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 517,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 516,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 515,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
    "priv": true
   },
   {
@@ -647,20 +661,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/turbo-rig",
-   "number": 45,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 44,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/cargo-forge",
    "number": 6,
    "title": "chore: homepage -> AW Labs project page (v0.1.7)",
@@ -771,12 +771,13 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T15:07:01Z",
+  "start": "2026-10-02T15:37:02Z",
   "total": 207,
   "repos": {
-   "marcuspat/html-sites": 25,
    "marcuspat/ancuria": 21,
    "marcuspat/pr-board-public": 1,
+   "marcuspat/turbo-rig": 6,
+   "marcuspat/html-sites": 25,
    "marcuspat/turbo-flow": 13,
    "marcuspat/cargocrypt": 12,
    "marcuspat/k8s-netinspect": 3,
@@ -788,7 +789,6 @@
    "marcuspat/sdelic_org": 8,
    "marcuspat/agenticplatformengineering": 4,
    "marcuspat/marcuspatman.space": 11,
-   "marcuspat/turbo-rig": 6,
    "marcuspat/cargo-forge": 3,
    "marcuspat/adventure-wave-explorer": 6,
    "marcuspat/velvet-bbs": 3,
@@ -833,8 +833,8 @@
    "2026-10-08": 32,
    "2026-10-07": 80,
    "2026-10-06": 13,
-   "2026-10-05": 8,
    "2026-10-04": 32,
+   "2026-10-05": 8,
    "2026-10-03": 2
   }
  },
