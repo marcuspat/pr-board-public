@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T03:39:23Z",
+ "generated": "2026-10-09T04:09:36Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,15 +7,6 @@
  ],
  "private_stubbed": 59,
  "prs": [
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 514,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-08",
-   "g": "unreviewed",
-   "priv": true
-  },
   {
    "repo": "marcuspat/html-sites",
    "number": 31,
@@ -50,6 +41,15 @@
    "kind": "ours",
    "updated": "2026-10-05",
    "g": "needs_work",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 514,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
    "priv": true
   },
   {
@@ -308,22 +308,43 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/h20healer",
-   "number": 13,
+   "repo": "marcuspat/html-sites",
+   "number": 43,
    "title": "(private repo)",
    "mergedAt": "2026-10-09",
    "priv": true
   },
   {
-   "repo": "marcuspat/h20healer",
-   "number": 12,
+   "repo": "marcuspat/html-sites",
+   "number": 42,
    "title": "(private repo)",
    "mergedAt": "2026-10-09",
    "priv": true
   },
   {
-   "repo": "marcuspat/h20healer",
-   "number": 11,
+   "repo": "marcuspat/html-sites",
+   "number": 41,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 40,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 39,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 36,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
@@ -361,6 +382,27 @@
    "number": 515,
    "title": "(private repo)",
    "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/h20healer",
+   "number": 13,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/h20healer",
+   "number": 12,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/h20healer",
+   "number": 11,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
    "priv": true
   },
   {
@@ -443,48 +485,6 @@
   {
    "repo": "marcuspat/marcuspatman.space",
    "number": 12,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 43,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 42,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 41,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 40,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 39,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 36,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
@@ -633,6 +633,27 @@
    "mergedAt": "2026-10-08"
   },
   {
+   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
+   "number": 27,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
+   "number": 26,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
+   "number": 25,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
    "repo": "creandotumatrix-labs/AgenticsMexico",
    "number": 12,
    "title": "(private repo)",
@@ -652,33 +673,19 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
-  },
-  {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 26,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 25,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T03:37:01Z",
-  "total": 187,
+  "start": "2026-10-02T04:07:01Z",
+  "total": 188,
   "repos": {
-   "marcuspat/h20healer": 5,
+   "marcuspat/html-sites": 22,
    "marcuspat/ancuria": 21,
    "marcuspat/pr-board-public": 1,
+   "marcuspat/h20healer": 5,
    "marcuspat/sdelic_org": 8,
    "marcuspat/agenticplatformengineering": 4,
    "marcuspat/marcuspatman.space": 11,
-   "marcuspat/html-sites": 22,
    "marcuspat/turbo-rig": 6,
    "marcuspat/cargo-forge": 3,
    "marcuspat/adventure-wave-explorer": 6,
@@ -718,20 +725,20 @@
    "adventurewave-labs/turbo-brain-v2": 2,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/excavate": 1,
+   "creandotumatrix-labs/marce-garcia-casas-vallarta": 9,
    "creandotumatrix-labs/AgenticsMexico": 4,
-   "creandotumatrix-labs/marce-garcia-casas-vallarta": 8,
    "creandotumatrix-labs/asistente-pedidos": 1,
    "creandotumatrix-labs/asistente-comercial": 1,
    "creandotumatrix-labs/.github": 1,
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
-   "2026-10-09": 20,
+   "2026-10-09": 21,
    "2026-10-08": 32,
    "2026-10-07": 80,
    "2026-10-06": 13,
-   "2026-10-04": 32,
    "2026-10-05": 8,
+   "2026-10-04": 32,
    "2026-10-03": 2
   }
  },
