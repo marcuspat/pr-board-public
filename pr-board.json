@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T05:39:35Z",
+ "generated": "2026-10-09T06:09:34Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,34 @@
  ],
  "private_stubbed": 59,
  "prs": [
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 71,
+   "title": "fix: devcontainer presents the harness menu on first boot (setup-harness runs last)",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-09"
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 520,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "needs_work",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 514,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/html-sites",
    "number": 31,
@@ -44,33 +72,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/ancuria",
-   "number": 520,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "needs_work",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 514,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-08",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 23,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/turbo-rig",
    "number": 46,
    "title": "(private repo)",
@@ -78,16 +79,6 @@
    "updated": "2026-10-09",
    "g": "unreviewed",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 69,
-   "title": "demo: the harness boot gif \u2014 pick a harness, get a rig (one real take)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-07 - re-gate"
   },
   {
    "repo": "marcuspat/marcuspat",
@@ -317,6 +308,139 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/turbo-flow",
+   "number": 70,
+   "title": "README: correct the withdrawal note \u2014 the 116-task result is real and external (Xiang et a",
+   "mergedAt": "2026-10-08"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 69,
+   "title": "demo: the harness boot gif \u2014 pick a harness, get a rig (one real take)",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 68,
+   "title": "README EN/ES: withdrawn 116-task claim replaced by the audited record (badge too)",
+   "mergedAt": "2026-10-08"
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 16,
+   "title": "crates.io: homepage -> AW Labs project page (publishes 0.3.0)",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/k8s-netinspect",
+   "number": 4,
+   "title": "crates.io: homepage -> AW Labs project page (publishes 0.2.0)",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 23,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 22,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 21,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 20,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 19,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 18,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 17,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 16,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/file-hasher",
+   "number": 2,
+   "title": "crates.io: homepage -> AW Labs project page (file-hasher 0.1.0 -> 0.1.1)",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/netrain",
+   "number": 41,
+   "title": "crates.io: homepage -> AW Labs project page (netrain 0.2.9 -> 0.2.10)",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 519,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 518,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 517,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 516,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 515,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/html-sites",
    "number": 45,
    "title": "(private repo)",
@@ -373,41 +497,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/ancuria",
-   "number": 519,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 518,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 517,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 516,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 515,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/creandotumatrix-site",
    "number": 27,
    "title": "(private repo)",
@@ -445,55 +534,6 @@
   {
    "repo": "marcuspat/creandotumatrix-site",
    "number": 21,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 22,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 21,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 20,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 19,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 18,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 17,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 16,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
@@ -652,16 +692,10 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/turbo-flow",
-   "number": 70,
-   "title": "README: correct the withdrawal note \u2014 the 116-task result is real and external (Xiang et a",
-   "mergedAt": "2026-10-08"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 68,
-   "title": "README EN/ES: withdrawn 116-task claim replaced by the audited record (badge too)",
-   "mergedAt": "2026-10-08"
+   "repo": "adventurewave-labs/secret-scan",
+   "number": 8,
+   "title": "crates.io: homepage -> AW Labs project page (secretscan 0.2.3 -> 0.2.4)",
+   "mergedAt": "2026-10-09"
   },
   {
    "repo": "adventurewave-labs/.github",
@@ -713,14 +747,19 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T05:37:02Z",
-  "total": 192,
+  "start": "2026-10-02T06:07:01Z",
+  "total": 199,
   "repos": {
-   "marcuspat/html-sites": 24,
+   "marcuspat/turbo-flow": 9,
+   "marcuspat/cargocrypt": 12,
+   "marcuspat/k8s-netinspect": 3,
+   "marcuspat/adventurewavelabs-website": 9,
+   "marcuspat/file-hasher": 2,
+   "marcuspat/netrain": 4,
    "marcuspat/ancuria": 21,
-   "marcuspat/creandotumatrix-site": 9,
    "marcuspat/pr-board-public": 1,
-   "marcuspat/adventurewavelabs-website": 8,
+   "marcuspat/html-sites": 24,
+   "marcuspat/creandotumatrix-site": 9,
    "marcuspat/h20healer": 5,
    "marcuspat/sdelic_org": 8,
    "marcuspat/agenticplatformengineering": 4,
@@ -729,19 +768,15 @@
    "marcuspat/cargo-forge": 3,
    "marcuspat/adventure-wave-explorer": 6,
    "marcuspat/velvet-bbs": 3,
-   "marcuspat/turbo-flow": 8,
    "marcuspat/turboflowacademy": 1,
    "marcuspat/marcuspat": 1,
    "marcuspat/rustops": 1,
-   "marcuspat/file-hasher": 1,
    "marcuspat/magpu": 1,
    "marcuspat/packt-technical-reviews": 1,
-   "marcuspat/k8s-netinspect": 2,
-   "marcuspat/netrain": 3,
    "marcuspat/Sentinel": 6,
-   "marcuspat/cargocrypt": 11,
    "marcuspat/vps-status": 1,
    "marcuspat/CMatrix-Landing-Page": 3,
+   "adventurewave-labs/secret-scan": 2,
    "adventurewave-labs/.github": 2,
    "adventurewave-labs/turbo-flow-wizard": 1,
    "adventurewave-labs/agentic-platform-engineering-extravaganza": 1,
@@ -755,7 +790,6 @@
    "adventurewave-labs/preflight-integration-tester": 1,
    "adventurewave-labs/ansible-heal-agent": 1,
    "adventurewave-labs/codescope": 1,
-   "adventurewave-labs/secret-scan": 1,
    "adventurewave-labs/GUI-LOP": 3,
    "adventurewave-labs/dualbrand-lead-router": 3,
    "adventurewave-labs/pipeline-machine-v2": 1,
@@ -770,34 +804,16 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
-   "2026-10-09": 25,
    "2026-10-08": 32,
+   "2026-10-09": 32,
    "2026-10-07": 80,
+   "2026-10-04": 32,
    "2026-10-06": 13,
    "2026-10-05": 8,
-   "2026-10-04": 32,
    "2026-10-03": 2
   }
  },
  "issues": [
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 473,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-09-28",
-   "bucket": "actionable",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/cargo-forge",
-   "number": 2,
-   "title": "Enhancement: Add more embedded options for STM32",
-   "author": "Vaishnav-Sabari-Girish",
-   "kind": "inbound",
-   "updated": "2026-02-18",
-   "bucket": "inbound"
-  },
   {
    "repo": "marcuspat/turbo-flow",
    "number": 61,
@@ -826,15 +842,6 @@
    "bucket": "actionable"
   },
   {
-   "repo": "marcuspat/rustops",
-   "number": 15,
-   "title": "Migrate reqwest 0.11 \u2192 0.12 to clear the ignored rustls/h2 security advisories",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-09-30",
-   "bucket": "actionable"
-  },
-  {
    "repo": "marcuspat/netrain",
    "number": 37,
    "title": "--demo mode renders nothing under a pty; div-by-zero panic on 0-width terminals",
@@ -842,6 +849,33 @@
    "kind": "ours",
    "updated": "2026-08-08",
    "bucket": "stale"
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 473,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-09-28",
+   "bucket": "actionable",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/cargo-forge",
+   "number": 2,
+   "title": "Enhancement: Add more embedded options for STM32",
+   "author": "Vaishnav-Sabari-Girish",
+   "kind": "inbound",
+   "updated": "2026-02-18",
+   "bucket": "inbound"
+  },
+  {
+   "repo": "marcuspat/rustops",
+   "number": 15,
+   "title": "Migrate reqwest 0.11 \u2192 0.12 to clear the ignored rustls/h2 security advisories",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-09-30",
+   "bucket": "actionable"
   }
  ],
  "actions": {
