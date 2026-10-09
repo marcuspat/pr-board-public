@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T07:39:37Z",
+ "generated": "2026-10-09T08:09:38Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,16 @@
  ],
  "private_stubbed": 59,
  "prs": [
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 73,
+   "title": "fix: harness installs are visible and land on PATH immediately",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-09 - re-gate"
+  },
   {
    "repo": "marcuspat/ancuria",
    "number": 520,
@@ -24,16 +34,6 @@
    "updated": "2026-10-08",
    "g": "unreviewed",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 73,
-   "title": "fix: harness installs are visible and land on PATH immediately",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-09"
   },
   {
    "repo": "marcuspat/html-sites",
@@ -308,6 +308,36 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/turbo-flow",
+   "number": 72,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 71,
+   "title": "fix: devcontainer presents the harness menu on first boot (setup-harness runs last)",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 70,
+   "title": "README: correct the withdrawal note \u2014 the 116-task result is real and external (Xiang et a",
+   "mergedAt": "2026-10-08"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 69,
+   "title": "demo: the harness boot gif \u2014 pick a harness, get a rig (one real take)",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 68,
+   "title": "README EN/ES: withdrawn 116-task claim replaced by the audited record (badge too)",
+   "mergedAt": "2026-10-08"
+  },
+  {
    "repo": "marcuspat/ancuria",
    "number": 519,
    "title": "(private repo)",
@@ -341,36 +371,6 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-09",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 72,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 71,
-   "title": "fix: devcontainer presents the harness menu on first boot (setup-harness runs last)",
-   "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 70,
-   "title": "README: correct the withdrawal note \u2014 the 116-task result is real and external (Xiang et a",
-   "mergedAt": "2026-10-08"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 69,
-   "title": "demo: the harness boot gif \u2014 pick a harness, get a rig (one real take)",
-   "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 68,
-   "title": "README EN/ES: withdrawn 116-task claim replaced by the audited record (badge too)",
-   "mergedAt": "2026-10-08"
   },
   {
    "repo": "marcuspat/cargocrypt",
@@ -759,11 +759,11 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T07:37:01Z",
+  "start": "2026-10-02T08:07:02Z",
   "total": 201,
   "repos": {
-   "marcuspat/ancuria": 21,
    "marcuspat/turbo-flow": 11,
+   "marcuspat/ancuria": 21,
    "marcuspat/pr-board-public": 1,
    "marcuspat/cargocrypt": 12,
    "marcuspat/k8s-netinspect": 3,
@@ -827,15 +827,6 @@
  },
  "issues": [
   {
-   "repo": "marcuspat/ancuria",
-   "number": 473,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-09-28",
-   "bucket": "actionable",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/turbo-flow",
    "number": 61,
    "title": "tmux auto-attach (#59): gate findings landed unaddressed on main",
@@ -861,6 +852,15 @@
    "kind": "ours",
    "updated": "2026-09-22",
    "bucket": "actionable"
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 473,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-09-28",
+   "bucket": "actionable",
+   "priv": true
   },
   {
    "repo": "marcuspat/netrain",
