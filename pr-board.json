@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T10:39:35Z",
+ "generated": "2026-10-09T11:11:52Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -771,7 +771,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T10:37:01Z",
+  "start": "2026-10-02T11:07:01Z",
   "total": 207,
   "repos": {
    "marcuspat/ancuria": 21,
@@ -913,9 +913,9 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-09T09:12:14Z",
-  "runs_7d": 857,
-  "failures_7d": 163,
+  "asof": "2026-10-09T11:11:52Z",
+  "runs_7d": 864,
+  "failures_7d": 166,
   "repos_active_7d": 31,
   "workflows": 82,
   "red": [
@@ -1014,7 +1014,7 @@
     "repo": "marcuspat/html-sites",
     "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-10-09 05:34",
+    "at": "2026-10-09 09:52",
     "url": ""
    },
    {
