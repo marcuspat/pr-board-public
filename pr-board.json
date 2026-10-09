@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T08:39:43Z",
+ "generated": "2026-10-09T09:12:14Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,26 @@
  ],
  "private_stubbed": 59,
  "prs": [
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 74,
+   "title": "add the 5-window tmux workspace \u2014 boot lands inside the rig (claude \u00b7 claude+ruflo \u00b7 codex",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-09 - re-gate"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 73,
+   "title": "fix: harness installs are visible and land on PATH immediately",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "stale",
+   "note": "commits after verdict 2026-10-09 - re-gate"
+  },
   {
    "repo": "marcuspat/ancuria",
    "number": 520,
@@ -24,16 +44,6 @@
    "updated": "2026-10-08",
    "g": "unreviewed",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 73,
-   "title": "fix: harness installs are visible and land on PATH immediately",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-09 - re-gate"
   },
   {
    "repo": "marcuspat/html-sites",
@@ -91,12 +101,21 @@
    "note": "no gate review yet"
   },
   {
+   "repo": "adventurewave-labs/brain-vault",
+   "number": 6,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "needs_work",
+   "priv": true
+  },
+  {
    "repo": "adventurewave-labs/secret-scan",
    "number": 6,
    "title": "SOTA loop: SARIF, baselines, config, git history, pre-commit, 73 rules, 27x faster",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-10-08",
+   "updated": "2026-10-09",
    "g": "needs_work",
    "note": "gate REVISE 2026-10-07"
   },
@@ -106,7 +125,7 @@
    "title": "chore(deps): bump compression 1.8.2 + proxy-addr 2.0.8 (closes high+critical audit finding",
    "author": "marcuspat",
    "kind": "ours",
-   "updated": "2026-10-08",
+   "updated": "2026-10-09",
    "g": "green",
    "note": "gate APPROVED 2026-10-07"
   },
@@ -270,43 +289,46 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/brain-vault",
-   "number": 5,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-08",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/brain-vault",
-   "number": 4,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-08",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/brain-vault",
-   "number": 3,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-08",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/debate-killer",
    "number": 2,
    "title": "(private repo)",
    "kind": "ours",
-   "updated": "2026-10-08",
+   "updated": "2026-10-09",
    "g": "needs_work",
    "priv": true
   }
  ],
  "merged_24h": [
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 72,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 71,
+   "title": "fix: devcontainer presents the harness menu on first boot (setup-harness runs last)",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 70,
+   "title": "README: correct the withdrawal note \u2014 the 116-task result is real and external (Xiang et a",
+   "mergedAt": "2026-10-08"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 69,
+   "title": "demo: the harness boot gif \u2014 pick a harness, get a rig (one real take)",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 68,
+   "title": "README EN/ES: withdrawn 116-task claim replaced by the audited record (badge too)",
+   "mergedAt": "2026-10-08"
+  },
   {
    "repo": "marcuspat/ancuria",
    "number": 519,
@@ -341,36 +363,6 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-09",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 72,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 71,
-   "title": "fix: devcontainer presents the harness menu on first boot (setup-harness runs last)",
-   "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 70,
-   "title": "README: correct the withdrawal note \u2014 the 116-task result is real and external (Xiang et a",
-   "mergedAt": "2026-10-08"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 69,
-   "title": "demo: the harness boot gif \u2014 pick a harness, get a rig (one real take)",
-   "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 68,
-   "title": "README EN/ES: withdrawn 116-task claim replaced by the audited record (badge too)",
-   "mergedAt": "2026-10-08"
   },
   {
    "repo": "marcuspat/cargocrypt",
@@ -704,6 +696,27 @@
    "priv": true
   },
   {
+   "repo": "adventurewave-labs/brain-vault",
+   "number": 5,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/brain-vault",
+   "number": 4,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/brain-vault",
+   "number": 3,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
    "repo": "adventurewave-labs/secret-scan",
    "number": 8,
    "title": "crates.io: homepage -> AW Labs project page (secretscan 0.2.3 -> 0.2.4)",
@@ -759,12 +772,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T08:37:01Z",
-  "total": 201,
+  "start": "2026-10-02T09:07:01Z",
+  "total": 204,
   "repos": {
+   "marcuspat/turbo-flow": 11,
    "marcuspat/ancuria": 21,
    "marcuspat/pr-board-public": 1,
-   "marcuspat/turbo-flow": 11,
    "marcuspat/cargocrypt": 12,
    "marcuspat/k8s-netinspect": 3,
    "marcuspat/adventurewavelabs-website": 9,
@@ -788,6 +801,7 @@
    "marcuspat/Sentinel": 6,
    "marcuspat/vps-status": 1,
    "marcuspat/CMatrix-Landing-Page": 3,
+   "adventurewave-labs/brain-vault": 3,
    "adventurewave-labs/secret-scan": 2,
    "adventurewave-labs/.github": 2,
    "adventurewave-labs/turbo-flow-wizard": 1,
@@ -816,7 +830,7 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
-   "2026-10-09": 34,
+   "2026-10-09": 37,
    "2026-10-08": 32,
    "2026-10-07": 80,
    "2026-10-06": 13,
@@ -826,15 +840,6 @@
   }
  },
  "issues": [
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 473,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-09-28",
-   "bucket": "actionable",
-   "priv": true
-  },
   {
    "repo": "marcuspat/turbo-flow",
    "number": 61,
@@ -863,6 +868,15 @@
    "bucket": "actionable"
   },
   {
+   "repo": "marcuspat/ancuria",
+   "number": 473,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-09-28",
+   "bucket": "actionable",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/netrain",
    "number": 37,
    "title": "--demo mode renders nothing under a pty; div-by-zero panic on 0-width terminals",
@@ -888,12 +902,21 @@
    "kind": "ours",
    "updated": "2026-09-30",
    "bucket": "actionable"
+  },
+  {
+   "repo": "adventurewave-labs/turbo-brain-v2",
+   "number": 12,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "bucket": "actionable",
+   "priv": true
   }
  ],
  "actions": {
-  "asof": "2026-10-09T07:12:01Z",
-  "runs_7d": 851,
-  "failures_7d": 161,
+  "asof": "2026-10-09T09:12:14Z",
+  "runs_7d": 857,
+  "failures_7d": 163,
   "repos_active_7d": 31,
   "workflows": 82,
   "red": [
@@ -924,6 +947,13 @@
     "status": "failure",
     "at": "2026-08-22 00:56",
     "url": "https://github.com/adventurewave-labs/aops-sre-pipeline/actions/runs/32541902909"
+   },
+   {
+    "repo": "adventurewave-labs/brain-vault",
+    "workflow": "(private repo)",
+    "status": "failure",
+    "at": "2026-10-09 08:52",
+    "url": ""
    },
    {
     "repo": "adventurewave-labs/cloudtrim-demo",
