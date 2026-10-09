@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T14:39:47Z",
+ "generated": "2026-10-09T15:12:19Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,24 +7,6 @@
  ],
  "private_stubbed": 59,
  "prs": [
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 520,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "needs_work",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 514,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "unreviewed",
-   "priv": true
-  },
   {
    "repo": "marcuspat/html-sites",
    "number": 31,
@@ -59,6 +41,24 @@
    "kind": "ours",
    "updated": "2026-10-05",
    "g": "needs_work",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 520,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "needs_work",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 514,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "unreviewed",
    "priv": true
   },
   {
@@ -280,41 +280,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/ancuria",
-   "number": 519,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 518,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 517,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 516,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 515,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/html-sites",
    "number": 46,
    "title": "(private repo)",
@@ -375,6 +340,41 @@
    "number": 36,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 519,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 518,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 517,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 516,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 515,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
    "priv": true
   },
   {
@@ -771,12 +771,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T14:37:01Z",
+  "start": "2026-10-02T15:07:01Z",
   "total": 207,
   "repos": {
+   "marcuspat/html-sites": 25,
    "marcuspat/ancuria": 21,
    "marcuspat/pr-board-public": 1,
-   "marcuspat/html-sites": 25,
    "marcuspat/turbo-flow": 13,
    "marcuspat/cargocrypt": 12,
    "marcuspat/k8s-netinspect": 3,
@@ -833,8 +833,8 @@
    "2026-10-08": 32,
    "2026-10-07": 80,
    "2026-10-06": 13,
-   "2026-10-04": 32,
    "2026-10-05": 8,
+   "2026-10-04": 32,
    "2026-10-03": 2
   }
  },
@@ -913,9 +913,9 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-09T13:12:22Z",
-  "runs_7d": 868,
-  "failures_7d": 166,
+  "asof": "2026-10-09T15:12:19Z",
+  "runs_7d": 870,
+  "failures_7d": 167,
   "repos_active_7d": 31,
   "workflows": 82,
   "red": [
@@ -1007,14 +1007,14 @@
     "repo": "marcuspat/ancuria",
     "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-10-08 14:43",
+    "at": "2026-10-09 14:44",
     "url": ""
    },
    {
     "repo": "marcuspat/html-sites",
     "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-10-09 09:52",
+    "at": "2026-10-09 15:02",
     "url": ""
    },
    {
