@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-09T22:39:32Z",
+ "generated": "2026-10-09T23:11:57Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
   "creandotumatrix-labs"
  ],
- "private_stubbed": 59,
+ "private_stubbed": 64,
  "prs": [
   {
    "repo": "marcuspat/turbo-rig",
@@ -32,6 +32,42 @@
    "kind": "ours",
    "updated": "2026-10-09",
    "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 31,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-07",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 28,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 27,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-06",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 25,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-05",
+   "g": "needs_work",
    "priv": true
   },
   {
@@ -83,42 +119,6 @@
    "updated": "2026-10-09",
    "g": "bots",
    "note": "automated bump - never gated"
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 31,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-07",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 28,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-06",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 27,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-06",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 25,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-05",
-   "g": "needs_work",
-   "priv": true
   },
   {
    "repo": "marcuspat/marcuspat",
@@ -365,10 +365,18 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/cargocrypt",
+   "repo": "marcuspat/marcuspatman.space",
    "number": 16,
-   "title": "crates.io: homepage -> AW Labs project page (publishes 0.3.0)",
-   "mergedAt": "2026-10-09"
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/marcuspatman.space",
+   "number": 13,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
   },
   {
    "repo": "marcuspat/html-sites",
@@ -413,6 +421,40 @@
    "priv": true
   },
   {
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 27,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 26,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 23,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventurewavelabs-website",
+   "number": 22,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/cargocrypt",
+   "number": 16,
+   "title": "crates.io: homepage -> AW Labs project page (publishes 0.3.0)",
+   "mergedAt": "2026-10-09"
+  },
+  {
    "repo": "marcuspat/turbo-flow",
    "number": 74,
    "title": "add the 5-window tmux workspace \u2014 boot lands inside the rig (claude \u00b7 claude+ruflo \u00b7 codex",
@@ -449,20 +491,6 @@
    "mergedAt": "2026-10-09"
   },
   {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 23,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 22,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/file-hasher",
    "number": 2,
    "title": "crates.io: homepage -> AW Labs project page (file-hasher 0.1.0 -> 0.1.1)",
@@ -473,27 +501,6 @@
    "number": 41,
    "title": "crates.io: homepage -> AW Labs project page (netrain 0.2.9 -> 0.2.10)",
    "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 27,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 26,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 25,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
   },
   {
    "repo": "marcuspat/h20healer",
@@ -559,20 +566,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/marcuspatman.space",
-   "number": 16,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/marcuspatman.space",
-   "number": 13,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/cargo-forge",
    "number": 6,
    "title": "chore: homepage -> AW Labs project page (v0.1.7)",
@@ -613,20 +606,6 @@
    "mergedAt": "2026-10-09"
   },
   {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 27,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 26,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
    "repo": "creandotumatrix-labs/AgenticsMexico",
    "number": 12,
    "title": "(private repo)",
@@ -646,27 +625,41 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
+  },
+  {
+   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
+   "number": 27,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
+   "number": 26,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T22:37:01Z",
+  "start": "2026-10-02T23:07:01Z",
   "total": 207,
   "repos": {
    "marcuspat/turbo-rig": 6,
    "marcuspat/ancuria": 21,
+   "marcuspat/marcuspatman.space": 11,
+   "marcuspat/html-sites": 25,
+   "marcuspat/creandotumatrix-site": 9,
+   "marcuspat/adventurewavelabs-website": 9,
    "marcuspat/pr-board-public": 1,
    "marcuspat/cargocrypt": 12,
-   "marcuspat/html-sites": 25,
    "marcuspat/turbo-flow": 13,
    "marcuspat/k8s-netinspect": 3,
-   "marcuspat/adventurewavelabs-website": 9,
    "marcuspat/file-hasher": 2,
    "marcuspat/netrain": 4,
-   "marcuspat/creandotumatrix-site": 9,
    "marcuspat/h20healer": 5,
    "marcuspat/sdelic_org": 8,
    "marcuspat/agenticplatformengineering": 4,
-   "marcuspat/marcuspatman.space": 11,
    "marcuspat/cargo-forge": 3,
    "marcuspat/adventure-wave-explorer": 6,
    "marcuspat/velvet-bbs": 3,
@@ -699,8 +692,8 @@
    "adventurewave-labs/turbo-brain-v2": 2,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/excavate": 1,
-   "creandotumatrix-labs/marce-garcia-casas-vallarta": 9,
    "creandotumatrix-labs/AgenticsMexico": 4,
+   "creandotumatrix-labs/marce-garcia-casas-vallarta": 9,
    "creandotumatrix-labs/asistente-pedidos": 1,
    "creandotumatrix-labs/asistente-comercial": 1,
    "creandotumatrix-labs/.github": 1,
@@ -791,9 +784,9 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-09T21:12:04Z",
-  "runs_7d": 869,
-  "failures_7d": 171,
+  "asof": "2026-10-09T23:11:57Z",
+  "runs_7d": 881,
+  "failures_7d": 173,
   "repos_active_7d": 31,
   "workflows": 82,
   "red": [
@@ -889,11 +882,11 @@
     "url": ""
    },
    {
-    "repo": "marcuspat/html-sites",
-    "workflow": "(private repo)",
+    "repo": "marcuspat/cargocrypt",
+    "workflow": "ci",
     "status": "failure",
-    "at": "2026-10-09 16:01",
-    "url": ""
+    "at": "2026-10-09 22:05",
+    "url": "https://github.com/marcuspat/cargocrypt/actions/runs/37997306638"
    },
    {
     "repo": "marcuspat/html-sites",
