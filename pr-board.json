@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T01:39:25Z",
+ "generated": "2026-10-09T02:09:47Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,15 +7,6 @@
  ],
  "private_stubbed": 59,
  "prs": [
-  {
-   "repo": "marcuspat/h20healer",
-   "number": 13,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "unreviewed",
-   "priv": true
-  },
   {
    "repo": "marcuspat/ancuria",
    "number": 519,
@@ -40,6 +31,15 @@
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-08",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/h20healer",
+   "number": 13,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
    "g": "unreviewed",
    "priv": true
   },
@@ -335,20 +335,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/h20healer",
-   "number": 12,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/h20healer",
-   "number": 11,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/ancuria",
    "number": 517,
    "title": "(private repo)",
@@ -367,6 +353,20 @@
    "number": 515,
    "title": "(private repo)",
    "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/h20healer",
+   "number": 12,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/h20healer",
+   "number": 11,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
    "priv": true
   },
   {
@@ -647,12 +647,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T01:37:02Z",
+  "start": "2026-10-02T02:07:01Z",
   "total": 180,
   "repos": {
-   "marcuspat/h20healer": 4,
-   "marcuspat/pr-board-public": 1,
    "marcuspat/ancuria": 19,
+   "marcuspat/pr-board-public": 1,
+   "marcuspat/h20healer": 4,
    "marcuspat/html-sites": 21,
    "marcuspat/turbo-rig": 6,
    "marcuspat/sdelic_org": 7,
