@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T21:12:04Z",
+ "generated": "2026-10-09T21:39:34Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -322,13 +322,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/turbo-rig",
-   "number": 44,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/html-sites",
    "number": 46,
    "title": "(private repo)",
@@ -368,13 +361,6 @@
    "number": 41,
    "title": "(private repo)",
    "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 40,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
    "priv": true
   },
   {
@@ -428,12 +414,6 @@
    "mergedAt": "2026-10-09"
   },
   {
-   "repo": "marcuspat/turbo-flow",
-   "number": 68,
-   "title": "README EN/ES: withdrawn 116-task claim replaced by the audited record (badge too)",
-   "mergedAt": "2026-10-08"
-  },
-  {
    "repo": "marcuspat/cargocrypt",
    "number": 16,
    "title": "crates.io: homepage -> AW Labs project page (publishes 0.3.0)",
@@ -462,13 +442,6 @@
   {
    "repo": "marcuspat/adventurewavelabs-website",
    "number": 21,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 20,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
@@ -509,20 +482,6 @@
   {
    "repo": "marcuspat/creandotumatrix-site",
    "number": 23,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 22,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 21,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
@@ -591,13 +550,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/agenticplatformengineering",
-   "number": 9,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/marcuspatman.space",
    "number": 16,
    "title": "(private repo)",
@@ -626,13 +578,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/marcuspatman.space",
-   "number": 12,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/cargo-forge",
    "number": 6,
    "title": "chore: homepage -> AW Labs project page (v0.1.7)",
@@ -655,13 +600,6 @@
   {
    "repo": "marcuspat/velvet-bbs",
    "number": 13,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/velvet-bbs",
-   "number": 12,
    "title": "(private repo)",
    "mergedAt": "2026-10-08",
    "priv": true
@@ -708,13 +646,6 @@
    "priv": true
   },
   {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 25,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
    "repo": "creandotumatrix-labs/AgenticsMexico",
    "number": 12,
    "title": "(private repo)",
@@ -737,7 +668,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T21:07:01Z",
+  "start": "2026-10-02T21:37:01Z",
   "total": 207,
   "repos": {
    "marcuspat/ancuria": 21,
