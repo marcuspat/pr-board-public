@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T06:09:34Z",
+ "generated": "2026-10-09T06:39:31Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,16 +7,6 @@
  ],
  "private_stubbed": 59,
  "prs": [
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 71,
-   "title": "fix: devcontainer presents the harness menu on first boot (setup-harness runs last)",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "needs_work",
-   "note": "gate REVISE 2026-10-09"
-  },
   {
    "repo": "marcuspat/ancuria",
    "number": 520,
@@ -308,6 +298,47 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/ancuria",
+   "number": 519,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 518,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 517,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 516,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-08",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 515,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 71,
+   "title": "fix: devcontainer presents the harness menu on first boot (setup-harness runs last)",
+   "mergedAt": "2026-10-09"
+  },
+  {
    "repo": "marcuspat/turbo-flow",
    "number": 70,
    "title": "README: correct the withdrawal note \u2014 the 116-task result is real and external (Xiang et a",
@@ -404,41 +435,6 @@
    "number": 41,
    "title": "crates.io: homepage -> AW Labs project page (netrain 0.2.9 -> 0.2.10)",
    "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 519,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 518,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 517,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 516,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 515,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
   },
   {
    "repo": "marcuspat/html-sites",
@@ -747,17 +743,17 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T06:07:01Z",
-  "total": 199,
+  "start": "2026-10-02T06:37:01Z",
+  "total": 200,
   "repos": {
-   "marcuspat/turbo-flow": 9,
+   "marcuspat/ancuria": 21,
+   "marcuspat/turbo-flow": 10,
+   "marcuspat/pr-board-public": 1,
    "marcuspat/cargocrypt": 12,
    "marcuspat/k8s-netinspect": 3,
    "marcuspat/adventurewavelabs-website": 9,
    "marcuspat/file-hasher": 2,
    "marcuspat/netrain": 4,
-   "marcuspat/ancuria": 21,
-   "marcuspat/pr-board-public": 1,
    "marcuspat/html-sites": 24,
    "marcuspat/creandotumatrix-site": 9,
    "marcuspat/h20healer": 5,
@@ -804,16 +800,25 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
+   "2026-10-09": 33,
    "2026-10-08": 32,
-   "2026-10-09": 32,
    "2026-10-07": 80,
-   "2026-10-04": 32,
    "2026-10-06": 13,
+   "2026-10-04": 32,
    "2026-10-05": 8,
    "2026-10-03": 2
   }
  },
  "issues": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 473,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-09-28",
+   "bucket": "actionable",
+   "priv": true
+  },
   {
    "repo": "marcuspat/turbo-flow",
    "number": 61,
@@ -849,15 +854,6 @@
    "kind": "ours",
    "updated": "2026-08-08",
    "bucket": "stale"
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 473,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-09-28",
-   "bucket": "actionable",
-   "priv": true
   },
   {
    "repo": "marcuspat/cargo-forge",
