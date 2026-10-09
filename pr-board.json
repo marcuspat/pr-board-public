@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T18:39:49Z",
+ "generated": "2026-10-09T19:12:06Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -488,13 +488,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 17,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/file-hasher",
    "number": 2,
    "title": "crates.io: homepage -> AW Labs project page (file-hasher 0.1.0 -> 0.1.1)",
@@ -715,12 +708,6 @@
    "mergedAt": "2026-10-09"
   },
   {
-   "repo": "adventurewave-labs/.github",
-   "number": 8,
-   "title": "profile: canonical Turbo Flow story (v5 rules layer); founder line names Turbo Rig",
-   "mergedAt": "2026-10-08"
-  },
-  {
    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
    "number": 27,
    "title": "(private repo)",
@@ -764,12 +751,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T18:37:01Z",
+  "start": "2026-10-02T19:07:02Z",
   "total": 207,
   "repos": {
    "marcuspat/ancuria": 21,
-   "marcuspat/turbo-rig": 6,
    "marcuspat/pr-board-public": 1,
+   "marcuspat/turbo-rig": 6,
    "marcuspat/html-sites": 25,
    "marcuspat/turbo-flow": 13,
    "marcuspat/cargocrypt": 12,
@@ -906,8 +893,8 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-09T17:14:00Z",
-  "runs_7d": 870,
+  "asof": "2026-10-09T19:12:06Z",
+  "runs_7d": 869,
   "failures_7d": 171,
   "repos_active_7d": 31,
   "workflows": 82,
