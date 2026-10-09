@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T09:12:14Z",
+ "generated": "2026-10-09T09:39:32Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -9,23 +9,13 @@
  "prs": [
   {
    "repo": "marcuspat/turbo-flow",
-   "number": 74,
-   "title": "add the 5-window tmux workspace \u2014 boot lands inside the rig (claude \u00b7 claude+ruflo \u00b7 codex",
-   "author": "marcuspat",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-09 - re-gate"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
    "number": 73,
    "title": "fix: harness installs are visible and land on PATH immediately",
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-09",
-   "g": "stale",
-   "note": "commits after verdict 2026-10-09 - re-gate"
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-09"
   },
   {
    "repo": "marcuspat/ancuria",
@@ -299,6 +289,12 @@
   }
  ],
  "merged_24h": [
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 74,
+   "title": "add the 5-window tmux workspace \u2014 boot lands inside the rig (claude \u00b7 claude+ruflo \u00b7 codex",
+   "mergedAt": "2026-10-09"
+  },
   {
    "repo": "marcuspat/turbo-flow",
    "number": 72,
@@ -772,10 +768,10 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T09:07:01Z",
-  "total": 204,
+  "start": "2026-10-02T09:37:01Z",
+  "total": 205,
   "repos": {
-   "marcuspat/turbo-flow": 11,
+   "marcuspat/turbo-flow": 12,
    "marcuspat/ancuria": 21,
    "marcuspat/pr-board-public": 1,
    "marcuspat/cargocrypt": 12,
@@ -830,7 +826,7 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
-   "2026-10-09": 37,
+   "2026-10-09": 38,
    "2026-10-08": 32,
    "2026-10-07": 80,
    "2026-10-06": 13,
