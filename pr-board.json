@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T16:10:21Z",
+ "generated": "2026-10-10T16:40:23Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -376,13 +376,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/sdelic_org",
-   "number": 15,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-10",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/ancuria",
    "number": 525,
    "title": "(private repo)",
@@ -406,6 +399,13 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 520,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/sdelic_org",
+   "number": 15,
    "title": "(private repo)",
    "mergedAt": "2026-10-10",
    "priv": true
@@ -544,13 +544,13 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-03T16:07:01Z",
+  "start": "2026-10-03T16:37:01Z",
   "total": 231,
   "repos": {
-   "marcuspat/sdelic_org": 9,
    "marcuspat/ancuria": 25,
-   "marcuspat/pr-board-public": 1,
    "marcuspat/turbo-rig": 6,
+   "marcuspat/pr-board-public": 1,
+   "marcuspat/sdelic_org": 9,
    "marcuspat/html-sites": 28,
    "marcuspat/turbo-flow": 14,
    "marcuspat/adventure-wave-explorer": 6,
@@ -604,8 +604,8 @@
   "day": {
    "2026-10-10": 24,
    "2026-10-09": 40,
-   "2026-10-07": 80,
    "2026-10-08": 32,
+   "2026-10-07": 80,
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
