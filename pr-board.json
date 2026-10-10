@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T08:39:37Z",
+ "generated": "2026-10-10T09:11:55Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -524,27 +524,6 @@
    "priv": true
   },
   {
-   "repo": "adventurewave-labs/brain-vault",
-   "number": 5,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/brain-vault",
-   "number": 4,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/brain-vault",
-   "number": 3,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
    "repo": "creandotumatrix-labs/AgenticsMexico",
    "number": 19,
    "title": "(private repo)",
@@ -588,7 +567,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-03T08:37:01Z",
+  "start": "2026-10-03T09:07:01Z",
   "total": 230,
   "repos": {
    "marcuspat/ancuria": 25,
@@ -731,8 +710,8 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-10T07:11:53Z",
-  "runs_7d": 921,
+  "asof": "2026-10-10T09:11:55Z",
+  "runs_7d": 925,
   "failures_7d": 185,
   "repos_active_7d": 31,
   "workflows": 82,
