@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T01:12:37Z",
+ "generated": "2026-10-10T01:39:42Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,15 @@
  ],
  "private_stubbed": 65,
  "prs": [
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 46,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/ancuria",
    "number": 520,
@@ -19,15 +28,6 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 514,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 46,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-09",
@@ -510,12 +510,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-03T01:07:01Z",
+  "start": "2026-10-03T01:37:01Z",
   "total": 207,
   "repos": {
-   "marcuspat/ancuria": 21,
    "marcuspat/pr-board-public": 1,
    "marcuspat/turbo-rig": 6,
+   "marcuspat/ancuria": 21,
    "marcuspat/marcuspatman.space": 11,
    "marcuspat/html-sites": 25,
    "marcuspat/creandotumatrix-site": 9,
@@ -568,11 +568,11 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
-   "2026-10-09": 40,
-   "2026-10-08": 32,
    "2026-10-07": 80,
-   "2026-10-06": 13,
+   "2026-10-08": 32,
    "2026-10-04": 32,
+   "2026-10-09": 40,
+   "2026-10-06": 13,
    "2026-10-05": 8,
    "2026-10-03": 2
   }
