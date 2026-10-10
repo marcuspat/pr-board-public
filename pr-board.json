@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T10:09:34Z",
+ "generated": "2026-10-10T10:39:34Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -376,12 +376,6 @@
  ],
  "merged_24h": [
   {
-   "repo": "marcuspat/turbo-flow",
-   "number": 75,
-   "title": "fix: tmux windows arrive READY \u2014 the CLIs actually launch in them",
-   "mergedAt": "2026-10-10"
-  },
-  {
    "repo": "marcuspat/ancuria",
    "number": 525,
    "title": "(private repo)",
@@ -408,6 +402,12 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-10",
    "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 75,
+   "title": "fix: tmux windows arrive READY \u2014 the CLIs actually launch in them",
+   "mergedAt": "2026-10-10"
   },
   {
    "repo": "marcuspat/agenticplatformengineering",
@@ -544,12 +544,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-03T10:07:01Z",
+  "start": "2026-10-03T10:37:01Z",
   "total": 231,
   "repos": {
-   "marcuspat/turbo-flow": 14,
    "marcuspat/ancuria": 25,
    "marcuspat/pr-board-public": 1,
+   "marcuspat/turbo-flow": 14,
    "marcuspat/turbo-rig": 6,
    "marcuspat/adventure-wave-explorer": 6,
    "marcuspat/agenticplatformengineering": 7,
@@ -614,6 +614,15 @@
  },
  "issues": [
   {
+   "repo": "marcuspat/ancuria",
+   "number": 473,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-09-28",
+   "bucket": "actionable",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/turbo-flow",
    "number": 61,
    "title": "tmux auto-attach (#59): gate findings landed unaddressed on main",
@@ -639,15 +648,6 @@
    "kind": "ours",
    "updated": "2026-09-22",
    "bucket": "actionable"
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 473,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-09-28",
-   "bucket": "actionable",
-   "priv": true
   },
   {
    "repo": "marcuspat/netrain",
