@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T03:39:35Z",
+ "generated": "2026-10-10T04:09:33Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -10,33 +10,6 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 523,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-10",
-   "g": "green",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 522,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-10",
-   "g": "green",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 521,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-10",
-   "g": "green",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 520,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-10",
@@ -371,9 +344,39 @@
    "updated": "2026-10-09",
    "g": "needs_work",
    "priv": true
+  },
+  {
+   "repo": "creandotumatrix-labs/AgenticsMexico",
+   "number": 14,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-10",
+   "g": "unreviewed",
+   "priv": true
   }
  ],
  "merged_24h": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 524,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 522,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 520,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
   {
    "repo": "marcuspat/creandotumatrix-site",
    "number": 28,
@@ -548,24 +551,31 @@
   },
   {
    "repo": "creandotumatrix-labs/AgenticsMexico",
-   "number": 13,
+   "number": 16,
    "title": "(private repo)",
    "mergedAt": "2026-10-10",
    "priv": true
   },
   {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 27,
+   "repo": "creandotumatrix-labs/AgenticsMexico",
+   "number": 15,
    "title": "(private repo)",
-   "mergedAt": "2026-10-09",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "creandotumatrix-labs/AgenticsMexico",
+   "number": 13,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
    "priv": true
   }
  ],
  "merged_7d": {
-  "start": "2026-10-03T03:37:01Z",
-  "total": 215,
+  "start": "2026-10-03T04:07:01Z",
+  "total": 220,
   "repos": {
-   "marcuspat/ancuria": 21,
+   "marcuspat/ancuria": 24,
    "marcuspat/pr-board-public": 1,
    "marcuspat/turbo-rig": 6,
    "marcuspat/creandotumatrix-site": 10,
@@ -612,7 +622,7 @@
    "adventurewave-labs/turbo-brain-v2": 2,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/excavate": 1,
-   "creandotumatrix-labs/AgenticsMexico": 5,
+   "creandotumatrix-labs/AgenticsMexico": 7,
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 9,
    "creandotumatrix-labs/asistente-pedidos": 1,
    "creandotumatrix-labs/asistente-comercial": 1,
@@ -620,13 +630,13 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
+   "2026-10-10": 13,
    "2026-10-09": 40,
    "2026-10-08": 32,
    "2026-10-07": 80,
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-10-10": 8,
    "2026-10-03": 2
   }
  },
