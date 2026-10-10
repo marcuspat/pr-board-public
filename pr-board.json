@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T00:39:34Z",
+ "generated": "2026-10-10T01:12:37Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,15 +7,6 @@
  ],
  "private_stubbed": 65,
  "prs": [
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 46,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "unreviewed",
-   "priv": true
-  },
   {
    "repo": "marcuspat/ancuria",
    "number": 520,
@@ -28,6 +19,15 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 514,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 46,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-09",
@@ -510,12 +510,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-03T00:37:01Z",
+  "start": "2026-10-03T01:07:01Z",
   "total": 207,
   "repos": {
-   "marcuspat/turbo-rig": 6,
-   "marcuspat/pr-board-public": 1,
    "marcuspat/ancuria": 21,
+   "marcuspat/pr-board-public": 1,
+   "marcuspat/turbo-rig": 6,
    "marcuspat/marcuspatman.space": 11,
    "marcuspat/html-sites": 25,
    "marcuspat/creandotumatrix-site": 9,
@@ -568,11 +568,11 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
+   "2026-10-09": 40,
    "2026-10-08": 32,
    "2026-10-07": 80,
-   "2026-10-04": 32,
-   "2026-10-09": 40,
    "2026-10-06": 13,
+   "2026-10-04": 32,
    "2026-10-05": 8,
    "2026-10-03": 2
   }
@@ -652,9 +652,9 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-09T23:11:57Z",
-  "runs_7d": 881,
-  "failures_7d": 173,
+  "asof": "2026-10-10T01:12:37Z",
+  "runs_7d": 885,
+  "failures_7d": 174,
   "repos_active_7d": 31,
   "workflows": 82,
   "red": [
@@ -755,6 +755,13 @@
     "status": "failure",
     "at": "2026-10-09 22:05",
     "url": "https://github.com/marcuspat/cargocrypt/actions/runs/37997306638"
+   },
+   {
+    "repo": "marcuspat/html-sites",
+    "workflow": "(private repo)",
+    "status": "failure",
+    "at": "2026-10-10 00:50",
+    "url": ""
    },
    {
     "repo": "marcuspat/html-sites",
