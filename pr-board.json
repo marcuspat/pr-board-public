@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T05:39:41Z",
+ "generated": "2026-10-10T06:09:49Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -146,7 +146,7 @@
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-10",
-   "g": "unreviewed",
+   "g": "green",
    "priv": true
   },
   {
@@ -155,7 +155,7 @@
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-10",
-   "g": "unreviewed",
+   "g": "green",
    "priv": true
   },
   {
@@ -164,7 +164,7 @@
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-10",
-   "g": "unreviewed",
+   "g": "green",
    "priv": true
   },
   {
@@ -174,8 +174,8 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-10",
-   "g": "unreviewed",
-   "note": "no gate review yet"
+   "g": "green",
+   "note": "gate APPROVED 2026-10-10"
   },
   {
    "repo": "adventurewave-labs/brain-vault",
@@ -459,12 +459,6 @@
    "mergedAt": "2026-10-09"
   },
   {
-   "repo": "marcuspat/turbo-flow",
-   "number": 69,
-   "title": "demo: the harness boot gif \u2014 pick a harness, get a rig (one real take)",
-   "mergedAt": "2026-10-09"
-  },
-  {
    "repo": "marcuspat/h20healer",
    "number": 15,
    "title": "(private repo)",
@@ -535,42 +529,11 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 23,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/marcuspatman.space",
    "number": 17,
    "title": "(private repo)",
    "mergedAt": "2026-10-10",
    "priv": true
-  },
-  {
-   "repo": "marcuspat/cargocrypt",
-   "number": 16,
-   "title": "crates.io: homepage -> AW Labs project page (publishes 0.3.0)",
-   "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/k8s-netinspect",
-   "number": 4,
-   "title": "crates.io: homepage -> AW Labs project page (publishes 0.2.0)",
-   "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/file-hasher",
-   "number": 2,
-   "title": "crates.io: homepage -> AW Labs project page (file-hasher 0.1.0 -> 0.1.1)",
-   "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/netrain",
-   "number": 41,
-   "title": "crates.io: homepage -> AW Labs project page (netrain 0.2.9 -> 0.2.10)",
-   "mergedAt": "2026-10-09"
   },
   {
    "repo": "adventurewave-labs/brain-vault",
@@ -592,12 +555,6 @@
    "title": "(private repo)",
    "mergedAt": "2026-10-09",
    "priv": true
-  },
-  {
-   "repo": "adventurewave-labs/secret-scan",
-   "number": 8,
-   "title": "crates.io: homepage -> AW Labs project page (secretscan 0.2.3 -> 0.2.4)",
-   "mergedAt": "2026-10-09"
   },
   {
    "repo": "creandotumatrix-labs/AgenticsMexico",
@@ -643,14 +600,14 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-03T05:37:01Z",
+  "start": "2026-10-03T06:07:02Z",
   "total": 230,
   "repos": {
    "marcuspat/ancuria": 25,
+   "marcuspat/pr-board-public": 1,
    "marcuspat/adventure-wave-explorer": 6,
    "marcuspat/agenticplatformengineering": 7,
    "marcuspat/turbo-flow": 13,
-   "marcuspat/pr-board-public": 1,
    "marcuspat/h20healer": 7,
    "marcuspat/turbo-rig": 6,
    "marcuspat/creandotumatrix-site": 11,
