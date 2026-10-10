@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T06:09:49Z",
+ "generated": "2026-10-10T06:39:35Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -10,6 +10,15 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 514,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 46,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-09",
@@ -34,15 +43,6 @@
    "updated": "2026-10-10",
    "g": "needs_work",
    "note": "gate REVISE 2026-10-10"
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 46,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "unreviewed",
-   "priv": true
   },
   {
    "repo": "marcuspat/html-sites",
@@ -453,12 +453,6 @@
    "mergedAt": "2026-10-09"
   },
   {
-   "repo": "marcuspat/turbo-flow",
-   "number": 71,
-   "title": "fix: devcontainer presents the harness menu on first boot (setup-harness runs last)",
-   "mergedAt": "2026-10-09"
-  },
-  {
    "repo": "marcuspat/h20healer",
    "number": 15,
    "title": "(private repo)",
@@ -600,16 +594,16 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-03T06:07:02Z",
+  "start": "2026-10-03T06:37:01Z",
   "total": 230,
   "repos": {
    "marcuspat/ancuria": 25,
+   "marcuspat/turbo-rig": 6,
    "marcuspat/pr-board-public": 1,
    "marcuspat/adventure-wave-explorer": 6,
    "marcuspat/agenticplatformengineering": 7,
    "marcuspat/turbo-flow": 13,
    "marcuspat/h20healer": 7,
-   "marcuspat/turbo-rig": 6,
    "marcuspat/creandotumatrix-site": 11,
    "marcuspat/html-sites": 28,
    "marcuspat/sdelic_org": 9,
