@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T07:11:53Z",
+ "generated": "2026-10-10T07:39:34Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -447,12 +447,6 @@
    "mergedAt": "2026-10-09"
   },
   {
-   "repo": "marcuspat/turbo-flow",
-   "number": 72,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-09"
-  },
-  {
    "repo": "marcuspat/h20healer",
    "number": 15,
    "title": "(private repo)",
@@ -594,12 +588,12 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-03T07:07:01Z",
+  "start": "2026-10-03T07:37:01Z",
   "total": 230,
   "repos": {
    "marcuspat/ancuria": 25,
-   "marcuspat/turbo-rig": 6,
    "marcuspat/pr-board-public": 1,
+   "marcuspat/turbo-rig": 6,
    "marcuspat/adventure-wave-explorer": 6,
    "marcuspat/agenticplatformengineering": 7,
    "marcuspat/turbo-flow": 13,
