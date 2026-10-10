@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T09:11:55Z",
+ "generated": "2026-10-10T09:39:34Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -436,12 +436,6 @@
   },
   {
    "repo": "marcuspat/turbo-flow",
-   "number": 74,
-   "title": "add the 5-window tmux workspace \u2014 boot lands inside the rig (claude \u00b7 claude+ruflo \u00b7 codex",
-   "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
    "number": 73,
    "title": "fix: harness installs are visible and land on PATH immediately",
    "mergedAt": "2026-10-09"
@@ -567,7 +561,7 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-03T09:07:01Z",
+  "start": "2026-10-03T09:37:01Z",
   "total": 230,
   "repos": {
    "marcuspat/ancuria": 25,
