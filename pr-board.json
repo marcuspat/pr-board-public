@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T03:12:04Z",
+ "generated": "2026-10-10T03:39:35Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -46,6 +46,15 @@
   {
    "repo": "marcuspat/ancuria",
    "number": 514,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 46,
    "title": "(private repo)",
    "kind": "ours",
    "updated": "2026-10-09",
@@ -104,15 +113,6 @@
    "kind": "ours",
    "updated": "2026-10-05",
    "g": "needs_work",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 46,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "unreviewed",
    "priv": true
   },
   {
@@ -452,13 +452,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/h20healer",
-   "number": 13,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/marcuspatman.space",
    "number": 17,
    "title": "(private repo)",
@@ -554,6 +547,13 @@
    "mergedAt": "2026-10-09"
   },
   {
+   "repo": "creandotumatrix-labs/AgenticsMexico",
+   "number": 13,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
    "number": 27,
    "title": "(private repo)",
@@ -562,16 +562,16 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-03T03:07:01Z",
-  "total": 214,
+  "start": "2026-10-03T03:37:01Z",
+  "total": 215,
   "repos": {
    "marcuspat/ancuria": 21,
-   "marcuspat/creandotumatrix-site": 10,
    "marcuspat/pr-board-public": 1,
+   "marcuspat/turbo-rig": 6,
+   "marcuspat/creandotumatrix-site": 10,
    "marcuspat/html-sites": 26,
    "marcuspat/sdelic_org": 9,
    "marcuspat/adventurewavelabs-website": 10,
-   "marcuspat/turbo-rig": 6,
    "marcuspat/h20healer": 6,
    "marcuspat/marcuspatman.space": 12,
    "marcuspat/agenticplatformengineering": 5,
@@ -612,7 +612,7 @@
    "adventurewave-labs/turbo-brain-v2": 2,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/excavate": 1,
-   "creandotumatrix-labs/AgenticsMexico": 4,
+   "creandotumatrix-labs/AgenticsMexico": 5,
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 9,
    "creandotumatrix-labs/asistente-pedidos": 1,
    "creandotumatrix-labs/asistente-comercial": 1,
@@ -626,7 +626,7 @@
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
-   "2026-10-10": 7,
+   "2026-10-10": 8,
    "2026-10-03": 2
   }
  },
