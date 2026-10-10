@@ -1,9 +1,9 @@
 {
  "collector": "ancuria/.github/workflows/ops-monitor.yml",
- "generated": "2026-10-10T07:44:51+00:00",
+ "generated": "2026-10-10T08:25:26+00:00",
  "processes": [
   {
-   "detail": "last run 18.7h ago, took 4s (railway execution record)",
+   "detail": "last run 19.4h ago, took 4s (railway execution record)",
    "duration_s": 4,
    "id": "market-aggregation",
    "last_run": "2026-10-09T13:04:32Z",
@@ -13,13 +13,13 @@
    "verdict": "ok"
   },
   {
-   "backup_age_h": 23.7,
+   "backup_age_h": 0.4,
    "backup_size_mb": 4,
-   "detail": "newest dump 23.7h old, 4 MB in R2 (the artifact itself)",
-   "duration_s": 5,
+   "detail": "newest dump 0.4h old, 4 MB in R2 (the artifact itself)",
+   "duration_s": 10,
    "id": "db-backup",
-   "last_backup": "2026-10-09T08:03:25Z",
-   "last_run": "2026-10-09T08:03:21Z",
+   "last_backup": "2026-10-10T08:00:59Z",
+   "last_run": "2026-10-10T08:00:55Z",
    "run_status": "EXITED",
    "schedule": "daily 02:00 CST (08:00 UTC)",
    "source": "railway api: deploymentInstanceExecutions + r2: ListObjectsV2 backups/",
