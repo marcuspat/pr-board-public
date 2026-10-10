@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T05:13:52Z",
+ "generated": "2026-10-10T05:39:41Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,43 @@
  ],
  "private_stubbed": 65,
  "prs": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 514,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventure-wave-explorer",
+   "number": 32,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-10",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 75,
+   "title": "fix: tmux windows arrive READY \u2014 the CLIs actually launch in them",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-10",
+   "g": "needs_work",
+   "note": "gate REVISE 2026-10-10"
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 46,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/html-sites",
    "number": 31,
@@ -41,24 +78,6 @@
    "kind": "ours",
    "updated": "2026-10-05",
    "g": "needs_work",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 514,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 46,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "unreviewed",
    "priv": true
   },
   {
@@ -118,6 +137,43 @@
    "author": "marcuspat",
    "kind": "ours",
    "updated": "2026-10-07",
+   "g": "unreviewed",
+   "note": "no gate review yet"
+  },
+  {
+   "repo": "adventurewave-labs/agentic-cybersecurity-development",
+   "number": 3,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-10",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/agentic-cybersecurity-development",
+   "number": 2,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-10",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/agentic-cybersecurity-development",
+   "number": 1,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-10",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "adventurewave-labs/agentic-platform-engineering-extravaganza",
+   "number": 7,
+   "title": "docs: canonical APE definition + link to the open guide",
+   "author": "marcuspat",
+   "kind": "ours",
+   "updated": "2026-10-10",
    "g": "unreviewed",
    "note": "no gate review yet"
   },
@@ -330,8 +386,108 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/ancuria",
+   "number": 525,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 524,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 522,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 520,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/agenticplatformengineering",
+   "number": 15,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/agenticplatformengineering",
+   "number": 14,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/agenticplatformengineering",
    "number": 13,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 74,
+   "title": "add the 5-window tmux workspace \u2014 boot lands inside the rig (claude \u00b7 claude+ruflo \u00b7 codex",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 73,
+   "title": "fix: harness installs are visible and land on PATH immediately",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 72,
+   "title": "Add animated SVG banner",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 71,
+   "title": "fix: devcontainer presents the harness menu on first boot (setup-harness runs last)",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/turbo-flow",
+   "number": 69,
+   "title": "demo: the harness boot gif \u2014 pick a harness, get a rig (one real take)",
+   "mergedAt": "2026-10-09"
+  },
+  {
+   "repo": "marcuspat/h20healer",
+   "number": 15,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/h20healer",
+   "number": 14,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 29,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/creandotumatrix-site",
+   "number": 28,
    "title": "(private repo)",
    "mergedAt": "2026-10-10",
    "priv": true
@@ -365,48 +521,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 45,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 524,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-10",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 522,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-10",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 520,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-10",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 28,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-10",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/creandotumatrix-site",
-   "number": 27,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/sdelic_org",
    "number": 15,
    "title": "(private repo)",
@@ -428,13 +542,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/h20healer",
-   "number": 14,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-10",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/marcuspatman.space",
    "number": 17,
    "title": "(private repo)",
@@ -445,36 +552,6 @@
    "repo": "marcuspat/cargocrypt",
    "number": 16,
    "title": "crates.io: homepage -> AW Labs project page (publishes 0.3.0)",
-   "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 74,
-   "title": "add the 5-window tmux workspace \u2014 boot lands inside the rig (claude \u00b7 claude+ruflo \u00b7 codex",
-   "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 73,
-   "title": "fix: harness installs are visible and land on PATH immediately",
-   "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 72,
-   "title": "Add animated SVG banner",
-   "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 71,
-   "title": "fix: devcontainer presents the harness menu on first boot (setup-harness runs last)",
-   "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/turbo-flow",
-   "number": 69,
-   "title": "demo: the harness boot gif \u2014 pick a harness, get a rig (one real take)",
    "mergedAt": "2026-10-09"
   },
   {
@@ -524,6 +601,20 @@
   },
   {
    "repo": "creandotumatrix-labs/AgenticsMexico",
+   "number": 19,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "creandotumatrix-labs/AgenticsMexico",
+   "number": 18,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "creandotumatrix-labs/AgenticsMexico",
    "number": 17,
    "title": "(private repo)",
    "mergedAt": "2026-10-10",
@@ -552,26 +643,26 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-03T05:07:01Z",
-  "total": 223,
+  "start": "2026-10-03T05:37:01Z",
+  "total": 230,
   "repos": {
-   "marcuspat/agenticplatformengineering": 5,
-   "marcuspat/html-sites": 28,
-   "marcuspat/ancuria": 24,
+   "marcuspat/ancuria": 25,
+   "marcuspat/adventure-wave-explorer": 6,
+   "marcuspat/agenticplatformengineering": 7,
+   "marcuspat/turbo-flow": 13,
    "marcuspat/pr-board-public": 1,
+   "marcuspat/h20healer": 7,
    "marcuspat/turbo-rig": 6,
-   "marcuspat/creandotumatrix-site": 10,
+   "marcuspat/creandotumatrix-site": 11,
+   "marcuspat/html-sites": 28,
    "marcuspat/sdelic_org": 9,
    "marcuspat/adventurewavelabs-website": 10,
-   "marcuspat/h20healer": 6,
    "marcuspat/marcuspatman.space": 12,
    "marcuspat/cargocrypt": 12,
-   "marcuspat/turbo-flow": 13,
    "marcuspat/k8s-netinspect": 3,
    "marcuspat/file-hasher": 2,
    "marcuspat/netrain": 4,
    "marcuspat/cargo-forge": 3,
-   "marcuspat/adventure-wave-explorer": 6,
    "marcuspat/velvet-bbs": 3,
    "marcuspat/turboflowacademy": 1,
    "marcuspat/marcuspat": 1,
@@ -581,12 +672,12 @@
    "marcuspat/Sentinel": 6,
    "marcuspat/vps-status": 1,
    "marcuspat/CMatrix-Landing-Page": 3,
+   "adventurewave-labs/agentic-platform-engineering-extravaganza": 1,
    "adventurewave-labs/pipeline-machine-v2": 1,
    "adventurewave-labs/brain-vault": 3,
    "adventurewave-labs/secret-scan": 2,
    "adventurewave-labs/.github": 2,
    "adventurewave-labs/turbo-flow-wizard": 1,
-   "adventurewave-labs/agentic-platform-engineering-extravaganza": 1,
    "adventurewave-labs/aops-sre-pipeline": 1,
    "adventurewave-labs/gitops-progressive-delivery-demo": 1,
    "adventurewave-labs/agentic-devops-extravaganza": 1,
@@ -602,7 +693,7 @@
    "adventurewave-labs/turbo-brain-v2": 2,
    "adventurewave-labs/debate-killer": 1,
    "adventurewave-labs/excavate": 1,
-   "creandotumatrix-labs/AgenticsMexico": 8,
+   "creandotumatrix-labs/AgenticsMexico": 10,
    "creandotumatrix-labs/marce-garcia-casas-vallarta": 9,
    "creandotumatrix-labs/asistente-pedidos": 1,
    "creandotumatrix-labs/asistente-comercial": 1,
@@ -610,13 +701,13 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
-   "2026-10-10": 16,
+   "2026-10-10": 23,
    "2026-10-09": 40,
    "2026-10-08": 32,
    "2026-10-07": 80,
    "2026-10-06": 13,
-   "2026-10-05": 8,
    "2026-10-04": 32,
+   "2026-10-05": 8,
    "2026-10-03": 2
   }
  },
