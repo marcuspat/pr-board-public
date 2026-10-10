@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T23:39:34Z",
+ "generated": "2026-10-10T00:09:34Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -345,20 +345,6 @@
   },
   {
    "repo": "marcuspat/ancuria",
-   "number": 517,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 516,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
    "number": 515,
    "title": "(private repo)",
    "mergedAt": "2026-10-09",
@@ -414,13 +400,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 41,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/creandotumatrix-site",
    "number": 27,
    "title": "(private repo)",
@@ -439,13 +418,6 @@
    "number": 23,
    "title": "(private repo)",
    "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventurewavelabs-website",
-   "number": 22,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
    "priv": true
   },
   {
@@ -517,13 +489,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/h20healer",
-   "number": 11,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/sdelic_org",
    "number": 14,
    "title": "(private repo)",
@@ -533,13 +498,6 @@
   {
    "repo": "marcuspat/sdelic_org",
    "number": 13,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/sdelic_org",
-   "number": 12,
    "title": "(private repo)",
    "mergedAt": "2026-10-09",
    "priv": true
@@ -570,13 +528,6 @@
    "number": 6,
    "title": "chore: homepage -> AW Labs project page (v0.1.7)",
    "mergedAt": "2026-10-09"
-  },
-  {
-   "repo": "marcuspat/adventure-wave-explorer",
-   "number": 31,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
   },
   {
    "repo": "adventurewave-labs/brain-vault",
@@ -613,36 +564,15 @@
    "priv": true
   },
   {
-   "repo": "creandotumatrix-labs/AgenticsMexico",
-   "number": 11,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
-   "repo": "creandotumatrix-labs/AgenticsMexico",
-   "number": 9,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
-  },
-  {
    "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
    "number": 27,
    "title": "(private repo)",
    "mergedAt": "2026-10-09",
    "priv": true
-  },
-  {
-   "repo": "creandotumatrix-labs/marce-garcia-casas-vallarta",
-   "number": 26,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-08",
-   "priv": true
   }
  ],
  "merged_7d": {
-  "start": "2026-10-02T23:37:01Z",
+  "start": "2026-10-03T00:07:01Z",
   "total": 207,
   "repos": {
    "marcuspat/ancuria": 21,
