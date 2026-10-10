@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T15:40:27Z",
+ "generated": "2026-10-10T16:10:21Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -376,6 +376,13 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/sdelic_org",
+   "number": 15,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/ancuria",
    "number": 525,
    "title": "(private repo)",
@@ -480,13 +487,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/sdelic_org",
-   "number": 15,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-10",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/adventurewavelabs-website",
    "number": 24,
    "title": "(private repo)",
@@ -544,9 +544,10 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-03T15:37:01Z",
+  "start": "2026-10-03T16:07:01Z",
   "total": 231,
   "repos": {
+   "marcuspat/sdelic_org": 9,
    "marcuspat/ancuria": 25,
    "marcuspat/pr-board-public": 1,
    "marcuspat/turbo-rig": 6,
@@ -556,7 +557,6 @@
    "marcuspat/agenticplatformengineering": 7,
    "marcuspat/h20healer": 7,
    "marcuspat/creandotumatrix-site": 11,
-   "marcuspat/sdelic_org": 9,
    "marcuspat/adventurewavelabs-website": 10,
    "marcuspat/marcuspatman.space": 12,
    "marcuspat/cargocrypt": 12,
@@ -604,8 +604,8 @@
   "day": {
    "2026-10-10": 24,
    "2026-10-09": 40,
-   "2026-10-08": 32,
    "2026-10-07": 80,
+   "2026-10-08": 32,
    "2026-10-06": 13,
    "2026-10-04": 32,
    "2026-10-05": 8,
