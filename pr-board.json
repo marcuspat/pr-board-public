@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T14:39:47Z",
+ "generated": "2026-10-10T15:12:55Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,33 +7,6 @@
  ],
  "private_stubbed": 65,
  "prs": [
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 514,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/turbo-rig",
-   "number": 46,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "unreviewed",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/adventure-wave-explorer",
-   "number": 32,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-10",
-   "g": "unreviewed",
-   "priv": true
-  },
   {
    "repo": "marcuspat/html-sites",
    "number": 31,
@@ -68,6 +41,33 @@
    "kind": "ours",
    "updated": "2026-10-05",
    "g": "needs_work",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 514,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/turbo-rig",
+   "number": 46,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "unreviewed",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/adventure-wave-explorer",
+   "number": 32,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-10",
+   "g": "unreviewed",
    "priv": true
   },
   {
@@ -376,6 +376,27 @@
  ],
  "merged_24h": [
   {
+   "repo": "marcuspat/html-sites",
+   "number": 49,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 48,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/html-sites",
+   "number": 47,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/ancuria",
    "number": 525,
    "title": "(private repo)",
@@ -459,27 +480,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/html-sites",
-   "number": 49,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-10",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 48,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-10",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/html-sites",
-   "number": 47,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-10",
-   "priv": true
-  },
-  {
    "repo": "marcuspat/sdelic_org",
    "number": 15,
    "title": "(private repo)",
@@ -544,18 +544,18 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-03T14:37:01Z",
+  "start": "2026-10-03T15:07:01Z",
   "total": 231,
   "repos": {
+   "marcuspat/html-sites": 28,
    "marcuspat/ancuria": 25,
+   "marcuspat/turbo-rig": 6,
    "marcuspat/pr-board-public": 1,
    "marcuspat/turbo-flow": 14,
-   "marcuspat/turbo-rig": 6,
    "marcuspat/adventure-wave-explorer": 6,
    "marcuspat/agenticplatformengineering": 7,
    "marcuspat/h20healer": 7,
    "marcuspat/creandotumatrix-site": 11,
-   "marcuspat/html-sites": 28,
    "marcuspat/sdelic_org": 9,
    "marcuspat/adventurewavelabs-website": 10,
    "marcuspat/marcuspatman.space": 12,
@@ -607,8 +607,8 @@
    "2026-10-08": 32,
    "2026-10-07": 80,
    "2026-10-06": 13,
-   "2026-10-04": 32,
    "2026-10-05": 8,
+   "2026-10-04": 32,
    "2026-10-03": 2
   }
  },
@@ -687,9 +687,9 @@
   }
  ],
  "actions": {
-  "asof": "2026-10-10T13:12:14Z",
-  "runs_7d": 933,
-  "failures_7d": 185,
+  "asof": "2026-10-10T15:12:55Z",
+  "runs_7d": 939,
+  "failures_7d": 187,
   "repos_active_7d": 31,
   "workflows": 82,
   "red": [
@@ -746,7 +746,7 @@
     "repo": "adventurewave-labs/dualbrand-lead-router",
     "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-10-09 15:17",
+    "at": "2026-10-10 14:27",
     "url": ""
    },
    {
@@ -781,7 +781,7 @@
     "repo": "marcuspat/ancuria",
     "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-10-09 14:44",
+    "at": "2026-10-10 14:39",
     "url": ""
    },
    {
@@ -795,7 +795,7 @@
     "repo": "marcuspat/html-sites",
     "workflow": "(private repo)",
     "status": "failure",
-    "at": "2026-10-10 05:02",
+    "at": "2026-10-10 15:02",
     "url": ""
    },
    {
