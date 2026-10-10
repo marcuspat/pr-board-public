@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T01:39:42Z",
+ "generated": "2026-10-10T02:09:36Z",
  "owners": [
   "marcuspat",
   "adventurewave-labs",
@@ -7,6 +7,24 @@
  ],
  "private_stubbed": 65,
  "prs": [
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 520,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-10",
+   "g": "stale",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/ancuria",
+   "number": 514,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-09",
+   "g": "unreviewed",
+   "priv": true
+  },
   {
    "repo": "marcuspat/turbo-rig",
    "number": 46,
@@ -17,20 +35,11 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/ancuria",
-   "number": 520,
+   "repo": "marcuspat/marcuspatman.space",
+   "number": 17,
    "title": "(private repo)",
    "kind": "ours",
-   "updated": "2026-10-09",
-   "g": "needs_work",
-   "priv": true
-  },
-  {
-   "repo": "marcuspat/ancuria",
-   "number": 514,
-   "title": "(private repo)",
-   "kind": "ours",
-   "updated": "2026-10-09",
+   "updated": "2026-10-10",
    "g": "unreviewed",
    "priv": true
   },
@@ -119,6 +128,15 @@
    "updated": "2026-10-09",
    "g": "bots",
    "note": "automated bump - never gated"
+  },
+  {
+   "repo": "marcuspat/h20healer",
+   "number": 14,
+   "title": "(private repo)",
+   "kind": "ours",
+   "updated": "2026-10-10",
+   "g": "unreviewed",
+   "priv": true
   },
   {
    "repo": "marcuspat/marcuspat",
@@ -344,6 +362,20 @@
    "priv": true
   },
   {
+   "repo": "marcuspat/agenticplatformengineering",
+   "number": 13,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-10",
+   "priv": true
+  },
+  {
+   "repo": "marcuspat/agenticplatformengineering",
+   "number": 12,
+   "title": "(private repo)",
+   "mergedAt": "2026-10-09",
+   "priv": true
+  },
+  {
    "repo": "marcuspat/marcuspatman.space",
    "number": 16,
    "title": "(private repo)",
@@ -468,13 +500,6 @@
    "priv": true
   },
   {
-   "repo": "marcuspat/agenticplatformengineering",
-   "number": 12,
-   "title": "(private repo)",
-   "mergedAt": "2026-10-09",
-   "priv": true
-  },
-  {
    "repo": "adventurewave-labs/brain-vault",
    "number": 5,
    "title": "(private repo)",
@@ -510,12 +535,13 @@
   }
  ],
  "merged_7d": {
-  "start": "2026-10-03T01:37:01Z",
-  "total": 207,
+  "start": "2026-10-03T02:07:01Z",
+  "total": 208,
   "repos": {
+   "marcuspat/ancuria": 21,
+   "marcuspat/agenticplatformengineering": 5,
    "marcuspat/pr-board-public": 1,
    "marcuspat/turbo-rig": 6,
-   "marcuspat/ancuria": 21,
    "marcuspat/marcuspatman.space": 11,
    "marcuspat/html-sites": 25,
    "marcuspat/creandotumatrix-site": 9,
@@ -527,7 +553,6 @@
    "marcuspat/netrain": 4,
    "marcuspat/h20healer": 5,
    "marcuspat/sdelic_org": 8,
-   "marcuspat/agenticplatformengineering": 4,
    "marcuspat/cargo-forge": 3,
    "marcuspat/adventure-wave-explorer": 6,
    "marcuspat/velvet-bbs": 3,
@@ -568,12 +593,13 @@
    "creandotumatrix-labs/asistente-de-tienda": 1
   },
   "day": {
-   "2026-10-07": 80,
-   "2026-10-08": 32,
-   "2026-10-04": 32,
    "2026-10-09": 40,
+   "2026-10-08": 32,
+   "2026-10-07": 80,
    "2026-10-06": 13,
+   "2026-10-04": 32,
    "2026-10-05": 8,
+   "2026-10-10": 1,
    "2026-10-03": 2
   }
  },
